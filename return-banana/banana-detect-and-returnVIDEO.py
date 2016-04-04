@@ -16,7 +16,7 @@ success = True
 while success:
     success,frame = video_object.read()
     if success:
-        pathw = "/Users/Gale/Documents/ObjectDetector/return-banana/shots/cadur_" + str(i) + ".bmp"
+        pathw = "/Users/Gale/Documents/ObjectDetector/return-banana/shots/tmpcadur.bmp"
         cv2.imwrite(pathw, frame)
         i = i + 1
         imagePath = pathw;
