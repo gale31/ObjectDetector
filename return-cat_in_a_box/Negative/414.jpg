@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html>
+    <head>
+                                                                <meta charset="UTF-8">
+                                    <meta content="IE=edge" http_equiv="X-UA-Compatible">
+                                    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+                                    <meta name="apple-mobile-web-app-capable" content="yes">
+                                    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+                                    <meta name="google-site-verification" content="345nmLUianZBRPiANsNmXF3DFMx0CTw0nzBYcpPv9TE">
+                                    <meta name="google-site-verification" content="w8O7WSBpiPsaM5a7ClPxLiRNnJYCkw72HxGaiCL0r7M">
+                            
+    
+<title>Qualified Remodeler</title>
+
+
+<meta property="og:title" content="Qualified Remodeler">
+
+
+
+<meta property="og:site_name" content="Qualified Remodeler">
+
+
+                <link rel="apple-touch-icon-precomposed" href="https://s3.amazonaws.com/media.cygnus.com/files/base/sola/frpc/qr/image/static/logo/header_logo.png">
+    <link href="//r1.qualifiedremodeler.com/files/base/sola/frpc/qr/image/static/logo/favicon.ico" rel="shortcut icon" />
+    <link href="//r1.qualifiedremodeler.com/files/base/sola/frpc/qr/image/static/logo/favicon.ico" rel="apple-touch-icon-precomposed" />
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.3.0/paper/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+
+    
+        <link rel="stylesheet" type="text/css" href="http://sola-frpc.baseplatform.io/components/lib.min.css?BASE-PLATFORM-DEP_1037">
+    
+        <link rel="stylesheet" href="/website/alpha/sola/frpc/css/330b206.css?BASE-PLATFORM-DEP_1037" />
+    
+
+                <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://olytics.cygnus.com/sapience.js"></script>
+
+            <script type="text/javascript" src="http://sola-frpc.baseplatform.io/components/lib.min.js?BASE-PLATFORM-DEP_1037"></script>
+        <script type="text/javascript">
+            PlatformComponents.on('CustomerManager.customer.loaded', function() {
+                if (PlatformComponents.hasCustomer() && null !== PlatformComponents.getCustomer().identity) {
+                    Sapience.Tracker.setIdentity(PlatformComponents.getCustomer().identity);
+                }
+            });
+            PlatformComponents.init();
+        </script>
+    
+        
+                
+        
+            <link rel="stylesheet" href="/website/alpha/sola/frpc/css/b4389f7.css?BASE-PLATFORM-DEP_1037" />
+    
+<style type="text/css">
+
+            .nav .section-30793, .tag.section-30793 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30793:hover,
+        .nav .section-30793.active,
+        .bravo .oversized .nav.primary .section-30793,
+        .bravo .nav.primary .section-30793:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30793:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30793.active > a {
+            color: #79a342;
+        }
+            .nav .section-30795, .tag.section-30795 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30795:hover,
+        .nav .section-30795.active,
+        .bravo .oversized .nav.primary .section-30795,
+        .bravo .nav.primary .section-30795:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30795:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30795.active > a {
+            color: #79a342;
+        }
+            .nav .section-30799, .tag.section-30799 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30799:hover,
+        .nav .section-30799.active,
+        .bravo .oversized .nav.primary .section-30799,
+        .bravo .nav.primary .section-30799:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30799:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30799.active > a {
+            color: #79a342;
+        }
+            .nav .section-30802, .tag.section-30802 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30802:hover,
+        .nav .section-30802.active,
+        .bravo .oversized .nav.primary .section-30802,
+        .bravo .nav.primary .section-30802:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30802:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30802.active > a {
+            color: #79a342;
+        }
+            .nav .section-30805, .tag.section-30805 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30805:hover,
+        .nav .section-30805.active,
+        .bravo .oversized .nav.primary .section-30805,
+        .bravo .nav.primary .section-30805:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30805:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30805.active > a {
+            color: #79a342;
+        }
+            .nav .section-30811, .tag.section-30811 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30811:hover,
+        .nav .section-30811.active,
+        .bravo .oversized .nav.primary .section-30811,
+        .bravo .nav.primary .section-30811:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30811:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30811.active > a {
+            color: #79a342;
+        }
+            .nav .section-30817, .tag.section-30817 {
+            border-bottom-color: #79a342;
+        }
+        .nav .section-30817:hover,
+        .nav .section-30817.active,
+        .bravo .oversized .nav.primary .section-30817,
+        .bravo .nav.primary .section-30817:hover > ul {
+            background-color: #79a342;
+        }
+
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30817:hover > a,
+        .bravo #nav-page:not(.oversized) .nav.primary .section-30817.active > a {
+            color: #79a342;
+        }
+            /* Top 500 styling */
+        .bravo .nav.primary .section-30793 a,
+        .bravo .nav.primary .section-30793.active a {
+            color: #cc4a2a !important;
+        }
+</style>
+
+<style type="text/css">
+a,
+a:hover,
+a:visited,
+a:link {
+    color: #000;
+}
+a:hover {
+    color: #79a342;
+    text-decoration: none;
+}
+.body a,
+.body a:hover,
+.body a:visited,
+.body a:link,
+.card.event .date,
+.card.event .date .month,
+.card.event .date .day,
+.list .event .date .day,
+.search .gs-webResult.gs-result a.gs-title:link,
+.search .gs-webResult.gs-result a.gs-title:link b,
+.search .gs-imageResult a.gs-title:link,
+.search .gs-imageResult a.gs-title:link b,
+.search .gsc-results .gsc-cursor-page,
+.calendar.featured .day a.active,
+.calendar.featured .day div.active,
+.calendar.featured .day div[class*="date-"]:hover{
+    color: #79a342 !important;
+}
+.search .gsc-tabsArea,
+.search .gsc-tabHeader {
+    border-color: #79a342 !important;
+}
+.oversized .primary li:not([class^="section-"]),
+.pswp__top-bar,
+footer.page,
+.btn-success,
+.btn-success:hover,
+.btn-success:focus,
+.btn-success.focus,
+.btn-success:active,
+.btn-success.active,
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.pswp__caption button,
+.subscribe span,
+ul.categories li.active > a,
+ul.categories li.active-parent > a,
+.listings .copy,
+.open > .dropdown-toggle.btn-success,
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+    background-color: #79a342 !important;
+    background-image: none;
+}
+textarea:focus, textarea.form-control:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="number"]:focus, .form-control[type="text"]:focus, .form-control[type="password"]:focus {
+    box-shadow: 0 -2px 0 #79a342 inset;
+}
+.search .gsc-control-cse .gs-spelling,
+.search .gsc-control-cse .gs-result .gs-title,
+.search .gs-webResult.gs-result a.gs-title:link,
+.search .gs-webResult.gs-result a.gs-title:link b,
+.search .gs-imageResult a.gs-title:link,
+.search .gs-imageResult a.gs-title:link b,
+.search .gsc-control-cse,
+.search .gs-title {
+    font-family: Roboto Slab, serif !important;
+}
+.search .gsc-control-cse .gsc-table-result,
+.search b, .search strong{
+    font-family: Roboto, sans-serif !important;
+}
+</style>
+
+
+    </head>
+    <body>
+                            
+<header class=" page bravo" data-uri="/images/article/1165413537901_f2_01.jpg">
+    <div class="header-social">
+                    <a class="header-icon twitter" href="https://twitter.com/qualifiedremod" alt=" Follow us on Twitter" target="_blank">
+                    <i class="fa fa-twitter fa-2x"></i>
+            </a>
+                    <a class="header-icon linkedin" href="https://www.linkedin.com/groups/Qualified-Remodeler-Magazine-1428097/about" alt=" Follow us on Linkedin" target="_blank">
+                    <i class="fa fa-linkedin fa-2x"></i>
+            </a>
+                    <a class="header-icon facebook" href="https://www.facebook.com/qualifiedremodeler?fref=ts" alt=" Follow us on Facebook" target="_blank">
+                    <i class="fa fa-facebook fa-2x"></i>
+            </a>
+            </div>
+    <div class="header-search">
+    	<a class="" href="/search" title="Qualified Remodeler Search">
+    		<i class="fa fa-search fa-2x"></i>
+    	</a>
+    </div>
+    <div class="header-menu">
+            <i class="fa fa-reorder"></i>
+                </div>
+    <div class="logo">
+        <a href="/" title="Qualified Remodeler Home Page">
+            <img src="https://s3.amazonaws.com/media.cygnus.com/files/base/sola/frpc/qr/image/static/logo/header_logo.png" alt="Qualified Remodeler">
+        </a>
+    </div>
+    <div class="wrap">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="brand" href="/" title="Qualified Remodeler Home Page" alt="Qualified Remodeler">
+                        <img src="https://s3.amazonaws.com/media.cygnus.com/files/base/sola/frpc/qr/image/static/logo/header_logo.png">
+                    </a>
+                </div>
+
+                <div class="" id="nav-page">
+
+                    <ul class="nav navbar-nav primary">
+	            	    
+	    	
+	        <li class="section-30795">
+	            <a href="/news-analysis" title="News"> News</a>
+	            	            	<ul class="section-30795 nav child">
+	            			            				            			<li>
+	            				<a href="/news-analysis/news" title="News"> News</a>
+	            			</li>
+	            		
+	            			            				            			<li>
+	            				<a href="/news-analysis/columnists" title="Columnists"> Columnists</a>
+	            			</li>
+	            		
+	            			            	</ul>
+	            	        </li>
+	                	    
+	    	
+	        <li class="section-30799">
+	            <a href="/products" title="Products"> Products</a>
+	            	            	<ul class="section-30799 nav child">
+	            			            								        <li class="">
+					            <a href="//www.forresidentialpros.com/directory" title="Product Guide"> Product Guide </a>
+					        </li>
+					    
+	            			            				            			<li>
+	            				<a href="/products/product-trends" title="Product Trends"> Product Trends</a>
+	            			</li>
+	            		
+	            			            	</ul>
+	            	        </li>
+	                	    
+	    	
+	        <li class="section-30802">
+	            <a href="/design" title="Design"> Design</a>
+	            	            	<ul class="section-30802 nav child">
+	            			            				            			<li>
+	            				<a href="/design/design-solutions" title="Design Solutions"> Design Solutions</a>
+	            			</li>
+	            		
+	            			            				            			<li>
+	            				<a href="/design/master-design-awards" title="Master Design Awards"> Master Design Awards</a>
+	            			</li>
+	            		
+	            			            	</ul>
+	            	        </li>
+	                	    
+	    	
+	        <li class="section-30805">
+	            <a href="/business" title="Business"> Business</a>
+	            	            	<ul class="section-30805 nav child">
+	            			            				            			<li>
+	            				<a href="/business/marketing" title="Marketing"> Marketing</a>
+	            			</li>
+	            		
+	            			            				            			<li>
+	            				<a href="/business/legal" title="Legal"> Legal</a>
+	            			</li>
+	            		
+	            			            				            			<li>
+	            				<a href="/business/management" title="Management"> Management</a>
+	            			</li>
+	            		
+	            			            	</ul>
+	            	        </li>
+	                	    
+	    	
+	        <li class="section-30811">
+	            <a href="/home-improvement" title="Home Improvement"> Home Improvement</a>
+	            	            	<ul class="section-30811 nav child">
+	            			            				            			<li>
+	            				<a href="/home-improvement-pro/dave-yoho" title="Dave Yoho"> Dave Yoho</a>
+	            			</li>
+	            		
+	            			            				            			<li>
+	            				<a href="/home-improvement-pro/exterior-200" title="Exterior 200"> Exterior 200</a>
+	            			</li>
+	            		
+	            			            	</ul>
+	            	        </li>
+	                	    
+	    	
+	        <li class="section-30793">
+	            <a href="/top-500" title="Top 500"> Top 500</a>
+	            	        </li>
+	        </ul>
+
+
+                    <ul class="nav navbar-nav secondary">
+                        <li class="section-40496">
+                <a href="/blogs" title="Blogs"> Blogs </a>
+            </li>
+                                <li class="">
+                <a href="/subscribe/email" title="eNewsletters"> eNewsletters </a>
+            </li>
+                                <li class="">
+                <a href="/magazine/559a9bbdf220c160acc61c8b" title="Magazine"> Magazine </a>
+            </li>
+                                <li class="section-40497">
+                <a href="/videos" title="Videos"> Videos </a>
+            </li>
+            
+    <li class="contact-us">
+        <a href="/contact-us" title="Contact Us">Contact Us</a>
+    </li>
+    <li class="advertise">
+        <a href="/advertise" title="Advertise">Advertise</a>
+    </li>
+
+    <li class="platform-logout">
+        <a href="javascript:void(0)" title="Logout" class="">Logout</a>
+    </li>
+    <li class="platform-login">
+        <a href="javascript:void(0)" title="Login" class="">Login</a>
+    </li>
+    <li class="platform-register">
+        <a href="javascript:void(0)" title="Register" class="">Register</a>
+    </li>
+
+</ul>
+
+
+                </div>
+            </div>
+
+        </nav>
+    </div>
+</header>
+
+<aside class="advertisement page-peel ad-500x500"><div class="ad-container page-peel-ad-container"><div id="adunit_id__538021861__844699242" class="ad page-peel-ad ad-500x500" data-ad-unit-id="538021861" data-ad-alias="PP" data-ad-unit-refresh="false" data-ad-unit-trigger="onload" data-ad-strict-view="false" data-ad-min-display="728" data-ad-placeholder="false" data-ad-width="500" data-ad-height="500" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div></div></aside>
+<aside class="advertisement welcome ad-550x480"><div class="ad-container welcome-ad-container"><div id="adunit_id__538021865__1362279827" class="ad welcome-ad ad-550x480" data-ad-unit-id="538021865" data-ad-alias="WA" data-ad-unit-refresh="false" data-ad-unit-trigger="onload" data-ad-strict-view="false" data-ad-min-display="728" data-ad-placeholder="false" data-ad-width="550" data-ad-height="480" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div></div></aside>
+<aside class="advertisement wallpaper ad-1658x1058"><div class="ad-container wallpaper-ad-container"><div id="adunit_id__538021864__1311853497" class="ad wallpaper-ad ad-1658x1058" data-ad-unit-id="538021864" data-ad-alias="WP" data-ad-unit-refresh="false" data-ad-unit-trigger="onload" data-ad-strict-view="false" data-ad-min-display="1225" data-ad-placeholder="false" data-ad-width="1658" data-ad-height="1058" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div></div></aside>
+<aside class="advertisement leaderboard variable-ad"><div class="ad-container leaderboard-ad-container variable"><div id="adunit_id__538021855__1471551191" class="ad leaderboard-ad ad-970x90" data-ad-unit-id="538021855" data-ad-alias="BS" data-ad-unit-refresh="false" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="970" data-ad-height="90" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div><div id="adunit_id__538021857__1839078342" class="ad leaderboard-ad ad-728x90" data-ad-unit-id="538021857" data-ad-alias="LB" data-ad-unit-refresh="false" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="728" data-ad-height="90" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div><div id="adunit_id__538021860__180308506" class="ad leaderboard-ad ad-300x50" data-ad-unit-id="538021860" data-ad-alias="ML" data-ad-unit-refresh="false" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="300" data-ad-height="50" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div></div></aside>
+
+    
+    
+<div class="container">
+    <div class="main error update">
+        <div>
+            <div class="panel-body">
+
+                <h2>404: Page Not Found</h2>
+                    <p>                        The page you are looking for could not be located.
+                        </p>
+                    <p><a href="javascript:history.back()">Go back</a> or <a href="/">Home</a></p>
+
+                <div id="details" style="display:none">
+
+                    <ul>
+                        <li>
+                            <p><strong>Not Found</strong></p>
+                            <p>Line 219 in /data/bamboo/xml-data/build-dir/1671169/BASE-PLATFORM-DEP/1037/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php</p>
+                        </li>
+
+                                            </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            <aside class="advertisement super-leaderboard variable-ad"><div class="ad-container super-leaderboard-ad-container variable"><div id="adunit_id__538021862__779789067" class="ad super-leaderboard-ad ad-970x90" data-ad-unit-id="538021862" data-ad-alias="SL" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="970" data-ad-height="90" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div><div id="adunit_id__538021857__274454305" class="ad super-leaderboard-ad ad-728x90" data-ad-unit-id="538021857" data-ad-alias="LB" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="728" data-ad-height="90" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div><div id="adunit_id__538021860__143718089" class="ad super-leaderboard-ad ad-300x50" data-ad-unit-id="538021860" data-ad-alias="ML" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-ad-strict-view="false" data-ad-min-display="0" data-ad-placeholder="false" data-ad-width="300" data-ad-height="50" data-ad-page-context="{&quot;title&quot;:&quot;Qualified Remodeler&quot;,&quot;description&quot;:null,&quot;type&quot;:&quot;Default&quot;,&quot;name&quot;:null,&quot;uri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;global&quot;:{&quot;requestUri&quot;:&quot;\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestUrl&quot;:&quot;http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg&quot;,&quot;requestQs&quot;:[],&quot;requestPageNum&quot;:null,&quot;siteUrl&quot;:&quot;qualifiedremodeler.com&quot;,&quot;siteName&quot;:&quot;Qualified Remodeler&quot;,&quot;siteKey&quot;:&quot;frpc-qr&quot;,&quot;siteDescription&quot;:null}}"></div></div></aside>
+<footer class="page">
+    <div class="wrap">
+                        <div class="links">
+            <div class="list additional">
+                <h4 class="title">Additional Resources</h4>
+                                            <p class="footer">
+                <a class="footer-link"href="/blogs" title="Blogs">Blogs </a>
+            </p>
+                                <p class="footer">
+                <a class="footer-link" href="/subscribe/email" title="eNewsletters"> eNewsletters </a>
+            </p>
+                                <p class="footer">
+                <a class="footer-link" href="/magazine/559a9bbdf220c160acc61c8b" title="Magazine"> Magazine </a>
+            </p>
+                                <p class="footer">
+                <a class="footer-link"href="/videos" title="Video">Video </a>
+            </p>
+            
+
+                    <div class="footer-social">
+                                                    <a class="footer-icon twitter" href="https://twitter.com/qualifiedremod" alt=" Follow us on twitter" target="_blank">
+                                    <i class="fa fa-twitter fa-2x"></i>
+                            </a>
+                                                    <a class="footer-icon linkedin" href="https://www.linkedin.com/groups/Qualified-Remodeler-Magazine-1428097/about" alt=" Follow us on linkedin" target="_blank">
+                                    <i class="fa fa-linkedin fa-2x"></i>
+                            </a>
+                                                    <a class="footer-icon facebook" href="https://www.facebook.com/qualifiedremodeler?fref=ts" alt=" Follow us on facebook" target="_blank">
+                                    <i class="fa fa-facebook fa-2x"></i>
+                            </a>
+                                            </div>
+            </div>
+
+            
+            <div class="list">
+                <h4 class="title">Site Tools</h4>
+                    <p class="footer"><a class="footer-link" href="/contact-us">Contact Us</a></p>
+                    <p class="footer"><a class="footer-link" href="/advertise">Advertise</a></p>
+                    <p class="footer"><a class="footer-link" href="/privacy-policy">Privacy Policy</a></p>
+                    <p class="footer"><a class="footer-link" href="/terms-conditions">Terms of Use</a></p>
+                                                        <p class="footer platform-login"><a href="#" title="Login" class="footer-link">Login</a></p>
+                    <p class="footer platform-register"><a href="#" title="Register" class="footer-link">Register</a></p>
+                    <p class="footer platform-logout"><a href="#" title="Logout" class="footer-link">Logout</a></p>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+                <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/website/alpha/sola/frpc/js/33f551c.js?BASE-PLATFORM-DEP_1037"></script>
+    
+    <script>AdManager.init({"sponsor":{"skip":0,"frequency":3},"useAdGroups":false,"exclusions":[]}, "//ox-d.cygnus.com/w/1.0/jstag", OpenXRequestLibrary);</script>
+
+                    
+        <script>
+        PageManager.pushContext({"title":"Qualified Remodeler","description":null,"type":"Default","name":null,"uri":"\/images\/article\/1165413537901_f2_01.jpg","global":{"requestUri":"\/images\/article\/1165413537901_f2_01.jpg","requestUrl":"http:\/\/www.qualifiedremodeler.com\/images\/article\/1165413537901_f2_01.jpg","requestQs":[],"requestPageNum":null,"siteUrl":"qualifiedremodeler.com","siteName":"Qualified Remodeler","siteKey":"frpc-qr","siteDescription":null}});
+        Analytics.init({"sapience":{"endpoint":"\/sola\/frpc","library_src":"http:\/\/olytics.cygnus.com\/sapience.js","app_key":"website","host":"olytics.cygnus.com","debug":false},"ua":{"tracking_id":"UA-25353916-1","dimensions":{"channel":"dimension1","channel_id":"dimension2","section":"dimension3","section_id":"dimension4","content":"dimension5","content_id":"dimension6","content_type":"dimension7","company_name":"dimension8","primary_category_name":"dimension9"}}}, '__web_identity');
+    </script>
+
+        </body>
+</html>

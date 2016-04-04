@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Page not found | NC State Veterinary Medicine</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://cvm.ncsu.edu/xmlrpc.php">
+
+	<!-- NC State Bootstrap CSS -->
+	<link href="https://cdn.ncsu.edu/brand-assets/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen" type="text/css" />
+
+	<!-- jQuery 2.1.0 -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+	<!-- Bootstrap JS -->
+	<script src="https://cdn.ncsu.edu/brand-assets/bootstrap/js/bootstrap.min.js"></script>
+
+	<script src="https://cdn.ncsu.edu/brand-assets/utility-bar/ub.php?googleCustomSearchCode=011094985103100440572:paphvu7no0o&placeholder=search cvm.ncsu.edu"></script>
+
+	<!-- CVM JS -->
+	<script src="/wp-content/themes/cvm-child/js/main.js"></script>
+
+	<!--[if lt IE 9]>
+	<script src="https://cvm.ncsu.edu/wp-content/themes/ncstate_emg/js/html5.js"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="NC State Veterinary Medicine &raquo; Feed" href="https://cvm.ncsu.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NC State Veterinary Medicine &raquo; Comments Feed" href="https://cvm.ncsu.edu/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="NC State Veterinary Medicine &raquo; iCal Feed" href="https://cvm.ncsu.edu/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/cvm.ncsu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ncstate_emg-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://cvm.ncsu.edu/wp-content/themes/ncstate_emg/genericons/genericons.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ncstate_emg-style-css'  href='https://cvm.ncsu.edu/wp-content/themes/cvm-child/style.css?ver=4.4.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ncstate_emg-ie-css'  href='https://cvm.ncsu.edu/wp-content/themes/ncstate_emg/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='tablepress-default-css'  href='https://cvm.ncsu.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.7' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-8 .column-1{width:120px}.tablepress-id-8 .column-2{width:120px}.tablepress-id-8 .column-3{width:120px}.tablepress-id-8 .column-4{width:120px}.tablepress-id-8 .column-5{width:120px}.tablepress-id-8 .column-6{width:120px}.tablepress-id-7 .column-1{width:120px}.tablepress-id-7 .column-2{width:120px}.tablepress-id-7 .column-3{width:120px}.tablepress-id-7 .column-4{width:120px}.tablepress-id-7 .column-5{width:120px}.tablepress-id-7 th,.tablepress-id-7 td{border:1px solid #ddd}.tablepress-id-8 th,.tablepress-id-8 td{border:1px solid #ddd}.tablepress-id-7 .row-3 td{vertical-align:middle}.tablepress-id-7 .row-4 td{vertical-align:middle}.tablepress-id-7 .row-6 td{vertical-align:middle}.tablepress-id-7 .row-7 td{vertical-align:middle}.tablepress-id-7 .row-9 td{vertical-align:middle}.tablepress-id-7 .row-10 td{vertical-align:middle}.tablepress-id-7 .row-12 td{vertical-align:middle}.tablepress-id-7 .row-13 td{vertical-align:middle}.tablepress-id-8 .row-3 td{vertical-align:middle}.tablepress-id-8 .row-4 td{vertical-align:middle}.tablepress-id-8 .row-7 td{vertical-align:middle}.tablepress-id-8 .row-8 td{vertical-align:middle}.tablepress-id-8 .row-10 td{vertical-align:middle}.tablepress-id-8 .row-11 td{vertical-align:middle}.tablepress-id-10 .column-1{width:120px}.tablepress-id-10 .column-2{width:180px}.tablepress-id-10 .column-3{width:180px}.tablepress-id-11 .column-1{width:120px}.tablepress-id-11 .column-2{width:180px}.tablepress-id-11 .column-3{width:180px}.tablepress-id-12 .column-1{width:120px}.tablepress-id-12 .column-2{width:180px}.tablepress-id-12 .column-3{width:180px}.tablepress-id-13 .column-1{width:120px}.tablepress-id-14 .column-1{width:120px}.tablepress-id-15 .column-1{width:120px}.tablepress-id-18 .column-1{width:180px}.tablepress-id-18 .column-2{width:180px}.tablepress-id-18 .column-3{width:180px}.tablepress-id-19 .column-1{width:120px}.tablepress-id-19 .column-2{width:180px}.tablepress-id-19 .column-3{width:180px}.tablepress-id-24 .column-1{width:120px}.tablepress-id-24 .column-2{width:120px}.tablepress-id-24 .column-3{width:120px}.tablepress-id-25 .column-1{width:120px}.tablepress-id-25 .column-2{width:180px}.tablepress-id-25 .column-3{width:180px}.tablepress-id-26 .column-1{width:120px}.tablepress-id-26 .column-2{width:180px}.tablepress-id-26 .column-3{width:180px}
+</style>
+<link rel='stylesheet' id='widget-this-week-pro-style-css'  href='https://cvm.ncsu.edu/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-full.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe_events-widget-this-week-pro-style-css'  href='https://cvm.ncsu.edu/wp-content/plugins/events-calendar-pro/src/resources/css/widget-this-week-theme.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='https://cvm.ncsu.edu/wp-content/plugins/awesome-gallery/assets/css/jquery.magnific-popup.css?ver=1.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='uberbox-css'  href='https://cvm.ncsu.edu/wp-content/plugins/awesome-gallery/vendor/uberbox/dist/uberbox.css?ver=1.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='awesome-gallery-css'  href='https://cvm.ncsu.edu/wp-content/plugins/awesome-gallery/assets/css/awesome-gallery.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='column-styles-css'  href='https://cvm.ncsu.edu/wp-content/plugins/cvm-shortcodes/styles.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_this_week = {"ajaxurl":"https:\/\/cvm.ncsu.edu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-content/plugins/events-calendar-pro/src/resources/js/widget-this-week.min.js?ver=4.1'></script>
+<link rel='https://api.w.org/' href='https://cvm.ncsu.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cvm.ncsu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cvm.ncsu.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script> 
+
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://cdn.ncsu.edu/brand-assets/fonts/include.css" rel="stylesheet" type="text/css" />
+	<link href="/wp-content/themes/cvm-child/responsive.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body class="error404 group-blog masthead-fixed full-width">
+
+	<a class="sr-only" href="#main-content">Skip to main content</a>
+
+	<div id="ncstate-utility-bar"></div>
+		<div id="page" class="hfeed site">
+					</div>
+
+		<nav role="navigation" aria-label="Primary navigation menus" class="primary-nav">
+			<div class="container">
+				<h1 class="site-title">
+					<a href="https://cvm.ncsu.edu/" rel="home">
+						<img src="https://cvm.ncsu.edu/wp-content/uploads/2014/10/ncstate-cvm-2x1-red_VM.svg" onerror="https://cvm.ncsu.edu/wp-content/uploads/2014/10/ncstate-cvm-2x1-red_VM.jpg" alt="NC State CVM Logo" width="278px" height="35px" />
+					</a>
+				</h1>
+				<div class="menu-top-container"><ul aria-label="Audience menu" class="audience-menu list-unstyled"><li id="menu-item-74281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74281"><a href="https://cvm.ncsu.edu/current-students/">Current Students</a></li>
+<li id="menu-item-44071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44071"><a href="https://cvm.ncsu.edu/internal/">Faculty and Staff</a></li>
+<li id="menu-item-1014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1014"><a href="https://cvm.ncsu.edu/alumni-and-donors/">Alumni and Donors</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="http://www.ncstatevets.org/">Animal Owners</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="http://www.ncstatevets.org/veterinarians/">Veterinarians</a></li>
+<li id="menu-item-156021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156021"><a href="https://cvm.ncsu.edu/directory/">Directory</a></li>
+</ul></div>
+				<div class="menu-main-container"><ul aria-label="Main Menu" class="main-menu list-unstyled"><li id="menu-item-359" class="no-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://cvm.ncsu.edu/about-cvm/">About CVM</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https://cvm.ncsu.edu/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://cvm.ncsu.edu/education/dvm/">DVM Program</a></li>
+	<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="https://cvm.ncsu.edu/education/graduate-programs/">Graduate Programs</a></li>
+	<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://cvm.ncsu.edu/education/residencies/">Residencies</a></li>
+	<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://cvm.ncsu.edu/education/internships/">Internships</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://cvm.ncsu.edu/education/continuing-education/">Continuing Education</a></li>
+	<li id="menu-item-33021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33021"><a href="https://cvm.ncsu.edu/education/academic-affairs/">Contact Academic Affairs</a></li>
+</ul>
+</li>
+<li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-657"><a href="https://cvm.ncsu.edu/student-life/">Student Life</a></li>
+<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-264"><a href="https://cvm.ncsu.edu/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-147301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147301"><a href="https://cvm.ncsu.edu/research/researchers/">Researchers</a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="https://cvm.ncsu.edu/research/areas-of-emphasis/">Areas of Emphasis</a></li>
+	<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://cvm.ncsu.edu/research/departments/">Departments</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://cvm.ncsu.edu/research/centers/">Centers</a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="https://cvm.ncsu.edu/research/clinical-trials/">Clinical Trials</a></li>
+	<li id="menu-item-146271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146271"><a href="https://cvm.ncsu.edu/research/labs/">Diagnostic and Research Labs</a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://cvm.ncsu.edu/research/research-and-you/">Research and You</a></li>
+	<li id="menu-item-44271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44271"><a href="https://cvm.ncsu.edu/research/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="https://cvm.ncsu.edu/outreach/">Outreach</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://cvm.ncsu.edu/partnerships/">Partnerships</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a target="_blank" href="http://www.ncstatevets.org/">Hospital</a></li>
+<li id="menu-item-120861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120861"><a title="Button" href="https://securelb.imodules.com/s/1209/giving/plain.aspx?sid=1209&#038;gid=214&#038;pgid=3813&#038;cid=6343">GIVE NOW <i class="glyphicon glyphicon-bold-arrow"></i></a></li>
+</ul></div>				<button type="button" id="menu-toggle">
+					<span class="sr-only">Toggle Navigation</span>
+					Menu<span class="glyphicon glyphicon-thin-menu" aria-hidden="true"></span>
+				</button>
+			</div>
+		</nav>
+
+
+
+
+		<div id="mobile-nav"   >
+
+			<div id="level-1">
+
+			<!-- Level 1 Main Menu pages -->
+			<ul class="list-unstyled"><li class="no-sub menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://cvm.ncsu.edu/about-cvm/">About CVM</a></li>
+<li class="has-more menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><button type="button" id="218"><span class="glyphicon glyphicon-thin-chevron"></span></button><a href="https://cvm.ncsu.edu/education/">Education</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-657"><a href="https://cvm.ncsu.edu/student-life/">Student Life</a></li>
+<li class="has-more menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-264"><button type="button" id="264"><span class="glyphicon glyphicon-thin-chevron"></span></button><a href="https://cvm.ncsu.edu/research/">Research</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="https://cvm.ncsu.edu/outreach/">Outreach</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://cvm.ncsu.edu/partnerships/">Partnerships</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a target="_blank" href="http://www.ncstatevets.org/">Hospital</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120861"><a title="Button" href="https://securelb.imodules.com/s/1209/giving/plain.aspx?sid=1209&#038;gid=214&#038;pgid=3813&#038;cid=6343">GIVE NOW <i class="glyphicon glyphicon-bold-arrow"></i></a></li>
+</ul><ul class="list-unstyled"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74281"><a href="https://cvm.ncsu.edu/current-students/">Current Students</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44071"><a href="https://cvm.ncsu.edu/internal/">Faculty and Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1014"><a href="https://cvm.ncsu.edu/alumni-and-donors/">Alumni and Donors</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="http://www.ncstatevets.org/">Animal Owners</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="http://www.ncstatevets.org/veterinarians/">Veterinarians</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156021"><a href="https://cvm.ncsu.edu/directory/">Directory</a></li>
+</ul>
+			</div>
+
+			<div id="level-2">
+				<ul class="list-unstyled">
+			<li id="full-nav" style="border-bottom:1px solid #aaa;">
+				<button type="button"><span class="glyphicon glyphicon-thin-chevron"></span></button>
+				<a>Full Site Navigation</a>
+			</li>
+			<ul class="list-unstyled"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-218"><a href="https://cvm.ncsu.edu/education/">Education</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://cvm.ncsu.edu/education/dvm/">DVM Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="https://cvm.ncsu.edu/education/graduate-programs/">Graduate Programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://cvm.ncsu.edu/education/residencies/">Residencies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://cvm.ncsu.edu/education/internships/">Internships</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://cvm.ncsu.edu/education/continuing-education/">Continuing Education</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33021"><a href="https://cvm.ncsu.edu/education/academic-affairs/">Contact Academic Affairs</a></li>
+</ul>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-264"><a href="https://cvm.ncsu.edu/research/">Research</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147301"><a href="https://cvm.ncsu.edu/research/researchers/">Researchers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="https://cvm.ncsu.edu/research/areas-of-emphasis/">Areas of Emphasis</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://cvm.ncsu.edu/research/departments/">Departments</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://cvm.ncsu.edu/research/centers/">Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="https://cvm.ncsu.edu/research/clinical-trials/">Clinical Trials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146271"><a href="https://cvm.ncsu.edu/research/labs/">Diagnostic and Research Labs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://cvm.ncsu.edu/research/research-and-you/">Research and You</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44271"><a href="https://cvm.ncsu.edu/research/contact-us/">Contact Us</a></li>
+</ul>
+			<li class="menu-item-has-children menu-item-999"><a href="/directory">Directory</a><ul class="sub-menu"><li><a href="/directory/" class="current-menu-item">Alphabetical Listing</a></li><li><a href="/directory/?deptlisting=1" class="">Department Listing</a></li><li><a>By People</a><ul class="sub-menu"><li class=""><a href="/directory/?people=faculty">Faculty</a></li><li class=""><a href="/directory/?people=leadership">Leadership</a></li><li class=""><a href="/directory/?people=researchers">Researchers</a></li><li class=""><a href="/directory/?people=staff">Staff</a></li></ul></li><li><a>By Unit</a><ul class="sub-menu"><li class=""><a href="/directory/?dept=administration">Administration</a></li><li class=""><a href="/directory/?dept=docs">Clinical Sciences</a></li><li class=""><a href="/directory/?dept=hospital">Hospital</a></li><li class=""><a href="/directory/?dept=mbs">Molecular Biomedical Sciences</a></li><li class=""><a href="/directory/?dept=php">Population Health and Pathobiology</a></li></ul></li><li><a>By Research Area of Emphasis</a><ul class="sub-menu"><li class=""><a href="/directory/?research=biological-barriers">Biological Barriers</a></li><li class=""><a href="/directory/?research=genetics">Genetics</a></li><li class=""><a href="/directory/?research=immunology">Immunology</a></li><li class=""><a href="/directory/?research=infectious-diseases">Infectious Diseases</a></li><li class=""><a href="/directory/?research=neurobiology">Neurobiology</a></li><li class=""><a href="/directory/?research=pharmacology">Pharmacology</a></li><li class=""><a href="/directory/?research=regenerative-medicine">Regenerative Medicine</a></li><li class=""><a href="/directory/?research=spontaneous-animal-disease-models">Spontaneous Animal Disease Models</a></li></ul></li><li><a>By Focus Area</a><ul class="sub-menu"><li class=""><a href="/directory/?focus=avian-and-exotics">Avian and Exotics</a></li><li class=""><a href="/directory/?focus=clinician-scientist">Clinician Scientist</a></li><li class=""><a href="/directory/?focus=epidemiology">Epidemiology</a></li><li class=""><a href="/directory/?focus=equine-practice">Equine Practice</a></li><li class=""><a href="/directory/?focus=food-animal">Food Animal</a></li><li class=""><a href="/directory/?focus=graduate-cell-biology">Graduate - Cell Biology</a></li><li class=""><a href="/directory/?focus=graduate-infectious-diseases">Graduate - Infectious Diseases</a></li><li class=""><a href="/directory/?focus=graduate-pathology">Graduate - Pathology</a></li><li class=""><a href="/directory/?focus=graduate-pharmacology">Graduate - Pharmacology</a></li><li class=""><a href="/directory/?focus=graduate-population-medicine">Graduate - Population Medicine</a></li><li class=""><a href="/directory/?focus=graduate-public-health">Graduate - Public Health</a></li><li class=""><a href="/directory/?focus=graduate-immunology">Graduate – Immunology</a></li><li class=""><a href="/directory/?focus=laboratory-animal">Laboratory Animal</a></li><li class=""><a href="/directory/?focus=mixed-animal-practice">Mixed Animal Practice</a></li><li class=""><a href="/directory/?focus=pathology">Pathology</a></li><li class=""><a href="/directory/?focus=small-animal-practice">Small Animal Practice</a></li><li class=""><a href="/directory/?focus=zoological-medicine">Zoological Medicine</a></li></ul></li></ul></li></ul>
+			
+				</ul>
+			</div>
+		</div> <!-- .ncstate-utility-bar -->
+
+	<div id="main-content" role="main">
+
+	                     <div class="container entry" style="width: 100%; max-width:1500px; padding: 0;">
+                       <div class="container">
+                       <div class="narrow">
+			<header class="page-header">
+				<h1 class="page-title">Our Site Navigation Has Changed</h1>
+			</header>
+
+				<p style="font-size: 1.3em;">Please use the links below to guide you to the content your are seeking or try a search.</p>
+                        </div>
+                        </div>
+
+				<form role="search" method="get" class="search-form" action="https://cvm.ncsu.edu/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                   <section class="feature-content full gray-lighter-bg split_facts" style="margin-top: 20px;">
+                       <div class="container">
+                            <h3 class="black">Suggested Links</h3>
+                               <div class="one_third">
+                                 <div class="row top"><a href="https://dev.cvm.ncsu.edu/directory/" title="Directory" class="feature-block">
+                                  <div class="feature-img">
+                                     <picture><img src="https://cvm.ncsu.edu/wp-content/uploads/2015/06/wolf_howling_feature1-370x208.jpg" data-src="https://cvm.ncsu.edu/wp-content/uploads/2015/06/wolf_howling_feature1-370x208.jpg" alt="Wolf Howl" class="img-responsive" /></picture>                 </div>
+                                  <div class="feature-txt">
+                                      <h4>Directory<span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                                  </div>
+                                 </a></div>
+                               </div>
+                             <div class="one_third">
+                               <div class="row top"><a href="https://cvm.ncsu.edu/research/departments/" title="CMV Departments" class="feature-block">
+                                  <div class="feature-img">
+                                     <picture><img src="https://cvm.ncsu.edu/wp-content/uploads/2015/05/centennial_biomedical_campus_feature-370x208.jpg" data-src="https://cvm.ncsu.edu/wp-content/uploads/2015/05/centennial_biomedical_campus_feature-370x208.jpg" alt="NC State CVM professor and student in front of MRI machine" class="img-responsive" /></picture></div>
+                                   <div class="feature-txt">
+                                     <h4>CVM Departments<span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                                    </div>
+                                    </a></div>
+                             </div>
+                            <div class="one_third last">
+                              <div class="row top"><a href="https://cvm.ncsu.edu/education/dvm/" title="DVM Program" class="feature-block">
+                                    <div class="feature-img">
+                                        <picture><img src="https://cvm.ncsu.edu/wp-content/uploads/2015/03/Bullfrog-Eyes-are-Cool-370x208.jpg" data-src="https://cvm.ncsu.edu/wp-content/uploads/2015/03/Bullfrog-Eyes-are-Cool-370x208.jpg" alt="GP_Header_Image" class="img-responsive" /></picture>               </div>
+                                     <div class="feature-txt">
+                                         <h4>DVM Program<span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                                     </div>
+                               </a></div>
+                             </div>
+                     <div class="clearboth"></div>
+                         <div class="one_third">
+                             <div class="row top"><a href="https://cvm.ncsu.edu/education/" title="Graduate and Other Programs" class="feature-block">
+                                    <div class="feature-img">
+                           <picture><img src="https://cvm.ncsu.edu/wp-content/uploads/2014/11/Internships_Header_Image-370x208.png" data-src="https://cvm.ncsu.edu/wp-content/uploads/2014/11/Internships_Header_Image-370x208.png" alt="Internships_Header_Image" class="img-responsive" /></picture></div>
+                                     <div class="feature-txt">
+                                     <h4>Graduate and Other Programs<span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                              </div>
+</a></div>
+                      </div>
+                    <div class="one_third">
+                    <div class="row top"><a href="https://cvm.ncsu.edu/about-cvm/dean/" title="Dean's Office" class="feature-block">
+                         <div class="feature-img">
+                           <picture><img style="height: 208px; width: 370px;" src="https://cvm.ncsu.edu/wp-content/uploads/2014/12/ncsu_cvm_hannah_heart_center-e1423855203638.jpg" data-src="https://cvm.ncsu.edu/wp-content/uploads/2014/12/ncsu_cvm_hannah_heart_center-e1423855203638.jpg" alt="Residencies_Header_Image" class="img-responsive" /></picture></div>
+                    <div class="feature-txt">
+                        <h4>Dean's Office <span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                     </div>
+                   </a></div>
+                    </div>
+                  <div class="one_third last">
+                        <div class="row top"><a href="https://cvm.ncsu.edu/internal/" title="College Internal Pages" class="feature-block">
+                            <div class="feature-img">
+                               <picture><img src="https://cvm.ncsu.edu/wp-content/uploads/2015/02/audience-370x208.png" data-src="https://cvm.ncsu.edu/wp-content/uploads/2015/02/audience-370x208.png" alt="audience" class="img-responsive" /></picture></div>
+                            <div class="feature-txt">
+                                 <h4>College Internal Pages<span class="glyphicon glyphicon-thin-arrow" data-alt="thin arrow"></span></h4>
+                             </div>
+                          </a></div>
+                           </div>
+                    <div class="clearboth"></div>
+                 </div>
+               </section>
+                               
+                     </div>
+
+		</div><!-- #content -->
+
+		</div><!-- #main -->
+
+		<footer>
+		<!-- <footer id="colophon" class="site-footer" role="contentinfo"> -->
+			<div class="container">
+
+				<div class="footer-main">
+											<div class="footer-address">			<div class="textwidget"><img src="https://cvm.ncsu.edu/wp-content/uploads/2015/07/cvm_footer_logo.png" alt="NC State Veterinary Medicine logo">
+<p style="margin-top: 2em;">1060 William Moore Drive<br />
+Raleigh, NC 27607</p>
+919.515.2011</p></div>
+		</div>					
+					<div class="footer-links">
+						<div class="row">
+					<div class="menu-footer-1-container"><ul class="ncstate-padded-list"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://cvm.ncsu.edu/about-this-site/">About the Site</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://accessibility.ncsu.edu/">Accessibility</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="https://www.ncsu.edu/copyright">Copyright</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://oied.ncsu.edu/main/">Diversity</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://cvm.ncsu.edu/site-map/">Site Map</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="https://portalsp.acs.ncsu.edu/shibboleth-ds/?entityID=https%3A%2F%2Fportalsp.acs.ncsu.edu%2Fsp%2Fshibboleth&#038;return=https%3A%2F%2Fportalsp.acs.ncsu.edu%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253Ab251d508470be405fb1a024a1ce236934f42f956a91cc79df5dfc771cedd0ff5">MyPack Portal</a></li>
+</ul></div>
+					<div class="menu-footer-2-container"><ul class="ncstate-padded-list"><li id="menu-item-43121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43121"><a href="https://cvm.ncsu.edu/directory/">Directory</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://www.lib.ncsu.edu/">Libraries</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://jobs.ncsu.edu/">Jobs</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://policies.ncsu.edu/">Policies</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="https://cvm.ncsu.edu/privacy/">Privacy</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="https://cvm.ncsu.edu/contact/">Contact</a></li>
+</ul></div>						</div>
+					</div>
+
+											<div class="footer-interactive"><h5>Campus Map</h5>			<div class="textwidget"><a href="https://cvm.ncsu.edu/wp-content/uploads/2015/07/cvm_map.pdf" target="_blank">
+          <img src="https://cvm.ncsu.edu/wp-content/themes/cvm-child/images/Footer_CVM_Map.png" data-src="https://cvm.ncsu.edu/wp-content/themes/cvm-child/images/Footer_CVM_Map.png" alt="Campus Map" class="img-responsive">
+</a></div>
+		</div>									</div>
+
+				<div class="footer-sub">
+
+					<div class="menu-footer-social-container"><ul class="social-channels list-unstyled" aria="NC State CVM Social Media channels"><li id="menu-item-568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-568"><a target="_blank" href="https://www.facebook.com/NCStateVetMed"><span class="glyphicon glyphicon-fb" data-alt="facebook" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">facebook</span></a></li>
+<li id="menu-item-569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-569"><a target="_blank" href="https://www.youtube.com/user/NCStateVetMed"><span class="glyphicon glyphicon-youtube" data-alt="youtube" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">youtube</span></a></li>
+<li id="menu-item-570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-570"><a target="_blank" href="https://twitter.com/NCStateVetMed"><span class="glyphicon glyphicon-twitter" data-alt="twitter" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">twitter</span></a></li>
+<li id="menu-item-23671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23671"><a href="https://instagram.com/ncstatevetmed/"><span class="glyphicon glyphicon-instagram" data-alt="instagram" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">instragram</span></a></li>
+<li id="menu-item-23681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23681"><a href="https://www.flickr.com/photos/ncstatevetmed"><span class="glyphicon glyphicon-flickr" data-alt="flickr" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">flickr</span></a></li>
+<li id="menu-item-23691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23691"><a href="https://www.linkedin.com/company/nc-state-university-veterinary-health-complex-at-the-college-of-veterinary-medicine?trk=company_logoC:/Users/adnorri2/Documents/Add-in%20Express"><span class="glyphicon glyphicon-linkedin" data-alt="linkedin" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">linkedIn</span></a></li>
+<li id="menu-item-23701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23701"><a href="http://pinterest.com"><span class="glyphicon glyphicon-pinterest" data-alt="pinterest" aria-hidden="true"></span><span style="font-size:29px" class="sr-only-glyphicon">pinterest</span></a></li>
+</ul></div>
+					<div class="copyright">
+						<p>&copy; 2016 NC State University. All rights reserved.</p>
+					</div>
+				</div>
+			</div><!-- #container -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='https://cvm.ncsu.edu/wp-content/themes/ncstate_emg/js/functions.js?ver=20150315'></script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-content/plugins/awesome-gallery/vendor/jquery.magnific-popup.js?ver=1.5.12'></script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-content/plugins/awesome-gallery/assets/js/awesome-gallery.js?ver=1.5.12'></script>
+<script type='text/javascript' src='https://cvm.ncsu.edu/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type="text/css" id="tmpl-tribe_events_pro_customizer_css"></script><style type="text/css" id="tribe_events_pro_customizer_css"></style><script type="text/javascript">
+//==================SiteImprove Code=================
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//us2.siteimprove.com/js/siteanalyze_6012899.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+//==================END SiteImprove Code=================
+</script>
+<script>
+//==================Google Tracking Code=================
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61267838-1', 'auto');
+  ga('send', 'pageview');
+
+//==================END Google Tracking Code=================
+</script>
+</body>
+</html>

@@ -1,0 +1,548 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="nl" xml:lang="nl">
+
+<head>
+<title>Pagina niet gevonden!</title>
+<meta http-equiv="Content-Type" content="text /html; charset=UTF-8" />
+<base href="http://www.vanhetwittehuis.be/" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="index.php?route=feed/google_base" />
+<link href="http://www.vanhetwittehuis.be/image/data/layout/favicon.jpg" rel="icon" />
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/leonardo-white/stylesheet/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/leonardo-white/stylesheet/jquery.fancybox-1.3.1.css" />
+<link href='http://fonts.googleapis.com/css?family=Philosopher&subset=latin' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 7]>
+
+	<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+	DD_belatedPNG.fix('img, #content .left, #content .right, .box .top');
+	</script>
+	
+<![endif]-->
+
+<script type="text/javascript" src="catalog/view/theme/leonardo-white/lib/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/leonardo-white/lib/jquery.easySlider1.7.js"></script>
+<script type="text/javascript" src="catalog/view/theme/leonardo-white/lib/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="catalog/view/theme/leonardo-white/lib/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="catalog/view/theme/leonardo-white/lib/jquery-custom.js"></script>
+</head>
+
+<body>
+
+<div id="container">
+
+	<div id="header">
+		
+		<div class="holder">
+			
+			<div class="aleft">
+				<div class="logo">			
+						      			<a href="http://www.vanhetwittehuis.be/index.php?route=common/home">
+	      			<img src="http://www.vanhetwittehuis.be/image/data/layout/logowh.png" title="Tuppermix / Het Witte Huis" alt="Tuppermix / Het Witte Huis" />
+	      			</a>
+	      			      			</div>
+			</div>
+			
+			
+			<div class="aleft">
+				
+				<ul>
+					<li>
+					<a class="gen" href="http://www.vanhetwittehuis.be/index.php?route=common/home" id="tab_home">
+					Home</a>
+					</li>  
+                    <li>
+					<a class="kit" href="http://www.vanhetwittehuis.be/index.php?route=information/information&amp;information_id=10" id="tab_kittens">
+					Kittens</a>
+					</li>    
+                     <li>
+					<a class="mix" href="http://www.vanhetwittehuis.be/index.php?route=information/information&amp;information_id=11" id="tab_tuppermix">
+					Tuppermix</a>
+					</li>   
+                     <li>
+					<a class="anm" href="http://www.vanhetwittehuis.be/index.php?route=information/information&amp;information_id=12" id="tab_dierenspeciaalzaak">
+					Dierenspeciaalzaak</a>
+					</li>    		 				
+		      				      		<li>
+		     		<a class="gen" href="http://www.vanhetwittehuis.be/index.php?route=account/login" id="tab_login">
+		     		Inloggen</a>
+		     		</li>
+		      				      		<li>     		
+		      		<a class="gen" href="http://www.vanhetwittehuis.be/index.php?route=account/account" id="tab_account">
+		      		Account</a>
+		      		</li>
+		      		<li>
+		      		<a class="gen" href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart" id="tab_cart">
+		      		Winkelwagen</a>
+		      		</li>
+		      		<li>
+		      		<a class="gen" href="http://www.vanhetwittehuis.be/index.php?route=checkout/shipping" id="tab_checkout">
+		      		Afrekenen</a>
+					</li>
+				</ul>
+				
+			</div>
+		
+		</div>
+		
+		
+		<div id="header_search">
+		
+			<div class="aleft"> 
+			
+				<form id="search" action="index.php?=" method="get" enctype="multipart/form-data">
+				
+				<fieldset>
+				
+					<input type="hidden" value="product/search" name="route" />
+					
+										
+							            <input type="text" name="keyword" id="keyword" value="Zoekwoorden" onclick="this.value = '';" />
+		            		            
+		            <select name="category_id" id="filter_category_id">
+		              <option value="0">Alle categorie&euml;n</option>
+		              		              		              <option value="267">&nbsp;&nbsp;&nbsp;&nbsp;verzendkosten</option>
+		              		              		              		              <option value="82">&nbsp;&nbsp;&nbsp;&nbsp;Curver Petlife</option>
+		              		              		              		              <option value="235">&nbsp;&nbsp;&nbsp;&nbsp;Geschenkbon</option>
+		              		              		              		              <option value="59">&nbsp;&nbsp;&nbsp;&nbsp;Drink en Eetpotten</option>
+		              		              		              		              <option value="60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drinkfonteinen</option>
+		              		              		              		              <option value="69">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eetpotten in steen</option>
+		              		              		              		              <option value="70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inox eet/drinkbakje</option>
+		              		              		              		              <option value="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toebehoren</option>
+		              		              		              		              <option value="144">&nbsp;&nbsp;&nbsp;&nbsp;Hals - en leibanden</option>
+		              		              		              		              <option value="157">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Katten</option>
+		              		              		              		              <option value="158">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halsbanden Kat</option>
+		              		              		              		              <option value="161">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Harnassen kat</option>
+		              		              		              		              <option value="129">&nbsp;&nbsp;&nbsp;&nbsp;Designed By Lotte</option>
+		              		              		              		              <option value="265">&nbsp;&nbsp;&nbsp;&nbsp;Happy House</option>
+		              		              		              		              <option value="241">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decoratie</option>
+		              		              		              		              <option value="242">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kapstokken</option>
+		              		              		              		              <option value="243">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sleutelhangers</option>
+		              		              		              		              <option value="67">&nbsp;&nbsp;&nbsp;&nbsp;Kattenbakken en toebehoren</option>
+		              		              		              		              <option value="68">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PeeWee, Zweedse kattenbak met dubbele bodem</option>
+		              		              		              		              <option value="73">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kattenbakvulling</option>
+		              		              		              		              <option value="78">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kattenbakken</option>
+		              		              		              		              <option value="79">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kattenbak accesoires</option>
+		              		              		              		              <option value="190">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honden poep zakjes</option>
+		              		              		              		              <option value="77">&nbsp;&nbsp;&nbsp;&nbsp;Kussens en manden</option>
+		              		              		              		              <option value="136">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I Love Pets</option>
+		              		              		              		              <option value="88">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Happy House</option>
+		              		              		              		              <option value="89">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rieten Manden</option>
+		              		              		              		              <option value="175">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Katten Iglo</option>
+		              		              		              		              <option value="176">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honden Kussens</option>
+		              		              		              		              <option value="222">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bench matten</option>
+		              		              		              		              <option value="256">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Houten Banken</option>
+		              		              		              		              <option value="52">&nbsp;&nbsp;&nbsp;&nbsp;Krabpalen</option>
+		              		              		              		              <option value="53">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Armarkat Classic</option>
+		              		              		              		              <option value="55">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Armarkat Wood</option>
+		              		              		              		              <option value="259">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gleepet</option>
+		              		              		              		              <option value="58">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHR Kwaliteits Krabpalen TOP Line</option>
+		              		              		              		              <option value="261">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHR Krabpalen Base line</option>
+		              		              		              		              <option value="262">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RHR Krabpaal onderdelen</option>
+		              		              		              		              <option value="72">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Krabtonnen</option>
+		              		              		              		              <option value="141">&nbsp;&nbsp;&nbsp;&nbsp;VIVENSO LUCHTVERVERSER</option>
+		              		              		              		              <option value="142">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toestellen</option>
+		              		              		              		              <option value="268">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pro-Aqua Geur Olie</option>
+		              		              		              		              <option value="143">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bio 5 geur-olie</option>
+		              		              		              		              <option value="81">&nbsp;&nbsp;&nbsp;&nbsp;Snacks en supplementen</option>
+		              		              		              		              <option value="44">&nbsp;&nbsp;&nbsp;&nbsp;Speelgoed</option>
+		              		              		              		              <option value="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speelgoed voor honden</option>
+		              		              		              		              <option value="84">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skinneez</option>
+		              		              		              		              <option value="166">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Petstages</option>
+		              		              		              		              <option value="36">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speelgoed voor katten</option>
+		              		              		              		              <option value="49">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Petstages</option>
+		              		              		              		              <option value="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yeowww!</option>
+		              		              		              		              <option value="119">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hagen CatIt</option>
+		              		              		              		              <option value="236">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Speelhengels</option>
+		              		              		              		              <option value="183">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pet Products Speelgoed Voor Katten</option>
+		              		              		              		              <option value="121">&nbsp;&nbsp;&nbsp;&nbsp;Transport en Benchen</option>
+		              		              		              		              <option value="127">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Petbox</option>
+		              		              		              		              <option value="39">&nbsp;&nbsp;&nbsp;&nbsp;Verzorging hond en kat</option>
+		              		              		              		              <option value="133">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furminator</option>
+		              		              		              		              <option value="180">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Muzo Hair Expert kammen en borstels</option>
+		              		              		              		              <option value="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jean Peau Vachtverzorgingsproducten</option>
+		              		              		              		              <option value="172">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Groomers Goop</option>
+		              		              		              		              <option value="173">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borotalco poeder</option>
+		              		              		              		              <option value="41">&nbsp;&nbsp;&nbsp;&nbsp;Voeding</option>
+		              		              		              		              <option value="137">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flatazor Hond</option>
+		              		              		              		              <option value="140">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flatazor Prestige Hond</option>
+		              		              		              		              <option value="139">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flatazor Protect</option>
+		              		              		              		              <option value="63">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carocroc Kat</option>
+		              		              		              		              <option value="46">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Natvoer Kat</option>
+		              		              		              		              <option value="191">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schesir Kat</option>
+		              		              		              		              <option value="232">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schesir Kat enkele blikjes</option>
+		              		              		              		              <option value="233">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Schesir Kat Dubbele Blikjes</option>
+		              		              		              		              <option value="156">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Almo Nature voor Katten</option>
+		              		              		              		              <option value="163">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Almo Nature 70g</option>
+		              		              		              		              <option value="164">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Almo Nature 140G</option>
+		              		              		              		              <option value="199">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royal Canin Kat</option>
+		              		              		              		              <option value="47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnibest</option>
+		              		              		              		              <option value="185">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnibest Hond</option>
+		              		              		              		              <option value="186">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carnibest Kat</option>
+		              		              		              		              <option value="238">&nbsp;&nbsp;&nbsp;&nbsp;KERST</option>
+		              		              		            </select>
+					
+					<input type="submit" value="Zoek" />
+					
+					<div class="inline">
+					
+						&nbsp;&nbsp;|&nbsp;&nbsp;
+						
+						<a href="http://www.vanhetwittehuis.be/index.php?route=product/search" title="Uitgebreid zoeken">
+						Uitgebreid zoeken						</a>
+					
+					</div>
+				
+				</fieldset>
+				
+				</form>
+			
+			</div> 
+			
+			<div class="aright">
+			
+								
+			        <form action="http://www.vanhetwittehuis.be/index.php?route=common/home" method="post" enctype="multipart/form-data" id="currency_form" class="aleft">			        
+			        <fieldset>
+			        
+				        <select name="currency_code" onchange="$('#currency_form').submit();">
+				        				        	<option value="EUR" selected="selected">Euro</option>
+				        				        </select>
+				        <input type="hidden" name="redirect" value="http://www.vanhetwittehuis.be/index.php?route=error/not_found" />
+			        
+			        </fieldset>
+			        
+			        </form>
+			        
+        		        
+        
+        		        		
+        			<form action="http://www.vanhetwittehuis.be/index.php?route=common/home" method="post" enctype="multipart/form-data" id="language_form" class="aleft">
+            		
+            		<fieldset>
+            		
+	            		<select name="language_code" onchange="$('#language_form').submit();">
+	            						        	<option value="nl" selected="selected">Nederlands</option>
+	              								</select>						
+	            		<input type="hidden" name="redirect" value="http://www.vanhetwittehuis.be/index.php?route=error/not_found" />
+            		
+            		</fieldset>
+            		
+        			</form>
+        		        		
+			</div>
+		
+		</div>
+		
+		<div id="header_path">
+			
+			<div class="aleft">
+				        		        		<a href="http://www.vanhetwittehuis.be/index.php?route=common/home" title="Home">
+        		Home        		</a>
+        		        		 &gt;         		<a href="http://www.vanhetwittehuis.be/index.php?route=error/not_found" title="De door u gevraagde pagina is niet gevonden.">
+        		De door u gevraagde pagina is niet gevonden.        		</a>
+        					</div>
+			
+			
+			<div class="aright">
+			
+				<a href="http://www.vanhetwittehuis.be/index.php?route=product/special" title="Speciale Aanbiedingen">Speciale Aanbiedingen</a> | 
+				<a href="#" onclick="bookmark(document.location, 'Pagina niet gevonden!');" title="Favorieten">Favorieten</a> | 
+				<a href="http://www.vanhetwittehuis.be/index.php?route=information/contact" title="Contact">Contact</a>
+			
+			</div>
+		
+		</div>
+  
+	</div>
+<div id="column_left">
+    <div class="module">
+	<div class="module_titleyellow">DIERENSPECIAALZAAK</div>
+	<div class="module_content"><ul><li><a href="http://www.vanhetwittehuis.be/index.php?route=product/category&amp;path=267">verzendkosten</a></li><li><a href="http://www.vanhetwittehuis.be/curver, petlife">Curver Petlife</a></li><li><a href="http://www.vanhetwittehuis.be/geschenkbon">Geschenkbon</a></li><li><a href="http://www.vanhetwittehuis.be/eet-en-drinkpot">Drink en Eetpotten</a></li><li><a href="http://www.vanhetwittehuis.be/Hals - en leibanden">Hals - en leibanden</a></li><li><a href="http://www.vanhetwittehuis.be/Designed By Lotte">Designed By Lotte</a></li><li><a href="http://www.vanhetwittehuis.be/Happy-House">Happy House</a></li><li><a href="http://www.vanhetwittehuis.be/Kattenzand, kattenbakken,PeeWee">Kattenbakken en toebehoren</a></li><li><a href="http://www.vanhetwittehuis.be/Kussens,manden">Kussens en manden</a></li><li><a href="http://www.vanhetwittehuis.be/krabpalen">Krabpalen</a></li><li><a href="http://www.vanhetwittehuis.be/Luchtververser">VIVENSO LUCHTVERVERSER</a></li><li><a href="http://www.vanhetwittehuis.be/snacks, hond, kat">Snacks en supplementen</a></li><li><a href="http://www.vanhetwittehuis.be/speelgoed voor katten en honden">Speelgoed</a></li><li><a href="http://www.vanhetwittehuis.be/Bench,hondenbuggy,draagtassen">Transport en Benchen</a></li><li><a href="http://www.vanhetwittehuis.be/Verzorging hond en kat">Verzorging hond en kat</a></li><li><a href="http://www.vanhetwittehuis.be/Droogvoer voor honden en katten">Voeding</a></li><li><a href="http://www.vanhetwittehuis.be/Kerst">KERST</a></li></ul></div>
+</div>
+    <div class="module">
+	<div class="module_titlegreen">THERMOMIX</div>
+	<div class="module_content">	
+				
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/Thermomix-TM5" title="Thermomix TM5">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/new_thermomix_TM5_6-38x38.jpg" alt="Thermomix TM5" />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1538" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/Thermomix-TM5" title="Thermomix TM5">
+				Thermomix TM5				</a>				
+				
+								<br />
+								<span class="price">1.100,00€</span>
+											
+			</div>
+		
+		</div>
+		
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Gemakkelijk-Lekker-voor-de-Thermomix-Deel-1" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 1">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/deel1b-38x38.jpg" alt="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 1" />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1548" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Gemakkelijk-Lekker-voor-de-Thermomix-Deel-1" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 1">
+				Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 1				</a>				
+				
+								<br />
+								<span class="price">24,95€</span>
+											
+			</div>
+		
+		</div>
+		
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-2" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 2  122 recepten">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/deel2b-38x38.jpg" alt="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 2  122 recepten" />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1549" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-2" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 2  122 recepten">
+				Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 2  122 recepten				</a>				
+				
+								<br />
+								<span class="price">24,95€</span>
+											
+			</div>
+		
+		</div>
+		
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-3" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 3  126 recepten">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/deel3b-38x38.jpg" alt="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 3  126 recepten" />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1550" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-3" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 3  126 recepten">
+				Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 3  126 recepten				</a>				
+				
+								<br />
+								<span class="price">24,95€</span>
+											
+			</div>
+		
+		</div>
+		
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-4" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 4  137 recepten">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/deel4b-38x38.jpg" alt="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 4  137 recepten" />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1551" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/Kookboek-Snel-Makkelijk-Lekker-voor-de-Thermomix-Deel-4" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 4  137 recepten">
+				Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 4  137 recepten				</a>				
+				
+								<br />
+								<span class="price">24,95€</span>
+											
+			</div>
+		
+		</div>
+		
+				
+		<div class="holder featured">
+		
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/index.php?route=product/product&amp;product_id=1562" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 5  148 recepten ">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/Athermomix/deel 5-38x38.jpg" alt="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 5  148 recepten " />
+				</a>
+			</div>
+			
+			<div class="module_right">	
+
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1562" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+		        		
+				<a href="http://www.vanhetwittehuis.be/index.php?route=product/product&amp;product_id=1562" title="Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 5  148 recepten ">
+				Kookboek Snel Gemakkelijk Lekker voor de Thermomix Deel 5  148 recepten 				</a>				
+				
+								<br />
+								<span class="price">24,95€</span>
+											
+			</div>
+		
+		</div>
+		
+		
+				
+	</div>
+</div>
+  </div>
+<div id="column_right">
+    <div id="module_cart" class="module">
+	<div class="module_title">Winkelwagen</div>
+	<div class="module_content">
+					<div class="cart_empty">
+				Uw winkelwagen is leeg.			</div>
+			</div>
+	
+</div>
+
+<script type="text/javascript"><!--
+
+function getUrlParam(name) {
+  var name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp(regexS);
+  var results = regex.exec(window.location.href);
+  if (results == null)
+    return "";
+  else
+    return results[1];
+}
+
+$(document).ready(function () {
+	$('.cart_remove').live('click', function () {
+		if (!confirm('Weet u zeker dat u dit product uit uw winkelwagen wilt verwijderen?')) {
+			return false;
+		}
+		$(this).removeClass('cart_remove').addClass('cart_remove_loading');
+		$.ajax({
+			type: 'post',
+			url: 'index.php?route=module/cart/callback',
+			dataType: 'html',
+			data: 'remove=' + this.id,
+			success: function (html) {
+				$('#module_cart .middle').html(html);
+				if (getUrlParam('route').indexOf('checkout') != -1) {
+					window.location.reload();
+				}
+			}
+		});
+	});
+});
+//--></script>    <div class="module">
+	<div class="module_title">Aanbiedingen</div>
+	<div class="module_content">
+				
+				
+		<div class="holder">
+
+			<div class="module_left">
+				<a href="http://www.vanhetwittehuis.be/137cm_Grote_Bench" title="Super grote Bench 137 Cm">
+				<img src="http://www.vanhetwittehuis.be/image/cache/data/bench/81154-38x38.jpg" alt="Super grote Bench 137 Cm" />
+				</a>
+			</div>
+			
+			<div class="module_right">
+			
+			    <a href="http://www.vanhetwittehuis.be/index.php?route=checkout/cart&amp;product_id=1424" title="Bestellen" >
+		        <img class="button_add" src="catalog/view/theme/leonardo-white/images/button_add_small.png" alt="Bestellen" />
+		        </a>
+	      
+				<a href="http://www.vanhetwittehuis.be/137cm_Grote_Bench" title="Super grote Bench 137 Cm">
+				Super grote Bench 137 Cm				</a>
+				
+								<br />
+								<span class="price_crossed">235,00€</span>
+				<span class="price_special">199,00€</span>
+											</div>
+		
+		</div>
+		
+				
+			</div>
+</div>
+    <div class="module">
+	<div class="module_title">Informatie</div>
+	<div class="module_content">
+		<ul>
+				<li><a href="http://www.vanhetwittehuis.be/Bedrijfsgegevens" title="Bedrijfsgegevens">Bedrijfsgegevens</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/Herroepingsrecht" title="Herroepingsrecht">Herroepingsrecht</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/Algemene voorwaarden" title="Algemene voorwaarden">Algemene voorwaarden</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/Prijzen" title="Prijzen">Prijzen</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/Betaling-levering-verzendkost" title="Betaling-levering-verzendkost">Betaling-levering-verzendkost</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/Privacy" title="Privacy">Privacy</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/nieuwsbrief" title="Nieuwsbrief">Nieuwsbrief</a></li>
+				<li><a href="http://www.vanhetwittehuis.be/index.php?route=information/contact" title="Neem contact op">Neem contact op</a></li>
+		<li><a href="http://www.vanhetwittehuis.be/index.php?route=information/sitemap" title="Sitemap">Sitemap</a></li>
+		</ul>
+	</div>
+</div>  </div>
+<div id="content">
+
+	<div class="page_title">
+	<h1>Pagina niet gevonden!</h1>
+	</div>
+	
+	<div class="page_content">
+	<strong>De door u gevraagde pagina is niet gevonden.</strong>
+	<br /><br />
+	</div>
+
+</div>
+<div id="footer_divider"></div>
+
+<div id="footer">
+
+	<div class="holder">
+		
+		<div class="aleft">
+			<a href="javascript:scroll_up()" title="Scroll"><img src="catalog/view/theme/leonardo-white/images/payment.png" alt="" /></a>
+		</div>		
+		
+		<div id="copyright" class="aright">
+			<a href="javascript:scroll_up()" title="Scroll">webdesign <a href="http://www.webspice.be">webspice</a><br /> Tuppermix / Het Witte Huis &copy; 2016</a>
+		</div>
+	
+	</div>
+
+</div>
+
+</div>
+
+
+</body>
+</html> 

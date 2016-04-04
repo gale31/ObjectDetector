@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html   lang="en">
+
+<!--html.tpl.php-->
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="icon" type="image/png" sizes="192x192" href="/sites/all/themes/realsimple_responsive/images/android-icon-192x192.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/realsimple_responsive/images/apple-icon-180x180.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/realsimple_responsive/images/apple-icon-144x144.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/all/themes/realsimple_responsive/images/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/realsimple_responsive/images/apple-icon-152x152.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/all/themes/realsimple_responsive/images/favicon-32x32.png" />
+<meta name="theme-color" content="#ffffff" />
+<!-- New Relic -->
+
+<!--END  New Relic -->
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/sites/all/themes/realsimple_responsive/images/ms-icon-144x144.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/sites/all/themes/realsimple_responsive/images/favicon-96x96.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/realsimple_responsive/images/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/realsimple_responsive/images/apple-icon-76x76.png" />
+<link rel="dns-prefetch" href="//cdn-image.realsimple.com" />
+<meta name="render_time" content="2016-04-04 01:47:28" />
+<link rel="dns-prefetch" href="//cdn-js.realsimple.com" />
+<link rel="dns-prefetch" href="//cdn-css.realsimple.com" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="shortcut icon" href="http://cdn-image.realsimple.com/sites/all/themes/realsimple_responsive/favicon.ico" type="image/vnd.microsoft.icon" />
+<link name="canonical" content="http://www.realsimple.com/" />
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/realsimple_responsive/images/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/realsimple_responsive/images/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/realsimple_responsive/images/apple-icon-57x57.png" />
+<meta name="description" content="Real Simple provides smart, realistic solutions to everyday challenges, all to make your life easier." />
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/realsimple_responsive/images/apple-icon-114x114.png" />
+  <title>Life Made Easier | Real Simple</title>
+  <style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+a,a.alt:hover{text-decoration:none}a img,hr{border:none}article,figure,footer,header,hgroup,hr,nav,section{display:block}form ol,form ul,ol,ul{list-style:none}figcaption,input,label,textarea{font-style:italic}input,input[type=number],input[type=search],input[type=text],input[type=url],textarea{-webkit-appearance:none}.inline-form .inline-container,.inline-form fieldset,.invalid-message{position:relative}.search-form,dl{overflow:hidden}.alt-heading,.cta,.heading,.horiz-nav .l-top a,.more,.page-title{text-transform:uppercase}blockquote,body,div,figure,footer,form,h1,h2,h3,h4,h5,h6,header,html,iframe,label,legend,li,nav,object,ol,p,section,table,ul{margin:0;padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}body{background:#fff;font:100%/1.27 "Brown Pro",Verdana,Arial,sans-serif;-webkit-text-size-adjust:100%;color:#000}.alt-heading--pink,.subheading{font-family:marr-sans-real-simple,Arial,Helvetica sans-serif}a{color:#ef4e74}a:focus,a:hover{color:#d81442}a p{color:#252525}.alt-heading,a.alt{color:#479cd6}a.alt:hover{background-repeat:repeat-x;background-size:.1em .1em;background-position:0 1.13em;background-image:-webkit-linear-gradient(top,transparent 50%,#c9c9c9 50%);background-image:linear-gradient(to bottom,transparent 50%,#c9c9c9 50%)}.lt-ie10 a.alt:hover{background:0 0;text-decoration:underline}.more{text-align:center;letter-spacing:2px;font-weight:700}h1,h3,h4,h5{font-weight:500;margin-bottom:0}.alpha,h1{font-weight:100;font-size:1.875rem;line-height:1.1;letter-spacing:-1.5px}.beta,.delta,.gamma,h2,h3,h4{line-height:1.2}@media (min-width:28.125em){.alpha,h1{font-size:2.375rem}}@media (min-width:46.875em){.alpha,h1{font-size:2.75rem}}.beta,h2{font-size:1.5rem}.gamma,h3{font-size:1.125rem}.delta,h4{font-size:1rem}.epsilon,h5{font-size:.875rem}.subheading{font-weight:400}.heading{font-size:1.125rem;margin-bottom:1.125rem}.alt-heading{font-size:1.625rem;font-weight:100}.alt-heading--pink{font-size:1.875rem;font-weight:300;color:#ef4e74;margin-bottom:0}dt,legend{font-weight:700}.p,label,p{font-family:Georgia,Times,"Times New Roman",serif}@media (min-width:64em){.alt-heading--pink{font-size:2.1875rem}}.page-title{font-size:2.5rem;color:#ef4e74;margin-bottom:0}@media (min-width:28.125em){.page-title{font-size:3.125rem}}@media (min-width:50.0625em){.page-title{font-size:3.75rem}}.p,p{margin-bottom:1.125rem;color:#252525;line-height:1.7;font-size:1.125rem}fieldset,ol,ul{padding:0;margin:0}.p a,p a{color:#479cd6}.p a:hover,p a:hover{background-repeat:repeat-x;background-size:.1em .1em;background-position:0 1.13em;text-decoration:none;background-image:-webkit-linear-gradient(top,transparent 50%,#c9c9c9 50%);background-image:linear-gradient(to bottom,transparent 50%,#c9c9c9 50%)}.lt-ie10 .p a:hover,.lt-ie10 p a:hover{background:0 0;text-decoration:underline}.p p{margin-bottom:0}blockquote,figure{margin-bottom:1.125rem}blockquote{border-left:10px solid #e3f3f1;padding-left:1.125rem}blockquote p{font-size:120%}hr{height:1px;background-color:#eaeeed;margin-top:2.25rem;margin-bottom:2.25rem;margin-left:auto;margin-right:auto}abbr{border-bottom:1px dotted #c9c9c9;cursor:help}.dropdown,.overlay-close,.pointer,.search-filters label,button,input[type=submit]{cursor:pointer}dl{margin:0 0 1.125rem}dd{margin-left:0}img,object,svg,video{max-width:100%;height:auto}svg{max-height:100%;width:99.9%}.lazy{display:none}form ol,form ul{margin-left:0}legend{margin-bottom:.375rem}fieldset{border:0;min-width:0}label{display:block;font-size:.875rem;margin-bottom:.125rem}label span{color:#a7a7a7}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0 1px}input,textarea{width:100%;border:1px solid #909090;padding:.75rem;font-size:.875rem;font-family:Georgia,Times,"Times New Roman",serif;-webkit-border-radius:0}input.roomy{padding:1rem;border-width:2px;font-size:1rem}button.roomy{padding-top:1.0625rem;padding-bottom:.9375rem}input[type=checkbox],input[type=radio]{width:auto;margin-right:.3em}input[type=search]{-webkit-appearance:none;border-radius:0}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}.field-container{margin-bottom:1.125rem}.invalid-message{font-size:.875rem;padding:.4375rem .625rem;background-color:#f58e96;color:#fff;display:inline-block;z-index:100;margin-top:.625rem}.invalid-message:before{content:"";position:absolute;left:50%;margin-left:-.5rem;top:-.5rem;z-index:10;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #f58e96}input.invalid-field{border-color:#f58e96}.check-list{padding:0 .5625rem;margin-bottom:0}@media (min-width:28.125em){.check-list:first-child{padding-right:.5625rem;padding-left:1.125rem}.check-list:last-child{padding-right:1.125rem;padding-left:.5625rem}.cl-left{width:42%;float:left}.cl-right{width:58%;float:right}}.cl-item{padding-top:.25rem;padding-bottom:.25rem;text-align:left;position:relative}.email-friend .form-foot,.newsletter-form{text-align:center}.cl-item label{font-style:normal;font-size:1rem;padding-left:1.6875rem}.field-desc,.search-form .search-field{font-style:italic;font-family:Georgia,Times,"Times New Roman",serif}@media (min-width:28.125em){.cl-item label{font-size:1.0625rem}}.cl-item input[type=checkbox]{display:none}.cl-item .cb,.cl-item input[type=checkbox]+label span:not(.cl-item-amt){width:1.0625rem;height:1.0625rem;border:1px solid #a7a7a7;background-color:#fff;vertical-align:middle;cursor:pointer;position:absolute;left:0;top:.28125rem}.cl-item .cb svg,.cl-item input[type=checkbox]+label span:not(.cl-item-amt) svg{visibility:hidden;display:block;padding:2px}.cl-item .cb--large{width:1.6875rem;height:1.6875rem;border:2px solid #909090;top:50%;margin-top:-.875rem}@media (min-width:37.5em){.cl-item .cb--large{width:2rem;height:2rem}}.cl-item input[type=checkbox]+label:hover span:not(.cl-item-amt),.cl-item:hover .cb{background-color:#c9c9c9}.cl-item input[type=checkbox]+label:hover span:not(.cl-item-amt) svg,.cl-item:hover .cb svg{visibility:visible}.cl-item input[type=checkbox]:checked+label span:not(.cl-item-amt) svg,.cl-item.this-is-active .cb svg{visibility:visible}.cl-item input[type=checkbox]:checked+label span:not(.cl-item-amt) svg path,.cl-item.this-is-active .cb svg path{fill:#ef4e74}.search-form path,.search-overlay path{fill:#fff}.has-error{border-color:red}.is-valid{border-color:#089e00}.search-overlay{position:fixed;background-color:#000;width:100%;height:100%;left:0;top:0;z-index:-1;background-color:rgba(0,0,0,0);-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.nt-inner span,.nt-inner span:after,.nt-inner span:before,.search-form{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out}.search-overlay .close{position:absolute;top:0;right:0;padding:.75rem;display:none}.search-overlay .icon{display:none;background:0 0}.search-is-active .search-overlay{background-color:rgba(0,0,0,.9);z-index:50000510}@media (min-width:59.375em){.search-is-active .search-overlay{background-color:rgba(0,0,0,.76)}}.search-is-active .search-overlay .icon{display:block;height:1.125rem;width:1.125rem}.search-is-active .search-overlay .close{display:block}.search-form{width:96%;transition:all .3s ease-in-out;height:3.125rem;position:absolute;z-index:10;top:-3.125rem;left:2%;opacity:0;background-color:#fff}.search-is-active .search-form{margin-top:0;top:3.125rem;opacity:1;z-index:100002}.search-form .search-field{background-color:#fff;border:none;font-size:1.25rem;margin:0;font-weight:100;padding:.8125rem}@media (min-width:50.0625em){.p,p{line-height:1.5}.search-form{width:37.5rem;right:3.125rem;left:auto;height:4.6875rem}.search-form .search-field{padding:1.4375rem;font-size:1.625rem}}.search-form .submit{border:none;margin:0;width:3.125rem;text-align:center;background-color:#479cd6;line-height:0;position:absolute;right:0;top:0;padding:13px;padding:.8125rem}.search-form .submit:hover{background-color:#0074bc}@media (min-width:50.0625em){.search-form .submit{padding:1.3125rem;width:4.6875rem}}.newsletter-form{max-width:37.5rem;padding:1.6875rem 1.6875rem 1.875rem;border:4px solid #e3f3f1;background-color:#fcfefe;display:block;margin-left:auto;margin-right:auto}.newsletter-form .alt-heading{margin-bottom:1.125rem}.newsletter-form .dek{margin-bottom:1.6875rem;font-family:Georgia,Times,"Times New Roman",serif;font-size:1.125rem}.newsletter-form .input-field{border-color:#ddd;background-color:#fff}@media (max-width:31.25em){.newsletter-form .input-field{margin-bottom:1.5rem}}.newsletter-form .submit{width:100%;display:block;margin-bottom:.75rem}.newsletter-form .btn-wrap{width:8.75rem;margin-left:auto;margin-right:auto}@media (min-width:31.25em){.newsletter-form{padding:1.6875rem 2.125rem 3.125rem}.newsletter-form .inline-container{padding-right:9.6875rem}.newsletter-form .btn-wrap{position:absolute;right:0;top:0}}.email-friend-wrap{position:fixed;z-index:50050010;width:100%;height:100%;left:0;top:0;overflow:auto;display:none}.email-friend{background-color:#f6f6f6;padding:1.25rem;margin:1.125rem;box-shadow:0 0 5px rgba(0,0,0,.5);width:18.125rem;position:absolute;left:50%;top:10%;z-index:50050510;margin-left:-9.0625rem}.shift-left--slim,.shift-right,.shift-right--900{z-index:10}@media (min-width:28.125em){.email-friend{width:21.875rem;margin-left:-10.9375rem}}.email-friend .form-foot .btn{margin-bottom:.5625rem;display:block;margin-left:auto;margin-right:auto}.email-friend .icon-x{position:absolute;right:.3125rem;top:.3125rem}.header-inner,.lc,.shift-left--slim,.shift-right,.shift-right--900{position:relative}.email-friend .icon-x path{fill:#000}.field-desc{color:#a7a7a7;font-size:.75rem;padding:.375rem;padding-bottom:0;display:block}.nav-check-list label,.pagination .current,.pagination .page-item a{font-family:"Brown Pro",Verdana,Arial,sans-serif}td,th{border:1px solid #c9c9c9;padding:.2em}.field-recaptcha{margin-bottom:1.375rem}.g-recaptcha div,.g-recaptcha iframe{width:100%!important}table{border-collapse:collapse;border-spacing:0;border:1px solid #c9c9c9;width:100%}th{text-align:left}.header-inner,.primary-nav a{border-bottom:1px solid #ddd}@font-face{font-family:'Brown Pro';src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.eot);src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.eot) format("embedded-opentype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.woff2) format("woff2"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.woff) format("woff"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.ttf) format("truetype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-regular-s.svg#BrownProRegular) format("svg")}@font-face{font-family:'Brown Pro';font-style:italic;src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.eot);src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.eot) format("embedded-opentype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.woff2) format("woff2"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.woff) format("woff"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.ttf) format("truetype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-italic-s.svg#BrownProRegular) format("svg")}@font-face{font-family:'Brown Pro';font-weight:700;src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.eot);src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.eot) format("embedded-opentype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.woff2) format("woff2"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.woff) format("woff"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.ttf) format("truetype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bold-s.svg#BrownProBold) format("svg")}@font-face{font-family:'Brown Pro';font-weight:700;font-style:italic;src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.eot);src:url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.eot) format("embedded-opentype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.woff2) format("woff2"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.woff) format("woff"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.ttf) format("truetype"),url(http://fonts.timeinc.net/ti/realsimple/lineto-brown-pro-bolditalic-s.svg#BrownProBoldItalic) format("svg")}.animate-fade{-webkit-transition:opacity,.3s,ease-out;-moz-transition:opacity,.3s,ease-out;transition:opacity,.3s,ease-out}.animate-fade:hover{opacity:0}.animate-move>.demo-shape{-webkit-transition:all,.8s,ease-in-out;-moz-transition:all,.8s,ease-in-out;transition:all,.8s,ease-in-out}.lc{max-width:79.375em;margin:0 auto;padding-left:1.125rem;padding-right:1.125rem}.lc-inner--l,.lc-inner--m,.narrow{margin-right:auto}.lc-inner--l,.lc-inner--m,.narrow,.secondary{margin-left:auto;display:block}@media (min-width:50.0625em){.lc .nav-toggler{left:1.125rem}.lc .search-toggler{right:1.125rem}}@media (min-width:64em){.lc{padding-left:1.6875rem;padding-right:1.6875rem}.lc .nav-toggler{left:1.6875rem}.lc .search-toggler{right:1.6875rem}}.lc-inner{max-width:65.25em}.lc-inner--l{max-width:71.875em}.lc-inner--m{max-width:60.625em}.narrow{max-width:37.5rem}.narrow.narrow--s{max-width:43.75rem}.narrow.narrow--m{max-width:50rem}.narrow.narrow--l{max-width:62.5rem}.narrow.narrow--xl{max-width:78.125rem}@media all and (max-width:50em){.l-two-col .l-sidebar{clear:both}}@media all and (min-width:50em){.l-two-col .l-main{float:left;width:70%;padding-right:1.125rem}.l-two-col .l-sidebar{float:left;width:30%;padding:0 0 0 1.125rem}}.primary,.primary-inner{padding-bottom:1.125rem}.primary{width:100%;margin-bottom:1.125rem}@media (min-width:50.0625em){.primary{float:left;margin-right:-21.875rem}}@media (min-width:64em){.primary{margin-right:-23.75rem}}@media (min-width:75.375em){.primary{margin-right:-24.625rem}}@media (min-width:50.0625em){.primary-inner{margin-right:21.875rem}}@media (min-width:64em){.primary-inner{margin-right:23.75rem}}@media (min-width:75.375em){.primary-inner{margin-right:24.625rem}}.secondary{max-width:40.625rem;margin-right:auto}@media (min-width:50.0625em){.secondary{float:right;width:18.75rem}}.shift-left{width:100%}@media (min-width:50.0625em){.shift-left{float:left;margin-right:-18.75rem}.shift-left-inner{margin-right:20rem}}@media (min-width:75em){.shift-left-inner{margin-right:21.25rem}}@media (min-width:50.0625em){.shift-right{float:right;width:18.75rem}}.shift-left--700{width:100%}@media (min-width:43.75em){.shift-left--700{float:left;margin-right:-12.5rem}}@media (min-width:56.25em){.shift-left--700{margin-right:-15.625rem}}@media (min-width:43.75em){.shift-left--inner--700{margin-right:14.0625rem}}@media (min-width:56.25em){.shift-left--inner--700{margin-right:17.5rem}}@media (min-width:68.75em){.shift-left--inner--700{margin-right:18.75rem}}@media (min-width:43.75em){.shift-right--700{float:right;width:12.5rem}}@media (min-width:56.25em){.shift-right--700{width:15.625rem}}.shift-left--900{width:100%}@media (min-width:56.25em){.shift-left--900{float:left;margin-right:-18.75rem}.shift-left-inner--900{margin-right:20rem}.shift-right--900{float:right;width:18.75rem}}.shift-right-flipped--700{width:100%}@media (min-width:43.75em){.shift-right-flipped--700{float:right;margin-left:-16.5625rem}}@media (min-width:75em){.shift-left-inner--900{margin-right:21.25rem}.shift-right-flipped--700{margin-left:-19.375rem}}.shift-left-flipped--700{position:relative;z-index:10}@media (min-width:43.75em){.shift-right-flipped-inner--700{margin-left:16.5625rem}.shift-left-flipped--700{float:left;width:15rem}}@media (min-width:75em){.shift-right-flipped-inner--700{margin-left:19.375rem}.shift-left-flipped--700{width:17.5rem}}.shift-right--slim{width:100%}@media (min-width:37.5em){.shift-right--slim{float:right;margin-left:-12.5rem}}@media (min-width:37.5em) and (min-width:50.0625em) and (max-width:65.625em){.shift-right--slim.revert-to-origin{float:none;margin-left:0}}@media (min-width:75em){.shift-right--slim{margin-left:-15rem}}@media (min-width:37.5em){.shift-right--slim-inner{margin-left:12.5rem}}@media (min-width:37.5em){.shift-left--slim{float:left;width:11.25rem}}@media (min-width:50.0625em) and (max-width:65.625em){.shift-right--slim-inner.revert-to-origin{margin-left:0}.shift-left--slim.revert-to-origin{float:none;width:auto}}@media (min-width:75em){.shift-right--slim-inner{margin-left:15rem}.shift-left--slim{width:13.75rem}}.g{overflow:hidden;margin:0 -.5625rem}.gi{padding:.5625rem}.gi img{display:block}.g-1up .gi{width:100%}@media all and (min-width:46.8em){.gi{float:left}.g-2up>.gi{float:left;width:50%}.g-2up>.gi:nth-of-type(odd){clear:left}}.g-half>.gi{float:left;width:50%}.g-half>.gi:nth-of-type(odd){clear:left}@media (max-width:37.5em){.g-3up .b-title{font-size:1.125rem}}@media all and (min-width:25em){.g-3up>.gi{float:left;width:50%;width:33.3333333%}}.g-3up-v2{text-align:center}@media (max-width:37.5em),(min-width:50.0625em) and (max-width:56.25em),(min-width:64em){.g-3up-v2 .b-title{font-size:1.5625rem}}@media (min-width:25em) and (max-width:37.5em),(min-width:50.0625em) and (max-width:56.25em){.g-3up-v2>.gi{display:inline-block;width:49%;float:none}}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:56.25em){.g-3up-v2>.gi{float:left;width:33.3333333%}}@media (min-width:46.8em){.g-4up>.gi{float:left;width:50%}.g-4up>.gi:nth-of-type(2n+1){clear:both}}@media (min-width:50em){.g-4up>.gi{width:25%}.g-4up>.gi:nth-of-type(2n+1){clear:none}.g-4up>.gi:nth-of-type(4n+1){clear:left}}@media (min-width:28.125em){.g-4up-v2>.gi{float:left;width:50%}.g-4up-v2>.gi:nth-of-type(2n+1){clear:both}}@media (min-width:75.375em){.g-4up-v2>.gi{width:25%}.g-4up-v2>.gi:nth-of-type(2n+1){clear:none}.g-4up-v2>.gi:nth-of-type(4n+1){clear:left}}.g-4up-early-break>.gi{float:left;width:50%;margin-bottom:1.125rem}.g-4up-early-break>.gi:nth-of-type(2n+1){clear:both}.g-4up-early-break .b-thumb{margin-bottom:.25rem}.g-4up-early-break .b-title{font-size:1.125rem}@media (min-width:28.125em){.g-4up-early-break>.gi{width:25%;margin-bottom:0;padding-bottom:0}.g-4up-early-break>.gi:nth-of-type(2n+1){clear:none}.g-4up-early-break>.gi:nth-of-type(4n+1){clear:left}.g-4up-early-break .b-title{font-size:1rem}}.g-4up-2col-start>.gi{float:left;width:50%;margin-bottom:1.125rem}.g-4up-2col-start>.gi:nth-of-type(odd){clear:left}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:62.5em){.g-4up-2col-start>.gi{width:33.333%}.g-4up-2col-start>.gi:nth-of-type(odd){clear:none}.g-4up-2col-start>.gi:nth-of-type(3n+1){clear:left}}@media (min-width:75em){.g-4up-2col-start>.gi{width:25%}.g-4up-2col-start>.gi:nth-of-type(3n+1){clear:none}.g-4up-2col-start>.gi:nth-of-type(4n+1){clear:left}}@media (min-width:31.25em){.g-4up--500-700-1000>.gi{width:50%}.g-4up--500-700-1000>.gi:nth-of-type(odd){clear:left}}@media (min-width:43.75em){.g-4up--500-700-1000>.gi{width:33.333%}.g-4up--500-700-1000>.gi:nth-of-type(odd){clear:none}.g-4up--500-700-1000>.gi:nth-of-type(3n+1){clear:left}}@media (min-width:62.5em){.g-4up--500-700-1000>.gi{width:25%}.g-4up--500-700-1000>.gi:nth-of-type(3n+1){clear:none}.g-4up--500-700-1000>.gi:nth-of-type(4n+1){clear:left}}.g-5up>.gi{float:left;width:50%}.g-5up>.gi:nth-of-type(2n+1){clear:both}.g-5up>.gi:last-child{width:100%}@media (min-width:34.375em){.g-5up>.gi{float:left;width:33.3333%}.g-5up>.gi:nth-of-type(2n+1){clear:none}.g-5up>.gi:nth-of-type(4){clear:left}.g-5up>.gi:last-child{width:33.3333%}}@media (min-width:50.0625em){.g-5up>.gi{width:20%}.g-5up>.gi:nth-of-type(2n+1),.g-5up>.gi:nth-of-type(4){clear:none}.g-5up>.gi:last-child{width:20%}}.g-quarter>.gi{float:left;width:24%}.g-quarter>.gi:nth-of-type(4n+1){clear:left}@media all and (min-width:29.75em){.g-max4>.gi{float:left;width:50%}.g-max4>.gi:nth-of-type(2n+1){clear:both}}@media all and (min-width:39.8em){.g-max4>.gi{width:33.3333333%}.g-max4>.gi:nth-of-type(2n+1){clear:none}.g-max4>.gi:nth-of-type(3n+1){clear:left}}@media all and (min-width:50em){.g-max4>.gi{width:25%}.g-max4>.gi:nth-of-type(3n+1){clear:none}.g-max4>.gi:nth-of-type(4n+1){clear:left}}.g-max5>.gi{float:left;width:50%}.g-max5>.gi:nth-of-type(2n+1){clear:both}@media all and (min-width:39.8em){.g-max5>.gi{width:33.3333333%}.g-max5>.gi:nth-of-type(2n+1){clear:none}.g-max5>.gi:nth-of-type(3n+1){clear:left}}@media all and (min-width:46.8em){.g-max5>.gi{width:25%}.g-max5>.gi:nth-of-type(3n+1){clear:none}.g-max5>.gi:nth-of-type(4n+1){clear:left}}@media all and (min-width:48em){.g-max5>.gi{width:20%}.g-max5>.gi:nth-of-type(4n+1){clear:none}.g-max5>.gi:nth-of-type(5n+1){clear:left}}.cf:after,.clear,.header-inner:after,.l-two-col:after,.nav-wrap{clear:both}@media all and (min-width:46.8em){.gi-2-3{float:left;width:66.666666%}.gi-1-3{float:left;width:33.333333%}}.g-opposites .gi{float:left}.g-opposites .gi:last-child{float:right;text-align:right}.header-inner{z-index:50000010;background-color:#fff;height:3.125rem;margin-bottom:.5625rem;-webkit-transition:height .15s ease-in-out,background-color .15s ease-in-out;-moz-transition:height .15s ease-in-out,background-color .15s ease-in-out;transition:height .15s ease-in-out,background-color .15s ease-in-out}@media (min-width:59.375em){.header-inner{margin-bottom:0}}.logo-link{display:block;max-width:11.75rem;line-height:1;margin:0 auto;-webkit-transition:padding .15s ease-in-out,max-width .15s ease-in-out;-moz-transition:padding .15s ease-in-out,max-width .15s ease-in-out;transition:padding .15s ease-in-out,max-width .15s ease-in-out;padding:16px 12px 13px;padding:1rem .75rem .8125rem}.logo-link svg{max-height:1.125rem}.logo--small{width:7.5rem}@media (min-width:50.0625em){.header-inner{height:auto}.logo-link{max-width:18.4375rem;padding-bottom:.4375rem}.logo-link svg{max-height:2rem}.body-home-page .header .logo-link{max-width:24.0625rem}.body-home-page .header .logo-link svg{max-height:3rem}.logo--small{width:9.375rem}}.header-inner.sticky-is-active{top:0;height:2.375rem;background-color:rgba(255,255,255,.85)}.header-inner.sticky-is-active .logo-link{padding-top:.625rem;padding-bottom:.4375rem;max-width:11.75rem}.header-inner.sticky-is-active .logo-link svg{max-height:1.125rem}.header-inner.sticky-is-active .nav-toggler{top:-.125rem}@media (min-width:64em){.g-4up-early-break .b-title{font-size:1.125rem}.header-inner.sticky-is-active .nav-toggler{top:.3125rem}}.header-inner.sticky-is-active .search-toggler{top:-.0625rem}.nav-toggler{display:block;position:absolute;z-index:10;top:.25rem;left:4px;left:.25rem;width:40px;width:2.5rem;height:40px;height:2.5rem;padding:8px;padding:.5rem}@media (min-width:64em){.nav-toggler{top:auto;left:.5rem;bottom:-.1875rem}}.nt-inner{position:relative;left:0;top:0}body:not(:-moz-handler-blocked) .nt-inner{top:.625rem}@media (min-width:64em){.nt-inner{position:absolute}body:not(:-moz-handler-blocked) .nt-inner{top:0}}.nt-inner span,.nt-inner span:after,.nt-inner span:before{cursor:pointer;width:22px;height:.15625rem;background-color:#000;position:absolute;display:block;content:'';margin-top:.75rem;transition:all .3s ease-in-out}.nav-wrap,.primary-nav .arrow{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out}.nt-inner span:before{margin-top:-.4375rem}.nt-inner span:after{margin-top:.4375rem}.csstransforms .main-nav-is-active .nt-inner span{background-color:transparent}.csstransforms .main-nav-is-active .nt-inner span:after,.csstransforms .main-nav-is-active .nt-inner span:before{margin-top:0;left:0;display:block;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.csstransforms .main-nav-is-active .nt-inner span:after{-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}.search-toggler{display:block;position:absolute;z-index:10;top:.4375rem;text-align:right;right:4px;right:.25rem;width:40px;width:2.5rem;height:38px;height:2.375rem;padding:8px;padding:.5rem}@media (min-width:64em){.search-toggler{top:46px;top:2.875rem}.body-home-page .search-toggler{top:60px;top:3.75rem}}.top-hat{position:relative;z-index:50000500}.nav-wrap{overflow:auto;width:90%;max-width:18.75rem;background-color:#fff;position:fixed;left:-18.8125rem;z-index:50000005;top:0;height:100%;transition:all .3s ease-in-out}.block,.block-thumb .b-inner,.pagination{overflow:hidden}.nav-wrap a{display:block;line-height:1;height:2.8125rem;padding:12px 14px;padding:.75rem .875rem}.header-is-sticky .horiz-nav,.header-is-sticky .util-nav,.horiz-nav{display:none}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.nav-wrap a{padding-top:1rem}}.nav-wrap-inner{padding-top:3.125rem}@media (min-width:50.0625em){.nav-wrap-inner{padding-top:7.8125rem}.body-home-page .nav-wrap-inner{padding-top:8.5rem}}@media all and (min-width:50.0625em) and (-ms-high-contrast:none),(min-width:50.0625em) and (-ms-high-contrast:active){.nav-wrap-inner{padding-top:8.125rem}.body-home-page .nav-wrap-inner{padding-top:8.8125rem}}.header-is-sticky .nav-wrap-inner{padding-top:2.375rem}.main-nav-is-active .nav-wrap{left:0}.main-nav-is-active.overlay{background-color:rgba(0,0,0,.9);z-index:99000}@media (min-width:50.0625em){.main-nav-is-active.overlay{background-color:rgba(0,0,0,.76)}}.primary-nav{margin-bottom:.5625rem}.primary-nav .l-top{position:relative}.primary-nav .l-top>a{background-color:#fafafa}.primary-nav a{font-size:1.25rem}.primary-nav .aw{height:2.625rem;position:absolute;width:8.75rem;padding-top:.875rem;padding-right:.875rem;z-index:10;top:0;right:0;text-align:right}.horiz-nav,.horiz-nav .l-top a,.pagination,.util-nav{text-align:center}.primary-nav .arrow{transition:all .3s ease-in-out;-webkit-transform:rotate(0);-moz-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0)}.horiz-nav{opacity:1;position:relative;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}@media (min-width:50.0625em){.horiz-nav{display:block}}.horiz-nav .primary-nav{margin-bottom:0}.horiz-nav .aw{display:none}.horiz-nav .l-top{display:inline-block;padding-left:.6%;padding-right:.6%;vertical-align:top}@media (min-width:53.125em){.horiz-nav .l-top{padding-left:.87%;padding-right:.87%}}@media (min-width:56.25em){.horiz-nav .l-top{padding-left:1.2%;padding-right:1.2%}}@media (min-width:68.75em){.horiz-nav .l-top{padding-left:1.5%;padding-right:1.5%}}@media (min-width:75.375em){.horiz-nav .l-top{padding-left:2%;padding-right:2%}}.horiz-nav .l-top>a{background-color:transparent}.horiz-nav .l-top a{color:#000;border-bottom:none;display:block;font-size:1rem;font-weight:600;padding:.25rem .375rem .625rem}.horiz-nav .l-top a:hover,.horiz-nav .l-top.is-hovered>a{color:#ef4e74}.horiz-nav .l-top:hover .nav-sub{display:block}.horiz-nav .nav-sub{position:absolute;left:0;top:auto;border:1px solid #ddd;background-color:#fafafa;width:13.75rem;padding-top:.875rem;padding-bottom:.875rem}.horiz-nav .nav-sub:after,.horiz-nav .nav-sub:before{content:"";display:block;position:absolute;left:50%;margin-left:-.4375rem;border:8px solid transparent;border-bottom-color:#fafafa}.horiz-nav .nav-sub:after{z-index:10;top:-1rem}.horiz-nav .nav-sub:before{z-index:8;top:-1.0625rem;border:8px solid transparent;border-bottom-color:#c9c9c9}.horiz-nav .l-sub a{text-transform:none;display:block;padding:.5625rem .4375rem;font-size:1rem;font-weight:400}.horiz-nav .l-follow .nav-sub{width:18.75rem;padding-bottom:0;padding-top:.375rem}@media (min-width:75.375em){.horiz-nav .l-follow .nav-sub{background-color:transparent;top:auto;border:none;bottom:1.5rem}.horiz-nav .l-follow .nav-sub:after,.horiz-nav .l-follow .nav-sub:before{display:none}.horiz-nav .l-follow .nav-sub .icon{width:2.1875rem;height:2.1875rem;padding:.3125rem}}.l-top.is-active,.l-top.is-active>a,.subscribe-pop .pop-out{background-color:#eaeeed}.l-give-a-gift{background-repeat:no-repeat;background-position:center bottom;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAPCAYAAAAWJLrwAAAA CXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAA ABkxJREFUeNrsWFtvVFUUXvvcZjrTmWmnt2mgdApTaomlkGqCF7REMRJvvGA0xjBo9MUH/QMmJP JoDM/GxKLGkBCTEnnhkljgAUhIBRTLVMqUFnvvdKbt3M7Vb58zvV8M0ERNZqV79jn7nL33Wutb6 1v7lFmWRUVx5HzkiYjB2FcVtVVjit9/ovXMmcv/li6sCMyCdLc8fbZEEF5JuyW6OjFKgiKPVpH1 2aGeOycfZp3pDz4KT8xONxuCaDSe/PFcEZjHlPgLB7LmzIxbUlzk9vkppxg0qGZoYmJsuDqr7ng 2die51txLDU1lMS3X0VQV3J9MznquZjPUHK6jp3ylbzafv/Dzw+oiFOFw5Gak5WOptNQtu90UqN lEgiiRkcqRJ5GlYJZqZakkcTbSeGi1uV9vDp/sdrPJbS2Rtyq8fs/2YCW9X1ZNtWNTlJmZbX2kj Pm+rkFwMbbFxQQKiCK5iJGEJgIzkdmvFNBjYYbrxfllkZVDN+Jcry6aZc5fy2xlHOh8Jv4Y4zvx xgr9wjV/yJ+TwHvowO8Fgeb2tfhcJtq9VXifN03X7DHN0Ek3DNyjNw0CSST3x2NLov/+a2/f0Cb GWvOTU+Ryl5Db68Nipr2XtyxIuWSCJpPjdDufPvZO/93P+ZyfItv3Gi75fNhV4gpkYKetk6PjrK HauuQ8wrXnurv3rOabU/Xbwgw+MW0fMfIVbEoa+oBNZT9s2RrF/VG0+mpRoUpEixtNRJMkCRuKm OdMMmGYnWoCIopvblp4LJIJ4y0ThmATezM4wSo43GbLjaBM5hjNBKcJ0EuUZVtPQVZIhK4ietnl XgKQYOtuUd/gXaqpDFH8QZxymko7tu64D6f0A8DBYKjhvcz4AzY1ECfdMgjwkVkInABT6C8zR5s EN3lDIfJ6/XS999ZdeGYbGhuA7UEJ9AfHhjxeqvCV0eRM0vbVUHbWzJnGF0Gm7EIgh7Fkaw4rG5 azfh7+qob/uL4Yu4+xjnFdO7akxgCg9gJALz6plJIbRiuK2waGO38+rJ2feTEAAo8u0wYGJiE6O UgmX9u0nNzaKHDWBW5BN66qIIlOzuGmqmE7jcdjAE+2A8exRXCAtiMcEGTTJMNOj7+M/MFqmhof Ji09S3petW04l56iV5t3U4Wk0J99d+zgUE2d0phbjnmlGPf7+NwaSqYSNDAxhAw1yVtSQiyvgz0 sG3APtjYKoHOA0Ke431++Fzu+bvE/FY505E3z8E7FT9I8GAsERoKwQGbGOs7+nx0sEFaUkxllJR jsk2lqOElpONYAp6c1jYbUPKhNoCyuAS+14YCwWXaRVymhyvIqkpCpAs9gjOXVLKWmp2hg5AGFf D5iGW3OY/Y+Ns2j1xC4oNvTz/TdPrjqqQzZEvYJcrSGydEss+r9jNcZXl84FawIS/vXWjNw+fZs xTtOhWLrzFt7zeXrbpT06xmSEWgeEi8KjHWBF7pylpkYN7TvIpKnddhU6crsFOjNojwcMaLrqTq X8sbOQPWlvsQohbxeYIiqrOrIBJGqQPEKNOQ0JXgV+A7ZOJMjP8ad05ajv8HpzLaH7HfRp1KGEX 053tO5HBgLwFANryu45wcAXr7scsacMiwUFuZNw3JzELElkDnvLC7ubNkzZy5bMc5FJfMh3PrPG bk8acfgaDjrJoKuH/bcgBZd++71dPFnF3DkRSYchc6floO+k6BnL5Poen6a8pySAUxAEI98OBDv uLC1qaOtue1wPHaLOnEo4OrXuUqo0eWZrnV5Xm/64/rl7kgLrym8PPBs2MVrON8HcMFOfgix7MM FzyAkJmVwNarnL747cK+9+B2zSH5paOqEf9rLRSWgWjqJlkB9etam8zJEPKjnyIF4b8fc+xychr Kaw78nhqk3l6EgaKxClKlR9qYsb+nxvKF92fbbtdlH0aX4HbNI9sVjB1+Kx8oSpnqRs8YQsisAB gEovDgvAYULinV0JDl+ohqgbcIhKYQTbQD1RfCXd6g4BKmG+nzxXzIbJN9sDu9CPfm1Hl//oDUO SKd9YorH+teac7mhOaow4duEpdGVmRTVKMq+T4YGux5Hj2LGLP/gtayjvenp0ygZR3AbBiDR9UD hsjfe06Eyc3dIdN3cUxrgNTla/Cfmf0xwgIiiFkVBe+2Ps87fAgwADtO0b5W70UwAAAAASUVORK 5CYII=')}@media (min-width:75.375em){.h-hide{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out;opacity:1}.header.follow-is-active .h-hide{opacity:0}}.secondary-nav{padding-bottom:1.125rem}.secondary-nav a{color:#000;font-size:1.125rem}.l-padded a{border-top:1px solid #ddd;border-bottom:1px solid #ddd;padding-top:1.0625rem;padding-bottom:1.0625rem;margin:.375rem 0;height:auto}.l-alt a{color:#909090}.nav-sub{display:none}.nav-sub a{color:#000;padding-left:1.5625rem}.l-top.is-active a{border-bottom:1px solid #fff}.l-top.is-active .nav-sub{display:block}.l-top.is-active .arrow{-webkit-transform:rotate(90deg);-moz-transform:rotate(90deg);-ms-transform:rotate(90deg);-o-transform:rotate(90deg);transform:rotate(90deg)}.l-follow.is-active .l-sub a{border-bottom:none}.l-follow .l-sub{display:inline-block;margin-right:.25rem}.l-follow .l-sub:last-child{margin-right:0}.l-follow .l-sub a{padding:.5625rem}.subscribe-pop a>span{position:relative;z-index:50000035}.subscribe-pop .pop-out{display:none;position:absolute;top:0;z-index:50000015;padding:1.5rem .375rem .375rem;width:27.5rem;right:.5rem}.subscribe-pop:hover .pop-out{display:block}.featured-stories{display:none;margin-bottom:0}.featured-stories .gi{padding-left:0}.featured-stories .gi:last-child{padding-right:0}@media (min-width:59.375em){.featured-stories{display:block}}.featured-stories .b-title{font-size:1rem;color:#ef4e74;line-height:1.2}@media (min-width:64em){.subscribe-pop .pop-out{right:1.25rem}.featured-stories .b-title{font-size:1.0625rem}}.util-nav{display:none;position:absolute;right:3.125rem;top:.625rem;width:10.625rem;z-index:50000135;border:1px solid transparent}.util-nav .divider{width:1px;display:inline-block;background-color:#c9c9c9;height:.9375rem;margin-bottom:-.1875rem}.util-nav a{display:inline-block;line-height:1;padding:.625rem 0 .5625rem;font-size:.875rem}@media (min-width:50.0625em){.util-nav{display:block}}@media (min-width:64em){.util-nav{right:.625rem}}.util-nav.util-is-active.logged-in{border:1px solid #ddd}.util-nav.util-is-active.logged-in li{display:block}.util-nav.util-is-active.logged-in a{border-bottom:1px solid #ddd}.util-nav.logged-in li{display:none}.util-nav.logged-in .li-vis{display:block}.util-nav.logged-in .li-vis a{background-color:#fff;color:#ef4e74}.util-nav.logged-in a{display:block;background-color:#fafafa;color:#000}.util-nav.logged-in a:hover{color:#ef4e74}.util-nav.logged-in li:last-child a{border-bottom:none}.pagination{margin-bottom:1.6875rem}.pagination .page-list{display:inline-block;vertical-align:middle}.pagination .icon{vertical-align:middle}.pagination .icon:hover{border:1px solid #479cd6;background-color:#fff}.pagination .icon:hover path{fill:#479cd6}.pagination li{float:left;margin:.5625rem}.pagination .current,.pagination .page-item a{width:1.875rem;height:1.875rem;padding:.375rem .375rem .25rem;color:#000;display:block;text-align:center}.dropdown,.dropdown:hover .dd-menu{display:inline-block}.pagination .page-item a:hover{background-color:#0074bc;color:#fff}.pagination .page-item.ellip{margin:.8125rem .625rem 0 -.25rem}.pagination .current{color:#a7a7a7;background-color:#fff;border:1px solid #ddd;line-height:1.1}.dropdown{z-index:50;background-color:#f7fbfa;position:relative;text-align:left;margin:0 .25rem .5625rem 0}.dd-title{background-color:#fff;font-size:1.125rem;padding:.5625rem 1.375rem;position:relative;z-index:11;border:1px solid #ddd;min-width:14.375rem}.dd-title span{border-top-color:#000;position:absolute;right:1.125rem;top:50%;margin-top:-.25rem}.dd-menu{display:none;padding:1.125rem 1.25rem .25rem;background-color:#f6f6f6;left:0;width:100%;position:absolute;margin-top:-1px;z-index:10;border:1px solid #ddd}.dd-menu .dd-item{margin-bottom:1.125rem}.dd-item a{display:block}.dd-item:last-child{margin-bottom:0}.nav-check-list{margin-bottom:2.25rem}.nav-check-list label{font-weight:700}.cl-item-amt{font-weight:400;color:#909090}.nav-check-list-title{margin-bottom:.5625rem}.search-filters{position:relative}.search-filters .arrow{display:none}.search-filters label{font-size:1rem}.search-filters .check-list{padding-left:0}@media (max-width:37.5em){.search-filters .nav-check-list.is-active .nav-check-list-title,.search-filters .nav-check-list:hover .nav-check-list-title{color:#d81442}.search-filters{padding-bottom:4rem}.search-filters label{font-size:.9375rem}.search-filters .nav-check-list-title{cursor:pointer;margin-bottom:0}.search-filters .arrow{display:inline-block;border-width:.375rem;padding-bottom:.1875rem;margin-left:.1875rem;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.search-filters .nav-check-list{position:absolute;width:49%;left:0;background-color:#fff;padding:.5rem .5rem .4375rem;border:1px solid #ddd;z-index:100}.search-filters .nav-check-list:nth-child(even){left:auto;right:0}.search-filters .nav-check-list.is-active .arrow{margin-bottom:.1875rem;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}.search-filters .nav-check-list.is-active .check-list{display:block}.search-filters .check-list{display:none;padding-top:.5rem}}@media (min-width:50.0625em) and (max-width:65.625em){.search-filters.revert-to-origin .nav-check-list.is-active .nav-check-list-title,.search-filters.revert-to-origin .nav-check-list:hover .nav-check-list-title{color:#d81442}.search-filters.revert-to-origin{padding-bottom:4rem}.search-filters.revert-to-origin label{font-size:.9375rem}.search-filters.revert-to-origin .nav-check-list-title{cursor:pointer;margin-bottom:0}.search-filters.revert-to-origin .arrow{display:inline-block;border-width:.375rem;padding-bottom:.1875rem;margin-left:.1875rem;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.search-filters.revert-to-origin .nav-check-list{position:absolute;width:49%;left:0;background-color:#fff;padding:.5rem .5rem .4375rem;border:1px solid #ddd;z-index:100}.search-filters.revert-to-origin .nav-check-list:nth-child(even){left:auto;right:0}.search-filters.revert-to-origin .nav-check-list.is-active .arrow{margin-bottom:.1875rem;-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}.search-filters.revert-to-origin .nav-check-list.is-active .check-list{display:block}.search-filters.revert-to-origin .check-list{display:none;padding-top:.5rem}}.block p:last-child{margin-bottom:0}.block .byline span{font-weight:700;font-size:.75rem}.block .kicker{display:block;margin-bottom:.3125rem}.b-text .kicker{margin-top:.5625rem}.has-video .img-wrap{position:relative;display:inline-block}.b-title,.b-title a,.recirc-headline a{color:#000;font-weight:400;font-size:1.3125rem}.b-title a:hover,.block a:hover .b-title,.recirc-headline a:hover{color:#ef4e74}.bigger-title .b-title,.bigger-title .b-title a{font-size:1.625rem}.block a:hover .b-title span{background-repeat:repeat-x;background-size:.1em .1em;background-position:0 1.13em;text-decoration:none;background-image:-webkit-linear-gradient(top,transparent 50%,#c9c9c9 50%);background-image:linear-gradient(to bottom,transparent 50%,#c9c9c9 50%)}.lt-ie10 .block a:hover .b-title span{background:0 0;text-decoration:underline}.block a:hover .icon-play{opacity:1}.b-title a:hover span,.recirc-headline a:hover span{background-repeat:repeat-x;background-size:.1em .1em;background-position:0 1.13em;text-decoration:none;background-image:-webkit-linear-gradient(top,transparent 50%,#c9c9c9 50%);background-image:linear-gradient(to bottom,transparent 50%,#c9c9c9 50%)}.lt-ie10 .b-title a:hover span,.lt-ie10 .recirc-headline a:hover span{background:0 0;text-decoration:underline}.block-thumb{width:100%}.block-thumb.table-layout .b-inner{display:table;width:100%;overflow:visible}.block-thumb.table-layout .b-thumb{display:table-cell;width:50%;padding:0}.block-thumb.table-layout .b-text{display:table-cell;width:50%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}.block-thumb.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.block-thumb.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:26%;padding:0}.block-thumb.table-layout--more-text .b-text{display:table-cell;width:50%;width:74%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}@media (min-width:37.5em) and (max-width:56.25em){.block-thumb.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.block-thumb.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:30%;padding:0}.block-thumb.table-layout--more-text .b-text{display:table-cell;width:50%;width:70%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}.block-thumb-dek .alt-heading{margin-bottom:.5625rem}@media (max-width:28.125em){.block-thumb-dek .alt-heading{font-size:1.4375rem}}.block--flipped .b-text{float:right}.block--flipped .b-thumb{float:left}.subscription-block.table-layout .b-inner{display:table;width:100%;overflow:visible}.subscription-block.table-layout .b-thumb{max-width:6.25rem;display:table-cell;width:50%;width:28%;padding:0}.subscription-block.table-layout .b-text{display:table-cell;width:50%;width:72%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}.block-headline-summary a{display:block;padding:.5625rem}.block-inset{position:relative}.block-inset .headline{font-size:1.75rem;margin-bottom:10px;margin-bottom:.625rem}.block-inset .b-text{position:absolute;bottom:0;left:0;width:100%;height:100%;text-align:center;background:rgba(0,0,0,.35);color:#fff;padding:1.25rem;display:flex;align-items:center;justify-content:center}.block-inset .unify,.block-listicle-item .has-credit{position:relative}.block-inset .byline{color:#fff;font-size:.875rem}.block-inset .kicker{opacity:.75;margin-bottom:14px;margin-bottom:.875rem}.block-headline .b-title{font-weight:700}.block-headline .date-city{color:#c9c9c9;font-size:.8125rem}.block-listicle-item{position:relative;margin-bottom:2.8125rem;overflow:visible}.block-listicle-item .has-credit .credit{position:absolute;right:0}.block-listicle-item:last-child{margin-bottom:0}.block-listicle-item .b-thumb{margin-bottom:1.875rem;text-align:center}@media (min-width:28.125em){.block-listicle-item .b-thumb{width:50%;float:right;padding-top:.5625rem;margin-bottom:0}}@media (min-width:43.75em){.block-listicle-item .b-thumb{padding-top:0}}@media (min-width:64em){.block-listicle-item .b-thumb{width:53%}}.block-listicle-item .img-wrap{display:inline-block;width:100%}.block-listicle-item .b-head{display:table;width:100%;margin-bottom:.375rem}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:59.375em){.block-listicle-item .b-head{display:inline}}.block-listicle-item .b-title,.block-listicle-item .number--large{display:table-cell;vertical-align:middle}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:59.375em){.block-listicle-item .number--large{float:left;margin-top:.625rem}}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.block-listicle-item .number--large{margin-top:1.875rem}}@media (min-width:64em){.block-listicle-item .number--large{margin-top:2.5rem}}@media (min-width:75.375em){.block-listicle-item .number--large{margin-top:5rem}}.block-listicle-item .b-title{margin-bottom:.5625rem;font-size:1.625rem;font-weight:700}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:59.375em){.block-listicle-item .b-title{margin-top:.625rem;margin-bottom:.25rem;padding-top:0;padding-bottom:0;display:block;width:50%;float:left;margin-right:-6.25rem;padding-right:6.875rem}}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.block-listicle-item .b-title{margin-top:1.875rem}}@media (min-width:64em){.block-listicle-item .b-title{width:46%;margin-top:2.5rem}}@media (min-width:75.375em){.block-listicle-item .b-title{margin-top:5rem}}@media (min-width:28.125em){.block-listicle-item .b-text{padding-right:1.125rem;width:50%}}@media (min-width:64em){.block-listicle-item .b-text{padding-right:1.6875rem;width:47%}}.block-listicle-item.block--no-img .b-title{width:auto;float:none}.block-listicle-item.block--no-img .b-text{width:100%;padding-right:0}.block-article-list-item,.daily-finds-list-type{margin-bottom:4.375rem}.block-article-list-item .b-title,.block-article-list-item .number--large,.daily-finds-list-type .b-title,.daily-finds-list-type .number--large{margin-top:0}@media (min-width:37.5em) and (max-width:50.0625em),(min-width:59.375em){.block-article-list-item .b-title,.daily-finds-list-type .b-title{width:55%}}@media (min-width:64em){.block-article-list-item .b-title,.daily-finds-list-type .b-title{width:60%}}@media (min-width:75.375em){.block-article-list-item .b-title,.daily-finds-list-type .b-title{width:65%}}@media (min-width:28.125em){.block-article-list-item .b-text,.daily-finds-list-type .b-text{width:55%}}@media (min-width:64em){.block-article-list-item .b-text,.daily-finds-list-type .b-text{width:60%}}@media (min-width:75.375em){.block-article-list-item .b-text,.daily-finds-list-type .b-text{width:65%}}@media (min-width:28.125em){.block-article-list-item .b-thumb,.daily-finds-list-type .b-thumb{width:45%}}@media (min-width:64em){.block-article-list-item .b-thumb,.daily-finds-list-type .b-thumb{width:40%}}@media (min-width:75.375em){.block-article-list-item .b-thumb,.daily-finds-list-type .b-thumb{width:35%}}.daily-finds-list-type{margin-bottom:0}.daily-finds-list-type .number--large{display:block;float:left;margin-right:1.125rem}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.daily-finds-list-type .number--large{position:absolute;left:0;top:3.125rem;z-index:10}.daily-finds-list-type .b-head{display:inline}}.daily-finds-list-type .b-title{display:block;padding-left:5.625rem}@media (min-width:37.5em){.daily-finds-list-type .b-title{width:auto}}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.daily-finds-list-type .b-title{float:right;width:50%;padding-right:0;margin-right:0;margin-top:1.125rem;padding-left:1.125rem;padding-top:1.6875rem}}@media (min-width:64em){.daily-finds-list-type .b-title{padding-right:0;padding-left:1.6875rem}}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.daily-finds-list-type .b-thumb{width:50%;padding-left:5rem}}@media (min-width:28.125em){.daily-finds-list-type .b-thumb{float:left}.daily-finds-list-type .b-text{float:right;padding-right:0;padding-left:1.125rem;padding-top:1.6875rem}}@media (min-width:64em){.daily-finds-list-type .b-text{padding-right:0;padding-left:1.6875rem}}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.daily-finds-list-type .b-text{padding-top:.375rem;width:50%}}@media (max-width:43.75em),(min-width:50.0625em) and (max-width:59.375em){.flexbox .daily-finds-list-type .b-head{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center}.flexbox .daily-finds-list-type .b-title{padding-left:0}}.block-social-feed{width:11.875rem;height:11.875rem;overflow:hidden;position:relative;border:1px solid #eaeeed;margin-top:.3125rem;display:block;margin-left:auto;margin-right:auto}.block-social-feed .b-text{padding:.5625rem}.block-social-feed .b-link{display:block}.block-social-feed p{font-family:Georgia,Times,"Times New Roman",serif;font-size:.875rem;line-height:1.45;margin:0}.block-social-feed p a{color:#479cd6;text-decoration:none}.block-social-feed p a:hover{text-decoration:underline;color:#0074bc}.feed-pinterest .pin-account{display:table;width:100%;margin-bottom:.375rem}.feed-pinterest .pin-img{display:block}.feed-pinterest .pin-img img{width:100%}.feed-facebook{overflow:hidden}.block-video{margin-bottom:2.8125rem}.block-video .b-vid{margin-bottom:.375rem}.block--meal-planner{margin-bottom:2.8125rem}@media (min-width:28.125em){.block--meal-planner .b-inner{display:table;width:100%;overflow:visible}.block--meal-planner .b-thumb{display:table-cell;width:50%;width:45%;padding:0}.block--meal-planner .b-text{display:table-cell;width:50%;width:55%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}.block--meal-planner .b-inner:hover .b-title{color:#000}.block--meal-planner .b-thumb{text-align:center;margin-bottom:.375rem}.block--meal-planner .b-title{text-transform:lowercase;margin-bottom:.375rem;font-size:1.625rem;line-height:1.15}.block--meal-planner .b-title span span{color:#f68c3d}.block--meal-planner p{font-size:.9375rem;line-height:1.4}.block--checklist-app{margin-bottom:1.125rem}@media (min-width:28.125em){.block--checklist-app .b-inner{display:table;width:100%;overflow:visible}.block--checklist-app .b-thumb{display:table-cell;width:50%;width:25%;padding:0}.block--checklist-app .b-text{display:table-cell;width:50%;width:75%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}.block-tip,.content-module{display:block;margin-left:auto;margin-right:auto}.block--checklist-app .b-thumb{text-align:center;margin-bottom:.5625rem}.block--checklist-app li,.block--checklist-app p{font-size:1rem;line-height:1.4}.block--checklist-app li{margin-bottom:.375rem}.block--checklist-app ul{margin-bottom:0}.block-tip{max-width:14.25rem;padding-top:1.125rem;margin-bottom:1.1875rem}.block-tip .kicker{margin-bottom:.5625rem}.content-module{margin-bottom:1.875rem}.content-module:not(.stacked){max-width:20rem}@media (min-width:28.125em){.content-module:not(.stacked){max-width:none}.content-module:not(.stacked) .b-inner{display:table;width:100%;overflow:visible}.content-module:not(.stacked) .b-thumb{display:table-cell;width:50%;width:40%;padding:0}.content-module:not(.stacked) .b-text{display:table-cell;width:50%;width:60%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}.content-module.table-layout--more-text{max-width:none}@media (max-width:28.125em),(min-width:50em){.content-module.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.content-module.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:35%;padding:0}.content-module.table-layout--more-text .b-text{display:table-cell;width:50%;width:65%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}@media (min-width:28.125em){.content-module.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.content-module.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:30%;padding:0}.content-module.table-layout--more-text .b-text{display:table-cell;width:50%;width:70%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}@media (min-width:37.5em) and (max-width:43.75em),(min-width:56.25em){.content-module.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.content-module.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:25%;padding:0}.content-module.table-layout--more-text .b-text{display:table-cell;width:50%;width:75%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}@media (min-width:43.75em) and (max-width:50em),(min-width:68.75em){.content-module.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.content-module.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:22%;padding:0}.content-module.table-layout--more-text .b-text{display:table-cell;width:50%;width:78%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}@media (min-width:75em){.content-module.table-layout--more-text .b-inner{display:table;width:100%;overflow:visible}.content-module.table-layout--more-text .b-thumb{display:table-cell;width:50%;width:20%;padding:0}.content-module.table-layout--more-text .b-text{display:table-cell;width:50%;width:80%;text-align:left;vertical-align:middle;padding:0 0 0 1.125rem}}.block-media,.block-option{text-align:center}.content-module .kicker{margin-top:0}.content-module .dek p{font-size:1.125rem}.content-module .b-title{margin-bottom:.5625rem}@media (min-width:43.75em) and (max-width:50.0625em),(min-width:59.375em){.content-module .dek p{font-size:1.25rem}.content-module .b-title{font-size:1.625rem}}.block-media .b-text{margin-bottom:1.25rem;max-width:35rem;padding-top:.5625rem;display:block;margin-left:auto;margin-right:auto}.block-media .b-title{font-size:1.625rem;margin-bottom:.5rem}.block-search-result{margin-bottom:1.125rem}@media (min-width:28.125em){.block-search-result{margin-bottom:1.5rem}}.block-search-result .b-title{margin-bottom:.25rem}@media (min-width:65.625em){.block-search-result .b-title{font-size:1.625rem}}.block-search-result p{color:#909090;line-height:1.35}@media (max-width:65.625em){.block-search-result p{font-size:1rem}}.block__sponsored{padding:.9375rem;border:1px solid #ef4e74}@media (min-width:64em){.block__sponsored{width:calc(100% + 30px);margin-left:-.9375rem}}.block__sponsored .ad__presented-by{margin-bottom:0}.block-option{margin-bottom:1.6875rem}.block-option .b-thumb{margin-bottom:.9375rem}.block-option .b-thumb img{width:100%}.block-option .b-checkbox{display:none}.block-option .b-checkbox:checked+.btn{background-color:#479cd6;color:#fff}.block-option .b-checkbox:checked+.btn:after{content:"Selected"}.block-option .btn{width:99%;margin:0 auto .9375rem}.block-option .btn:after{content:"Select"}.block-option .b-title{font-size:1.5rem;margin-bottom:.125rem}.block-option .frequency{margin-bottom:.5rem}.cf,.header-inner,.l-two-col{*zoom:1}.cf:after,.cf:before,.header-inner:after,.header-inner:before,.l-two-col:after,.l-two-col:before{content:" ";display:table}.rel{position:relative}.is-hidden{display:none!important;visibility:hidden!important}.is-vishidden{position:absolute!important;overflow:hidden;width:1px;height:1px;padding:0;border:0;clip:rect(1px,1px,1px,1px)}.arrow--down,.arrow--up{border-left:8px solid transparent;border-right:8px solid transparent}.img-inner{line-height:0;display:block}.img-wrap{line-height:1.2}.avoid-wrap{display:inline-block}.right{float:right;padding:0 0 1.125rem 1.125rem}.right-search{float:right;padding:0 0 1.125rem}.left{float:left;padding:0 1.125rem 1.125rem 0}.pad-btm,.pad-tb{padding-bottom:1.125rem}.no-float{float:none}.center-block{display:block;margin-left:auto;margin-right:auto}.va--middle{vertical-align:middle}.align-right{text-align:right}.align-center,.center{text-align:center}.align-left{text-align:left}.hide{display:none}.dib{display:inline-block}.db{display:block}.dtc{display:table-cell}@media (max-width:50.0625em){.hide-small{display:none}}@media all and (min-width:50.0625em) and (max-width:64em){.hide-med{display:none}}@media all and (min-width:64em) and (max-width:75.375em){.hide-large{display:none}}@media all and (min-width:75.375em){.hide-larger{display:none}}.show-all-vp{display:block}.valid{color:#089e00}.error{color:red}.warning{color:#fff664}.information{color:#000db5}.rounded{overflow:hidden;border-radius:100%}.arrow{width:0;height:0;display:inline-block}.arrow--up{border-bottom:8px solid}.arrow--down{border-top:8px solid}.arrow--left,.arrow--right{border-top:8px solid transparent;border-bottom:8px solid transparent}.arrow--right{border-left:8px solid}.arrow--left{border-right:8px solid}.arrow--small{border-width:5px}.overlay{position:fixed;background-color:#000;width:100%;height:100%;left:0;top:0;z-index:-1;background-color:rgba(0,0,0,0);-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.overlay-active{background-color:rgba(0,0,0,.8);z-index:50000500}.overlay-close{position:absolute;right:0;top:0;z-index:10}.load{display:none}.image-lightbox{position:fixed;z-index:9999;-ms-touch-action:none;touch-action:none;box-shadow:0 0 20px rgba(0,0,0,.4)}.modal{position:fixed;z-index:60000000;left:50%;top:50%;width:100%;margin-top:-25%;margin-left:-50%;padding-left:1.25rem;padding-right:1.25rem}.b-btm{border-bottom:1px solid #ddd}.b-top{border-top:1px solid #ddd}.strong-blue .number--large{color:#0074cb}.soft-red .number--large{color:#f04e74}.vivid-red .number--large{color:#e31e30}.bright-orange .number--large{color:#f68c3d}.grayish-cyan .number--large{color:#97a8a5}.dark-gray .number--large{color:#252525}.gray--dark{color:#707070}.bg--pink{background-color:#ef4e74}.bg--aqua{background-color:#e3f3f1}.bg--teal{background-color:#54c3c4}.path--white path{fill:#fff}.p-abs{position:absolute;width:100%;left:0;z-index:100;background-color:#fff}.p-btm{top:auto;bottom:0}.h-center{width:75%;background-color:#e7e7e7;display:block;margin-left:auto;margin-right:auto;max-width:37.5rem}.pad{padding:1.125rem}.space{margin:1.125rem}.pad-top{padding-top:1.125rem}.pad-half-top{padding-top:.5625rem}.pad-tb{padding-top:1.125rem}.pad-and-half-top{padding-top:1.6875rem}.pad-and-half-btm{padding-bottom:1.6875rem}.pad-double-btm{padding-bottom:2.25rem}.pad-double-top{padding-top:2.25rem}.space-r,.space-right{margin-right:1.125rem}.space-half-r,.space-half-right{margin-right:.5625rem}.space-double-btm{margin-bottom:2.25rem}.space-double-top{margin-top:2.25rem}.space-and-half-btm{margin-bottom:1.6875rem}.space-and-half-top{margin-top:1.6875rem}.space-half-btm{margin-bottom:.5625rem}.space-half-top{margin-top:.5625rem}.space-btm{margin-bottom:1.125rem}.space-top{margin-top:1.125rem}.no-space{margin:0}.no-space-btm{margin-bottom:0}.no-space-top{margin-top:0}.no-space-left{margin-left:0}.no-space-right{margin-right:0}.no-pad{padding:0}.no-pad-l,.no-pad-left{padding-left:0}.no-pad-top{padding-top:0}.no-pad-btm{padding-bottom:0}.v-align{display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;-webkit-align-items:center;-moz-align-items:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;-moz-justify-content:center;justify-content:center}.mw-300{max-width:18.75rem}.ls-1{letter-spacing:1px}
+/*]]>*/-->
+</style>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var RS = RS || {};
+
+    RS.environment_vars = {
+      chartbeat_start_time: (new Date()).getTime(),
+      chartbeat_uid: '60679',
+      buildlife: 'o4x2d8',
+      fb_liking_app_id: 176196075799695,
+      theme_path: '/sites/all/themes/realsimple_responsive',
+      profiles_server: 'http://profiles.realsimple.com',
+      profiles_server_login: 'https://profiles.realsimple.com',
+      jsrails_base: 'http://jsrails.timeinc.net',
+      web_base: 'http://www.realsimple.com',
+      breakpoints: [
+        [450, 'micro'],
+        [750, 'small'],
+        [800, 'medium'],
+        [1024, 'large'],
+        [1206, 'larger']
+      ]
+    };
+
+    // Minimal JS function for Responsive functionality
+    window.initialBrowserWidth = (function () {
+      var width;
+      if (document.body && document.body.offsetWidth) {
+        width = document.body.offsetWidth;
+      }
+      if (document.compatMode === 'CSS1Compat' &&
+          document.documentElement &&
+          document.documentElement.offsetWidth ) {
+        width = document.documentElement.offsetWidth;
+      }
+      if (window.innerWidth) {
+        width = window.innerWidth;
+      }
+
+      return width;
+    })();
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var TGX_SITE_CONFIG = {'pggateway': true, 'bluekai' : false, 'VR_CONFIG' : {'enabled' : true, 'id' : 473}, 'gpt_sync_mode' : 'async'};
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var LSGMobileRedirect = true;
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var s_account = "timerealsimpleo";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var rsAdConfig = {"params":{"ptype":"content"},"TiiAdConfig":"3475.rsm","CmSitename":"cm.rsm","RevSciTracking":"true","zone":"homepage","channel":"","channel_page":"","zone_override":"true"};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+//OLD AD CODE REMOVED FOR RESPONSIVE DESIGN
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-homepage body body-home-page main--half-pad main--no-pad" >
+  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIFUFZbGwAHXVlQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(5),c=t(16),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(5),t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>  
+<!-- page--homepage.tpl.php -->
+<div class="page" id="page">
+  <div class="top-hat"><div id="time_inc_hat"></div></div>
+<header class="header cf" role="banner">
+  <div class="header-inner t-bkg">
+    <div class="lc">
+      <a class="logo-link" href="/">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 88.1" enable-background="new 0 0 800 88.1">
+          <title>Real Simple</title>
+          <desc>Ideas, Tips, and Simple Ways to Make Life Even Easier</desc>
+          <path fill="#F58E96" d="M55.5 50.2C62.6 45 67.1 36 67.1 27.6c0-16.1-11.6-26.5-29-26.5H0V87h18V54.7h18.7L49.6 87H69L54.8 50.8l.7-.6zM36.7 36.7H18V19.3h19.4c7.7 0 12.2 3.3 12.2 9.1 0 5.2-5.2 8.3-12.9 8.3zm66 13.5h23.8v-18h-23.8v-13h44.5V1.1H84v86h63.8V69.6h-45.1V50.2zm90.4-49.1L156.9 87h18.7l8.4-18.7h32.3l8.4 18.7h18.7L207.9 1.1h-14.8zm-2 49.1l9.1-21.3 9.1 21.3h-18.2zm83.4 19.4V1.1h-18.8v86h63.9V69.6h-45.1z"/>
+          <path fill="#EF4E73" d="M371.7 18.1c7.7 0 11.6 1.9 20.7 9.7l12.9-11C397.6 6.4 384.6 0 372.4 0 355.6 0 344 10.3 344 25.2c0 4.5 1.3 8.4 3.3 12.2 4.6 6.4 10.4 9.7 25.9 13.6 11 2.5 14.9 5.2 14.9 9.7 0 5.8-6.4 9.7-15.5 9.7-8.4 0-13.6-2.6-21.9-12.9l-15.1 9.9c1.2 1.2 1.2 1.9 2.5 2.5 3.9 3.9 6.5 7.1 9.1 9.1 6.5 5.2 16.8 9.1 26.5 9.1 18.1 0 31.7-11.7 31.7-27.8 0-10.4-6.4-19.4-15.5-22.6l-11-3.3c-3.3-1.2-5.8-1.9-7.7-2.5-7.1-1.3-9.7-3.3-9.7-7.1-.1-4.1 3.8-6.7 10.2-6.7zM426.8.5h18.1v85.9h-18.1V.5zm81.4 46.6L486.9.5h-16.8v85.9h17.4V43.7l20.7 42.7 21.9-43.2v43.2h18.1V.5h-18.1l-21.9 46.6zM614.1.5h-40v85.9h18.7V54.1h21.3c16.8 0 29-11 29-26.5 0-16.1-11.6-27.1-29-27.1zm-.7 35.6h-21.3V18.7H614c7.1 0 11 3.3 11 9.1.1 5.1-4.4 8.3-11.6 8.3zM677.3.5h-18.7v85.9h64V68.9h-45.3V.5zm76.9 68.4V49.6h24.5v-18h-24.5v-13h44.6V.5h-62.7v85.9H800V68.9h-45.8z"/>
+          <!--[if lte IE 8]>
+          <foreignObject>
+            <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/real-simple-logo.png" alt="Real Simple" class="no-svg-png">
+          </foreignObject>
+          <![endif]-->
+        </svg>
+      </a>
+      <a href="#nav" class="nav-toggler js-toggle" data-toggled="header, .overlay" data-prefix="main-nav">
+      <span class="nt-inner">
+        <span class="is-vishidden">Menu</span>
+        <span></span>
+      </span> <!-- /.nt-inner -->
+      </a> <!-- /.nav-toggler -->
+
+      <!-- header-profile-menu.tpl.php -->
+<div id="loginMenu" class="h-hide">
+  <nav class="util-nav js-hover" data-prefix="util">
+    <ul class="util-nav-list">
+      <li id="navNotLoggedIn"><a id="signinLink" href="/signin">Sign In</a> <span class="divider"></span> <a id="registerLink" href="/register">Register</a></li>
+      <li id="navLoggedIn" style="display:none"><a id="solseeklink" href="/solution-seekers">Welcome</a> <span class="divider"></span> <a id="logoutLink" href="/logout">Logout</a></li>
+      <!--<li><a href="#">Subscriptions</a></li>
+     <li><a href="#">Preferences</a></li>
+     <li><a href="#">Favorites</a></li>
+     <li><a href="#">Log Out</a></li>-->
+    </ul> <!-- /.util-nav-list -->
+  </nav> <!-- .util-nav -->
+</div> <!-- /.h-hide -->
+<div id="loggedinMenu" class="h-hide" style="display:none">
+  <nav class="util-nav js-hover" data-prefix="util">
+    <ul class="util-nav-list">
+      <li class="li-vis"><a href="/solution-seekers">Welcome</a></li>
+      <li><a href="/solution-seekers">Favorites</a></li>
+      <li><a href="/logout">Log Out</a></li>
+    </ul> <!-- /.util-nav-list -->
+  </nav> <!-- .util-nav -->
+</div> <!-- /.h-hide -->
+<!-- end header-profile-menu.tpl.php -->
+
+      <div class="horiz-nav">
+        <!-- header-top-menu-nav.tpl.php -->
+<nav class="primary-nav" role="navigation" id="rs-site-nav">
+  <ul class="nav-list">
+        <li class="l-top ">
+      <a href="/food-recipes"  aria-controls="primary-inner">Food</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="/food-recipes/recipe-collections-favorites" aria-controls="primary-inner">Recipes</a></li>
+                  <li class="l-sub"><a href="/food-recipes/cooking-tips-techniques" aria-controls="primary-inner">Cooking</a></li>
+                  <li class="l-sub"><a href="/food-recipes/recipe-collections-favorites/quick-easy/fast-dinner-recipes-0" aria-controls="primary-inner">20 Fast Dinner Recipes</a></li>
+                  <li class="l-sub"><a href="/food-recipes/recipe-collections-favorites/desserts/best-baking-recipes-sweet-treats" aria-controls="primary-inner">Best Baking Recipes</a></li>
+                  <li class="l-sub"><a href="http://www.realsimple.com/food-recipes/shopping-storing" aria-controls="primary-inner">Shopping & Storing</a></li>
+                  <li class="l-sub"><a href="/food-recipes/tools-products" aria-controls="primary-inner">Kitchen Tools</a></li>
+                  <li class="l-sub"><a href="https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1032255.html" aria-controls="primary-inner">Weeknight Meal Planner</a></li>
+                  <li class="l-sub"><a href="/food-recipes/recipe-collections-favorites/april-2016-recipes" aria-controls="primary-inner">This Month’s Recipes</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top ">
+      <a href="/home-organizing"  aria-controls="primary-inner">Home</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="/home-organizing/organizing" aria-controls="primary-inner">Organizing</a></li>
+                  <li class="l-sub"><a href="/home-organizing/cleaning" aria-controls="primary-inner">Cleaning</a></li>
+                  <li class="l-sub"><a href="/home-organizing/decorating" aria-controls="primary-inner">Decorating</a></li>
+                  <li class="l-sub"><a href="/home-organizing/gardening" aria-controls="primary-inner">Gardening</a></li>
+                  <li class="l-sub"><a href="/home-organizing/green-living" aria-controls="primary-inner">Green Living</a></li>
+                  <li class="l-sub"><a href="/home-organizing/home-improvement" aria-controls="primary-inner">Home Improvement</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top ">
+      <a href="/beauty-fashion"  aria-controls="primary-inner">Style</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="/beauty-fashion/clothing" aria-controls="primary-inner">Clothing</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/shoes-accessories/accessories" aria-controls="primary-inner">Accessories</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/shoes-accessories/shoes" aria-controls="primary-inner">Shoes</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/clothing-care" aria-controls="primary-inner">How to Care for Your Clothing</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/hair" aria-controls="primary-inner">Hair</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/makeup" aria-controls="primary-inner">Makeup</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/skincare" aria-controls="primary-inner">Skin</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/makeovers-tips/makeovers" aria-controls="primary-inner">Makeovers</a></li>
+                  <li class="l-sub"><a href="/beauty-fashion/makeovers-tips/timesavers" aria-controls="primary-inner">Timesavers</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top ">
+      <a href="/work-life"  aria-controls="primary-inner">Life</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="/health" aria-controls="primary-inner">Health</a></li>
+                  <li class="l-sub"><a href="/work-life/etiquette" aria-controls="primary-inner">Etiquette</a></li>
+                  <li class="l-sub"><a href="/work-life/family" aria-controls="primary-inner">Family</a></li>
+                  <li class="l-sub"><a href="/work-life/money" aria-controls="primary-inner">Money</a></li>
+                  <li class="l-sub"><a href="/work-life/technology" aria-controls="primary-inner">Tech</a></li>
+                  <li class="l-sub"><a href="/work-life/travel" aria-controls="primary-inner">Travel</a></li>
+                  <li class="l-sub"><a href="/work-life/entertainment" aria-controls="primary-inner">Entertainment</a></li>
+                  <li class="l-sub"><a href="/weddings" aria-controls="primary-inner">Weddings</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top ">
+      <a href="/holidays-entertaining"  aria-controls="primary-inner">Holidays</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="http://www.realsimple.com/holidays-entertaining/entertaining" aria-controls="primary-inner">Entertaining</a></li>
+                  <li class="l-sub"><a href="/holidays-entertaining/holidays/mothers-day/mothers-day-planning-guide" aria-controls="primary-inner">Mother's Day Planning Guide</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top ">
+      <a href="/magazine-more/shop-real-simple-products"  aria-controls="primary-inner">Shop</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+                  <li class="l-sub"><a href="/magazine-more/shop-real-simple-products" aria-controls="primary-inner">Exclusive Real Simple Products</a></li>
+                  <li class="l-sub"><a href="/magazine-more/digital-products" aria-controls="primary-inner">Digital Products</a></li>
+              </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+        <li class="l-top l-follow " data-toggled="header" data-prefix="follow">
+      <a href="http://www.realsimple.com/work-life/technology/follow-real-simple">Follow</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+      <ul class="nav-sub">
+        <li class="l-sub"><a href="https://www.facebook.com/RealSimple" target="_blank"><span class="no-bg icon rounded icon-facebook icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Facebook</title>
+          <path fill="#fff" d="M435.9 758V547h57.3l7.5-72.7h-64.8l.1-36.4c0-19 1.8-29.2 28.6-29.2h35.8V336H443c-68.9 0-93.1 35.3-93.1 94.6v43.6H307V547h43v211h85.9z"/>
+          <!--[if lte IE 8]>
+          <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/facebook.png" alt="Facebook" class="no-svg-png">
+          </foreignObject>
+          <![endif]-->
+          </svg>
+          </span></a>
+        </li>
+        <li class="l-sub"><a href="https://twitter.com/realsimple" target="_blank"><span class="no-bg icon rounded icon-twitter icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Twitter</title>
+          <path fill="#fff" d="M389.9 458.5l.9 15-15.2-1.8c-55.4-7.1-103.8-31.1-145-71.3l-20.1-20-5.2 14.7c-11 32.9-4 67.7 18.9 91 12.1 12.9 9.4 14.8-11.6 7.1-7.3-2.4-13.7-4.3-14.3-3.4-2.1 2.2 5.2 30.1 11 41.2 7.9 15.4 24.1 30.4 41.8 39.4l14.9 7-17.7.3c-17.1 0-17.7.3-15.8 6.8 6.1 20 30.2 41.2 57 50.4l18.9 6.4-16.5 9.8c-24.4 14.1-53 22.1-81.6 22.7-13.7.3-25 1.5-25 2.5 0 3.1 37.2 20.3 58.8 27.1 64.9 20 141.9 11.4 199.8-22.8 41.1-24.3 82.2-72.6 101.4-119.3 10.3-24.9 20.7-70.4 20.7-92.2 0-14.1.9-16 18-32.9 10.1-9.8 19.5-20.6 21.3-23.7 3-5.8 2.7-5.8-12.8-.6-25.9 9.2-29.6 8-16.8-5.8 9.5-9.9 20.7-27.7 20.7-32.9 0-.9-4.6.6-9.7 3.4-5.5 3.1-17.7 7.7-26.8 10.5l-16.5 5.2-14.9-10.2c-8.2-5.5-19.8-11.7-25.9-13.5-15.5-4.3-39.3-3.7-53.3 1.2-38.1 14-62.1 49.6-59.4 88.7z"/>
+          <!--[if lte IE 8]>
+          <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/twitter.png" alt="Twitter" class="no-svg-png">
+          </foreignObject>
+          <![endif]-->
+          </svg>
+          </span></a>
+        </li>
+        <li class="l-sub"><a href="http://instagram.com/real_simple" target="_blank"><span class="no-bg icon rounded icon-instagram icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Instagram</title>
+          <path fill="#fff" d="M605 363.9c-3.7-19.1-19.2-33.9-38.2-36.6-.8-.1-1.6-.3-2.4-.4H227.6c-2 .4-4.1.6-6.1 1.1-18.6 4.3-32.4 19.5-35 38.6-.1.8-.3 1.6-.4 2.4v342c.4 2.2.7 4.3 1.1 6.5 4.1 18.4 19.6 32.7 38.1 35.2.9.1 1.8.3 2.7.4h335.9c2.2-.4 4.4-.7 6.5-1.2 17.2-3.7 31.2-18.2 34.5-35.7.4-1.9.6-3.8.9-5.8V369.5c-.2-1.9-.5-3.7-.8-5.6zM310.9 538.7c.7-47 38.5-85.1 85.1-85 47.6 0 86 39.9 85 88.3-1 46.9-39.5 85.4-87 84.4-45.7-1.1-83.8-39.4-83.1-87.7zM560.4 501v189c0 9.1-7.7 16.9-16.7 16.9H248.2c-8.9 0-16.7-7.8-16.7-16.9V499.7h40c-10.4 36.1-7.6 70.9 10.1 104.1 11.9 22.2 29 39.5 50.7 51.9 43 24.5 96.4 22 136.9-6 15.6-10.8 28.4-24.4 38.2-40.8 9.9-16.4 15.9-34.1 18.1-53.1 2.2-19 .5-37.7-5.2-56.1h40.1v1.3zm0-81.8c0 9-7.2 16.8-16.1 17-7 .2-13.9 0-20.8.1h-19.1c-7.8 0-14.2-4.4-16.6-11.5-.6-1.9-1-4-1-5.9-.1-13.3 0-26.7 0-40 0-9.6 7.5-17.3 17-17.3h39.6c9.5 0 17 7.7 17 17.3v40.3z"/>
+          <!--[if lte IE 8]>
+          <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/instagram.png" alt="Instagram" class="no-svg-png">
+          </foreignObject>
+          <![endif]-->
+          </svg>
+          </span></a>
+        </li>
+        <li class="l-sub"><a href="http://www.pinterest.com/realsimple/" target="_blank"><span class="no-bg icon rounded icon-pinterest icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Pinterest</title>
+          <path fill="#fff" d="M224.6 475.6c0 45.1 16.6 85.2 52.1 100.3 5.8 2.5 11.1.1 12.7-6.6 1.1-4.6 4-16.3 5.2-21.1 1.8-6.6 1-8.9-3.7-14.6-10.2-12.4-16.8-28.6-16.8-51.5 0-66.3 48-125.6 125.1-125.6 68.3 0 105.8 43 105.8 100.5 0 75.6-32.5 139.5-80.6 139.5-26.6 0-46.5-22.7-40.1-50.5 7.6-33.2 22.5-69.1 22.5-93 0-21.5-11.2-39.4-34.3-39.4-27.2 0-49 29-49 67.9 0 24.8 8.1 41.6 8.1 41.6S303.9 644.5 299 665.8c-9.7 42.4-1.5 94.4-.7 99.6.4 3.1 4.3 3.9 6.1 1.6 2.5-3.3 34.9-44.6 45.8-85.8 3.1-11.6 17.9-72.1 17.9-72.1 8.9 17.3 34.7 32.7 62.1 32.7 81.8 0 137.2-76.9 137.2-179.8 0-77.8-63.9-150.3-160.9-150.3-120.9 0-181.9 89.4-181.9 163.9z"/>
+          <!--[if lte IE 8]>
+          <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/pinterest.png" alt="Pinterest" class="no-svg-png">
+          </foreignObject>
+          <![endif]-->
+          </svg>
+          </span></a>
+        </li>
+      </ul> <!-- /.nav-sub -->
+    </li> <!-- /.l-top  -->
+    <li class="l-top h-hide">
+      <a href="http://www.cozi.com/go/?a=campaign&cobrand=REALSIMPLE&c=REALSIMPLE_ORGANIZERLINK&l=/landing/real-simple-cobrand&utm_source=RSHeader&utm_medium=Web&utm_campaign=Classic" aria-controls="primary-inner">Organizer</a>
+    </li>
+    <li class="l-top  l-subscribe" id="primary-nav__subscribe-list-item">
+      <a href="https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1027635.html" id="primary-nav__subscribe-link">
+        <span>Subscribe</span>
+      </a>
+      <div class="advertisement advertisement-cmad-4x1 cmAd" id="cmad_4x1_1459752448" style="position: absolute"><script type="text/javascript">
+
+           var tgx_ad_slots = tgx_ad_slots || [];
+           tgx_ad_slots.push(function(ads){
+
+            ads.addSlot({
+              id: 'cmad_4x1_1459752448',
+              width: 4,
+              height: 1,
+              cm: true,
+              params: {
+                cmpos: 'globalnav',
+                cmtyp: 'tout'
+              }
+            });
+
+          });</script></div>    </li> <!-- /.l-top  -->
+  </ul> <!-- /.nav-list -->
+</nav> <!-- .nav -->
+<!-- end header-top-menu-nav.tpl.php -->
+      </div> <!-- /.horiz-nav -->
+      <span class="h-hide">
+        <a href="#search" class="search-toggler js-toggle" data-toggled="header" data-prefix="search" data-remove="main-nav-is-active">
+          <span class="icon icon--small icon-magnifying-glass">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="175.5 -92.5 500 500" enable-background="new 175.5 -92.5 500 500">
+            <title>Search</title>
+            <path d="M490.1 259.9l-2.8 2.1c-33.2 24.3-74 37.7-115.1 37.7-107.8 0-195.5-87.6-195.5-195.4C176.8 52 197.1 2.9 234-34c37-36.9 86.1-57.2 138.3-57.2 107.7 0 195.4 87.7 195.4 195.5 0 40.8-13.4 81.7-37.7 115l-2.1 2.8 146.4 146.3-37.8 37.8-146.4-146.3zm-118-297.7c-37.9 0-73.5 14.8-100.4 41.7C244.8 30.7 230 66.3 230 104.3c0 78.3 63.7 142 142 142s142-63.7 142-142S450.5-37.8 372.1-37.8z"/>
+            <!--[if lte IE 8]>
+            <foreignObject>
+              <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/magnifying-glass.png" alt="Search" class="no-svg-png">
+            </foreignObject>
+            <![endif]-->
+            </svg>
+          </span>
+        </a> <!-- /.search-toggler -->
+      </span> <!-- /.h-hide -->
+    </div> <!-- /.lc -->
+  </div> <!-- /.header-inner -->
+
+  <div class="nav-wrap">
+    <div class="nav-wrap-inner">
+        <ul class="menu"><!-- header-top-hamburger-primary-menu.tpl.php -->
+<nav class="primary-nav" role="navigation" id="rs-hamburger-primary-nav">
+  <ul class="nav-list">
+        <li class="l-top ">
+      <a href="/food-recipes" aria-controls="primary-inner">Food</a>
+                  <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+          <ul class="nav-sub">
+                          <li class="l-sub"><a href="/food-recipes/recipe-collections-favorites" aria-controls="primary-inner">Recipes</a></li>
+                          <li class="l-sub"><a href="/food-recipes/cooking-tips-techniques" aria-controls="primary-inner">Cooking</a></li>
+                          <li class="l-sub"><a href="/food-recipes/shopping-storing" aria-controls="primary-inner">Shopping & Storing</a></li>
+                          <li class="l-sub"><a href="/food-recipes/tools-products" aria-controls="primary-inner">Kitchen Tools</a></li>
+                      </ul> <!-- /.nav-sub -->
+              </li> <!-- /.l-top  -->
+       <li class="l-top ">
+      <a href="/home-organizing" aria-controls="primary-inner">Home</a>
+                  <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+          <ul class="nav-sub">
+                          <li class="l-sub"><a href="/home-organizing/organizing" aria-controls="primary-inner">Organizing</a></li>
+                          <li class="l-sub"><a href="/home-organizing/cleaning" aria-controls="primary-inner">Cleaning</a></li>
+                          <li class="l-sub"><a href="/home-organizing/decorating" aria-controls="primary-inner">Decorating</a></li>
+                          <li class="l-sub"><a href="/home-organizing/gardening" aria-controls="primary-inner">Gardening</a></li>
+                          <li class="l-sub"><a href="/home-organizing/green-living" aria-controls="primary-inner">Green Living</a></li>
+                          <li class="l-sub"><a href="/home-organizing/home-improvement" aria-controls="primary-inner">Home Improvement</a></li>
+                      </ul> <!-- /.nav-sub -->
+              </li> <!-- /.l-top  -->
+       <li class="l-top ">
+      <a href="/beauty-fashion" aria-controls="primary-inner">Style</a>
+                  <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+          <ul class="nav-sub">
+                          <li class="l-sub"><a href="/beauty-fashion/clothing" aria-controls="primary-inner">Clothing</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/shoes-accessories/accessories" aria-controls="primary-inner">Accessories</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/shoes-accessories/shoes" aria-controls="primary-inner">Shoes</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/clothing-care" aria-controls="primary-inner">How to Care For Your Clothing</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/hair" aria-controls="primary-inner">Hair</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/makeup" aria-controls="primary-inner">Makeup</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/skincare" aria-controls="primary-inner">Skin</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/makeovers-tips/makeovers" aria-controls="primary-inner">Makeovers</a></li>
+                          <li class="l-sub"><a href="/beauty-fashion/makeovers-tips/timesavers" aria-controls="primary-inner">Timesavers</a></li>
+                      </ul> <!-- /.nav-sub -->
+              </li> <!-- /.l-top  -->
+       <li class="l-top ">
+      <a href="/work-life" aria-controls="primary-inner">Life</a>
+                  <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+          <ul class="nav-sub">
+                          <li class="l-sub"><a href="/health" aria-controls="primary-inner">Health</a></li>
+                          <li class="l-sub"><a href="/work-life/etiquette" aria-controls="primary-inner">Etiquette</a></li>
+                          <li class="l-sub"><a href="/work-life/family" aria-controls="primary-inner">Family</a></li>
+                          <li class="l-sub"><a href="/work-life/money" aria-controls="primary-inner">Money </a></li>
+                          <li class="l-sub"><a href="/work-life/technology" aria-controls="primary-inner">Tech</a></li>
+                          <li class="l-sub"><a href="/work-life/travel" aria-controls="primary-inner">Travel</a></li>
+                          <li class="l-sub"><a href="/work-life/entertainment" aria-controls="primary-inner">Entertainment</a></li>
+                      </ul> <!-- /.nav-sub -->
+              </li> <!-- /.l-top  -->
+       <li class="l-top ">
+      <a href="/holidays-entertaining" aria-controls="primary-inner">Holidays</a>
+                  <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+          <ul class="nav-sub">
+                          <li class="l-sub"><a href="http://www.realsimple.com/holidays-entertaining/entertaining" aria-controls="primary-inner">Entertaining</a></li>
+                          <li class="l-sub"><a href="http://www.realsimple.com/holidays-entertaining/gifts" aria-controls="primary-inner">Gifts</a></li>
+                      </ul> <!-- /.nav-sub -->
+              </li> <!-- /.l-top  -->
+       <li class="l-top ">
+      <a href="/magazine-more/shop-real-simple-products" aria-controls="primary-inner">Shop</a>
+            </li> <!-- /.l-top  -->
+             <li class="l-top l-follow " data-toggled="header" data-prefix="follow">
+            <a href="#">Follow</a> <span class="aw js-toggle-parent"><span class="arrow arrow--right"></span></span>
+            <ul class="nav-sub">
+              <li class="l-sub"><a href="https://www.facebook.com/RealSimple"><span class="no-bg icon rounded icon-facebook icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+  <title>Facebook</title>
+  <path fill="#fff" d="M435.9 758V547h57.3l7.5-72.7h-64.8l.1-36.4c0-19 1.8-29.2 28.6-29.2h35.8V336H443c-68.9 0-93.1 35.3-93.1 94.6v43.6H307V547h43v211h85.9z"/>
+  <!--[if lte IE 8]>
+  <foreignObject>
+    <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/facebook.png" alt="Facebook" class="no-svg-png">
+  </foreignObject>
+  <![endif]-->
+  </svg>
+</span></a></li>
+              <li class="l-sub"><a href="https://twitter.com/realsimple"><span class="no-bg icon rounded icon-twitter icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+  <title>Twitter</title>
+  <path fill="#fff" d="M389.9 458.5l.9 15-15.2-1.8c-55.4-7.1-103.8-31.1-145-71.3l-20.1-20-5.2 14.7c-11 32.9-4 67.7 18.9 91 12.1 12.9 9.4 14.8-11.6 7.1-7.3-2.4-13.7-4.3-14.3-3.4-2.1 2.2 5.2 30.1 11 41.2 7.9 15.4 24.1 30.4 41.8 39.4l14.9 7-17.7.3c-17.1 0-17.7.3-15.8 6.8 6.1 20 30.2 41.2 57 50.4l18.9 6.4-16.5 9.8c-24.4 14.1-53 22.1-81.6 22.7-13.7.3-25 1.5-25 2.5 0 3.1 37.2 20.3 58.8 27.1 64.9 20 141.9 11.4 199.8-22.8 41.1-24.3 82.2-72.6 101.4-119.3 10.3-24.9 20.7-70.4 20.7-92.2 0-14.1.9-16 18-32.9 10.1-9.8 19.5-20.6 21.3-23.7 3-5.8 2.7-5.8-12.8-.6-25.9 9.2-29.6 8-16.8-5.8 9.5-9.9 20.7-27.7 20.7-32.9 0-.9-4.6.6-9.7 3.4-5.5 3.1-17.7 7.7-26.8 10.5l-16.5 5.2-14.9-10.2c-8.2-5.5-19.8-11.7-25.9-13.5-15.5-4.3-39.3-3.7-53.3 1.2-38.1 14-62.1 49.6-59.4 88.7z"/>
+  <!--[if lte IE 8]>
+  <foreignObject>
+    <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/twitter.png" alt="Twitter" class="no-svg-png">
+  </foreignObject>
+  <![endif]-->
+</svg>
+</span></a></li>
+              <li class="l-sub"><a href="http://instagram.com/real_simple"><span class="no-bg icon rounded icon-instagram icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+  <title>Instagram</title>
+  <path fill="#fff" d="M605 363.9c-3.7-19.1-19.2-33.9-38.2-36.6-.8-.1-1.6-.3-2.4-.4H227.6c-2 .4-4.1.6-6.1 1.1-18.6 4.3-32.4 19.5-35 38.6-.1.8-.3 1.6-.4 2.4v342c.4 2.2.7 4.3 1.1 6.5 4.1 18.4 19.6 32.7 38.1 35.2.9.1 1.8.3 2.7.4h335.9c2.2-.4 4.4-.7 6.5-1.2 17.2-3.7 31.2-18.2 34.5-35.7.4-1.9.6-3.8.9-5.8V369.5c-.2-1.9-.5-3.7-.8-5.6zM310.9 538.7c.7-47 38.5-85.1 85.1-85 47.6 0 86 39.9 85 88.3-1 46.9-39.5 85.4-87 84.4-45.7-1.1-83.8-39.4-83.1-87.7zM560.4 501v189c0 9.1-7.7 16.9-16.7 16.9H248.2c-8.9 0-16.7-7.8-16.7-16.9V499.7h40c-10.4 36.1-7.6 70.9 10.1 104.1 11.9 22.2 29 39.5 50.7 51.9 43 24.5 96.4 22 136.9-6 15.6-10.8 28.4-24.4 38.2-40.8 9.9-16.4 15.9-34.1 18.1-53.1 2.2-19 .5-37.7-5.2-56.1h40.1v1.3zm0-81.8c0 9-7.2 16.8-16.1 17-7 .2-13.9 0-20.8.1h-19.1c-7.8 0-14.2-4.4-16.6-11.5-.6-1.9-1-4-1-5.9-.1-13.3 0-26.7 0-40 0-9.6 7.5-17.3 17-17.3h39.6c9.5 0 17 7.7 17 17.3v40.3z"/>
+  <!--[if lte IE 8]>
+  <foreignObject>
+    <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/instagram.png" alt="Instagram" class="no-svg-png">
+  </foreignObject>
+  <![endif]-->
+</svg>
+</span></a></li>
+              <li class="l-sub"><a href="http://www.pinterest.com/realsimple/"><span class="no-bg icon rounded icon-pinterest icon--large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+  <title>Pinterest</title>
+  <path fill="#fff" d="M224.6 475.6c0 45.1 16.6 85.2 52.1 100.3 5.8 2.5 11.1.1 12.7-6.6 1.1-4.6 4-16.3 5.2-21.1 1.8-6.6 1-8.9-3.7-14.6-10.2-12.4-16.8-28.6-16.8-51.5 0-66.3 48-125.6 125.1-125.6 68.3 0 105.8 43 105.8 100.5 0 75.6-32.5 139.5-80.6 139.5-26.6 0-46.5-22.7-40.1-50.5 7.6-33.2 22.5-69.1 22.5-93 0-21.5-11.2-39.4-34.3-39.4-27.2 0-49 29-49 67.9 0 24.8 8.1 41.6 8.1 41.6S303.9 644.5 299 665.8c-9.7 42.4-1.5 94.4-.7 99.6.4 3.1 4.3 3.9 6.1 1.6 2.5-3.3 34.9-44.6 45.8-85.8 3.1-11.6 17.9-72.1 17.9-72.1 8.9 17.3 34.7 32.7 62.1 32.7 81.8 0 137.2-76.9 137.2-179.8 0-77.8-63.9-150.3-160.9-150.3-120.9 0-181.9 89.4-181.9 163.9z"/>
+  <!--[if lte IE 8]>
+  <foreignObject>
+    <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/pinterest.png" alt="Pinterest" class="no-svg-png">
+  </foreignObject>
+  <![endif]-->
+</svg>
+</span></a></li>
+            </ul> <!-- /.nav-sub -->
+          </li> <!-- /.l-top  -->
+          <li class="l-top  l-subscribe ">
+            <a href="https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1027928.html">Subscribe</a>          </li> <!-- /.l-top  -->
+      	</ul> <!-- /.nav-list -->
+</nav> <!-- .nav -->
+<!-- end header-top-hamburger-primary-menu.tpl.php -->
+</ul>        <ul class="menu"><!-- header-top-hamburger-secondary-menu.tpl.php -->
+<nav class="secondary-nav" role="navigation" id="rs-hamburger-secondary-nav">
+  <ul>
+          <li><a href="newsletter/preference-center">Sign up for Newsletters</a></li>
+          <li><a href="https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1032254.html">Give the Gift of Real Simple</a></li>
+          <li><a href="https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1027929.html">Weeknight Meal Planner</a></li>
+          <li><a href="/weddings">Weddings</a></li>
+          <li><a href="/checklist">Checklists</a></li>
+          <li><a href="/video">Video</a></li>
+          <li><a href="/work-life/entertainment/online-book-club">Book Club</a></li>
+          <li><a href="http://subscription-assets.realsimple.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/sm-rewardsland0912/lp.html">Real Simple Rewards</a></li>
+          <li><a href="/magazine-more/shop-real-simple-products">Real Simple Products</a></li>
+          <li><a href="http://rslifestylers.com/realsimple/lifestyler/">RS Lifestylers</a></li>
+        <li id="hambMyAccount" class="l-padded" style="display:none"><a href="/solution-seekers">My Account</a></li>
+    <li id="hambLogout" class="l-padded" style="display:none"><a href="/logout">Logout</a></li>
+    <li id="hambSignin" class="l-padded"><a href="/signin">Sign In</a></li>
+    <li id="hambRegister" class="l-padded"><a href="/register">Register</a></li>
+    <li class="l-alt"><a href="/work-life/technology/contact-us">Contact Us</a></li>
+    <li class="l-alt"><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=sm/home.html&amp;MSRSMAG=SM">Customer Service</a></li>
+  </ul>
+</nav> <!-- /.secondary-nav -->
+<!-- end header-top-hamburger-secondary-menu.tpl.php -->
+</ul>    </div> <!-- /.nav-wrap-inner -->
+  </div> <!-- /.nav-wrap -->
+  <div class="search-overlay">
+<a href="#close-search" class="close js-toggle" data-toggled="header" data-prefix="search">
+  <span class="icon icon--small icon-x">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+      <title>Close</title>
+      <path d="M643.5 337.2l-44.7-44.7L396 495.3 193.3 292.5l-44.8 44.7L351.3 540 148.5 742.8l44.8 44.7L396 584.8l202.8 202.7 44.7-44.7L440.8 540z"></path>
+      <!--[if lte IE 8]>
+      <foreignObject>
+        <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/x.png" alt="Close" class="no-svg-png">
+      </foreignObject>
+      <![endif]-->
+    </svg>
+  </span>
+</a> <!-- /.js-toggle -->
+<form method="post" class="inline-form search-form" id="search_block_form">
+  <fieldset>
+    <legend class="is-vishidden">Search</legend>
+    <label for="search-field" class="is-vishidden">Search</label>
+    <div class="field-wrap search-field-wrap">
+      <input type="search" placeholder="Search" name="search_block_form" id="edit-search-block-form--2" class="search-field">
+    </div> <!-- /.search-field-wrap -->
+    <button class="submit t-bkg">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="175.5 -92.5 500 500" enable-background="new 175.5 -92.5 500 500">
+      <title>Search</title>
+      <path d="M490.1 259.9l-2.8 2.1c-33.2 24.3-74 37.7-115.1 37.7-107.8 0-195.5-87.6-195.5-195.4C176.8 52 197.1 2.9 234-34c37-36.9 86.1-57.2 138.3-57.2 107.7 0 195.4 87.7 195.4 195.5 0 40.8-13.4 81.7-37.7 115l-2.1 2.8 146.4 146.3-37.8 37.8-146.4-146.3zm-118-297.7c-37.9 0-73.5 14.8-100.4 41.7C244.8 30.7 230 66.3 230 104.3c0 78.3 63.7 142 142 142s142-63.7 142-142S450.5-37.8 372.1-37.8z"></path>
+      <!--[if lte IE 8]>
+      <foreignObject>
+        <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/magnifying-glass.png" alt="Search" class="no-svg-png">
+      </foreignObject>
+      <![endif]-->
+    </svg>
+    <span class="is-vishidden">Search</span>
+    </button> <!-- /.search-submit -->
+  </fieldset>
+      <input type="hidden" name="form_build_id" value="form-643y5rEsIdhHbtaVJmOd2i79vafiRsOgK7wmUyp8EsM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</form> <!-- /.search-form -->
+</div> <!-- /.search-overlay -->
+  <div class="advertisement advertisement-responsive-hp-top-leaderboard ad-block ad-leaderboard advertisement-responsive-leaderboard ad-blocks" id="ad_resp_hp_top_leaderboard_1459752448"><script type="text/javascript">
+
+           var tgx_ad_slots = tgx_ad_slots || [];
+           tgx_ad_slots.push(function(ads){
+
+            ads.addSlot({
+              id: 'ad_resp_hp_top_leaderboard_1459752448',
+              responsive: {
+                micro: {sizes: ['300x50','320x50'], class: ['anchor-ad']},
+                small: {sizes: ['300x50','320x50'], class: ['anchor-ad']},
+                medium: ['728x90','101x1'],
+                large: ['728x90','970x250','970x418','970x66','970x90','101x1'],
+                larger: ['728x90','970x250','970x418','970x66','970x90','101x1']
+              },
+              position: 1,
+              params: {
+                ptype: 'content',
+                ch: 'homepage'
+              }
+            });
+
+          });</script></div>    <!-- region: Header Scripts -->
+    <div class="region region-header-scripts">
+    <script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/themes/realsimple_responsive/js/dist/tgxplus.js?o4x2d8"></script>
+<script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/themes/realsimple_responsive/js/js-source/app/modernizr.js?o4x2d8"></script>
+<script type="text/javascript" src="//fonts.timeinc.net/yeq7mvh.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/themes/realsimple_responsive/js/dist/base.min.js?o4x2d8"></script>
+<script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/themes/realsimple_responsive/js/dist/content.min.js?o4x2d8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var meter_settings =  {aid: 'UncDXFgvXR', paywall_app_id: 'realsimple.com.paywall'};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/modules/custom/ti_lsg_rs_paywall/js/tinypass.js?o4x2d8"></script>
+
+        <script type='text/javascript' >
+        var css = document.createElement('link');
+        css.type = 'text/css';
+        css.rel = 'stylesheet';
+        css.href = '/sites/all/themes/realsimple_responsive/css/content.css?' + RS.environment_vars.buildlife;
+        document.getElementsByTagName('head')[0].appendChild(css);
+        </script>
+        </div>
+  <!-- end region: Header Scripts -->
+  </header> <!-- .header -->
+  
+<!-- Begin Metadata Object -->
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    window.Ti = window.Ti || {};
+    window.Ti.udo_metadata = {"channel":"realsimple","site_theme":"desktop","page_name":"realsimple|homepage","template_type":"homepage","site_section1":"home"};
+    window.Ti.udo_data_layer = ["article_teaser_type","author_name","author_type","available_app_ids","browse_refine_type","browse_refine_value","bundle_id","channel","click_id","content_access","content_id","content_package","content_package_id","content_package_section","country_code","currency_code","customer_country","customer_email","customer_first_name","customer_id","customer_state","customer_zip","display_date","event_name","food_convenience","food_cooking_method","food_courses","food_cuisine","food_dietary_considerations","food_excluded_ingredients","food_main_ingredients","food_season_occasion","franchise_name","franchise_year","franchise_list_view_type","franchise_pagination_value","franchise_sort_type","franchise_is_methodology","franchise_slide_number","friendly_url","grade_level","grocery_deals_category","grocery_deals_retailer","grocery_deals_search","grocery_deals_zip","has_continuous_service","has_donor","has_print_subscription","image_id","is_active_subscriber","is_agent_subscription","is_bill_me","is_giftee","is_renewable","health_journey","language_code","login_status","magazine_cover_title","magazine_feed","magazine_issue_date","markets","page_name","page_number","personality_name","primary_tag","publication_source","publish_date","rr_modules","search_keyword","search_results","secondary_renewal_offer","site_display_format","site_section1","site_section2","site_section3","site_section4","site_theme","slide_title","subscriber_expiration_date","subscriber_id","subscriber_type","subscription_status","tcm_conversion_microsite","tcm_conversion_page_flow","tag_keywords","tag_visibility","tcm_effort_key","tcm_form_error","tcm_keycode","tcm_newsletter_optin","tcm_mag_code","tcm_microsite","tcm_order_id","tcm_order_shipping_amount","tcm_order_subtotal","tcm_order_tax_amount","tcm_order_total","tcm_order_type","tcm_page_flow","tcm_payment_method","tcm_prefix","tcm_product_name","tcm_product_price","tcm_product_quantity","tcm_product_sku","tcm_product_sku_options","tcm_shipping_method","tcm_variation_id","team_name","template_type","ticker_symbol","tier_level","total_amount_due","treat_as_registered","user_actions","video_asset_id","video_franchise","video_name","video_player","video_player_type","video_segment","gallery_view"];
+    window.Ti.udo_map = [];
+    //--><!]]>
+  </script>
+<!-- End Metadata Object -->
+<!-- Begin Tealium Integration -->
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var utag_data = {"channel":"realsimple","site_theme":"desktop","page_name":"realsimple|homepage","template_type":"homepage","site_section1":"home"};
+    //--><!]]>
+  </script>
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/timeinc/realsimple.com/prod/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+    //--><!]]>
+  </script>
+
+  
+<!-- End Tealium Integration -->
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIFUFZbGwAHXVlQAAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(5),c=t(16),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(5),t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+  
+  
+  
+  
+    <div class="main cf" role="main" aria-live="polite">
+      <div class="lc lc-inner--l cf page--top">
+        <div class="shift-left">
+          <div class="shift-left-inner">
+            <div class="carousel--tabbed js-carousel--tabbed" data-vr-zone ="HP homepage">
+              <div class="c-item c-tabbed c-item-1 this-is-active" data-vr-contentbox>
+  <div class="img-wrap ">
+    <div class="img-inner">
+      <a href="http://www.realsimple.com/home-organizing/organizing/organizing-more-rooms/get-dressed-faster" class="img-link">
+        <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_photo_gallery_vert/public/clothes-closet-hangers.jpg?itok=By8PlqBr" width="435" height="518" alt="clothes-wooden-hangers-closet" title="Get rid of your clothes.&amp;nbsp;" />              </a>
+    </div> <!-- /.img-inner -->
+  </div> <!-- /.img-wrap -->
+  <a href="http://www.realsimple.com/home-organizing/organizing/organizing-more-rooms/get-dressed-faster" class="c-tab">
+    <h2 class="c-title">7 Genius Closet Hacks to Get You Dressed and Out the Door Faster
+</h2>
+  </a> <!-- /.c-tab -->
+</div>
+<div class="c-item c-tabbed c-item-2 " data-vr-contentbox>
+  <div class="img-wrap ">
+    <div class="img-inner">
+      <a href="http://www.realsimple.com/food-recipes/cooking-tips-techniques/foods-cheese-grater" class="img-link">
+        <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_photo_gallery_vert/public/grating-chocolate.jpg?itok=015FCtqu" width="435" height="518" alt="grating-chocolate" title="Grating Chocolate" />              </a>
+    </div> <!-- /.img-inner -->
+  </div> <!-- /.img-wrap -->
+  <a href="http://www.realsimple.com/food-recipes/cooking-tips-techniques/foods-cheese-grater" class="c-tab">
+    <h2 class="c-title">12 Foods You Had No Idea You Should Be Grating
+</h2>
+  </a> <!-- /.c-tab -->
+</div>
+<div class="c-item c-tabbed c-item-3 " data-vr-contentbox>
+  <div class="img-wrap ">
+    <div class="img-inner">
+      <a href="http://www.realsimple.com/home-organizing/decorating/decorating-bedroom/homegoods-bedroom-before-after" class="img-link">
+        <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_photo_gallery_vert/public/1459261882/homegoods-bedroom-after.jpg?itok=_AXcssJW" width="435" height="518" alt="homegoods-bedroom-after" title="HomeGoods Bedroom After" />              </a>
+    </div> <!-- /.img-inner -->
+  </div> <!-- /.img-wrap -->
+  <a href="http://www.realsimple.com/home-organizing/decorating/decorating-bedroom/homegoods-bedroom-before-after" class="c-tab">
+    <h2 class="c-title">How One Drab Bedroom Transformed Into a Peaceful, Natural Retreat
+</h2>
+  </a> <!-- /.c-tab -->
+</div>
+<div class="c-item c-tabbed c-item-4 " data-vr-contentbox>
+  <div class="img-wrap ">
+    <div class="img-inner">
+      <a href="http://www.realsimple.com/home-organizing/cleaning/laundry/fold-fitted-sheet" class="img-link">
+        <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_photo_gallery_vert/public/1459372570/fold-sheet.jpg?itok=XWW3pRXa" width="435" height="518" alt="fold-fitted-sheet-how-to" title="How to Fold a Fitted Sheet" />        <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>      </a>
+    </div> <!-- /.img-inner -->
+  </div> <!-- /.img-wrap -->
+  <a href="http://www.realsimple.com/home-organizing/cleaning/laundry/fold-fitted-sheet" class="c-tab">
+    <h2 class="c-title">The Smartest Way to Fold a Fitted Sheet</h2>
+  </a> <!-- /.c-tab -->
+</div>
+            </div> <!-- /.carousel--tabbed -->
+          </div> <!-- /.shift-left-inner -->
+        </div> <!-- /.shift-left -->
+
+        <div class="shift-right home-right-blocks cf" data-vr-zone ="HP Top Module">
+          <div class="block block-thumb center block-tip homepage-top-tout has-video" data-vr-contentbox>
+<div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/preparation">COOKING TIPS</a></div>
+  <a href="http://www.realsimple.com/food-recipes/cooking-tips-techniques/preparation/cut-mango" class="b-inner">
+    <div class="b-thumb ">
+      <div class="img-wrap">
+        <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_featured_video/public/1454619445/cut-mango.jpg?itok=NAeuD3Sf" alt="how-to-cut-mango" title="How to Cut a Mango" />                  <span class="icon icon-play icon--big rounded">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg>
+          </span>
+              </div> <!-- /.img-wrap -->
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <h3 class="b-title "><span>How to Cut a Mango
+</span></h3>
+    </div> <!-- /.b-text -->
+  </a> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+          <div class="advertisement advertisement-responsive-300x250-hp-top block ad-block ad-300x250" id="ad_resp_300x250_hp_top_1459752448"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'ad_resp_300x250_hp_top_1459752448',
+              responsive: {
+                micro: ['300x250'],
+                small: ['300x250'],
+                medium: ['300x250','300x600'],
+                large:  ['300x250','300x600'],
+                larger: ['300x250','300x600']
+              },
+              position: 1,
+              params: {
+                ptype: 'content',
+                ch: 'homepage',
+                ad_div: 'ad_resp_300x250_hp_top_1459752448'
+              }
+            });
+
+          });</script></div>        </div>
+      </div><!-- /.lc-inner -->
+
+      <!-- Homepage Content Module One -->
+      <section class="section promo-strip">
+        <div class="lc-inner--m">
+          <div class="g g-3up" data-vr-zone ="HP Content Module 1">
+            <!-- Homepage Content Module 1 Start-->
+<div class="gi" data-vr-contentbox>
+  <div class="block block-thumb center mw-300 ">
+    <div class="b-inner">
+      <div class="b-thumb">
+        <a href="http://www.realsimple.com/work-life/money/saving/costco-benefits">
+          <div class="img-wrap">
+            <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_main_image/public/deck-chairs-cruise-ship.jpg?itok=3KVRqmu-" alt="deck-chairs-cruise-ship" title="Deck Chairs on Cruise Ship" />                      </div> <!-- /.img-wrap -->
+        </a>
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/saving">Saving Money</a></div>
+        <a href="http://www.realsimple.com/work-life/money/saving/costco-benefits">
+          <h3 class="b-title "><span>11 Hidden Costco Benefits You Had No Idea Existed
+</span></h3>
+        </a>
+      </div> <!-- /.b-text -->
+    </div> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div> <!-- /.gi -->
+<!-- Homepage Content Module 1 Start-->
+<div class="gi" data-vr-contentbox>
+  <div class="block block-thumb center mw-300">
+    <div class="b-inner">
+      <div class="b-thumb">
+        <a href="http://www.realsimple.com/beauty-fashion/skincare/best-skin-care-products">
+          <div class="img-wrap">
+            <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_main_image/public/1457640486/oil-free-eye-makeup-remover.jpg?itok=ahCfTbAT" alt="neutrogena-oil-free-eye-makeup-remover" title="Neutrogena Oil-Free Eye Makeup Remover" />          </div> <!-- /.img-wrap -->
+        </a>
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/daily-finds">Daily finds</a>  </div>
+        <a href="http://www.realsimple.com/beauty-fashion/skincare/best-skin-care-products">
+          <h3 class="b-title "><span>The Best Skin Care Products at the Drugstore
+</span></h3>
+        </a>
+      </div> <!-- /.b-text -->
+    </div> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div>
+<div class="gi" data-vr-contentbox>
+  <div class="block block-thumb center mw-300 ">
+    <div class="b-inner">
+      <div class="b-thumb">
+        <a href="http://www.realsimple.com/beauty-fashion/shoes-accessories/lingerie-hosiery/bra-fitting-care-tips">
+          <div class="img-wrap">
+            <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_main_image/public/colorful-bras.jpg?itok=4sW02jfE" alt="colorful-bras" title="Soma Enticing Lift Colorful Bra Collection" />                      </div> <!-- /.img-wrap -->
+        </a>
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/lingerie-hosiery">Lingerie & Hosiery</a></div>
+        <a href="http://www.realsimple.com/beauty-fashion/shoes-accessories/lingerie-hosiery/bra-fitting-care-tips">
+          <h3 class="b-title "><span>10 Mistakes You’re Probably Making With Your Bra
+</span></h3>
+        </a>
+      </div> <!-- /.b-text -->
+    </div> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div> <!-- /.gi -->
+          </div> <!-- /.g-3up -->
+        </div> <!-- /.lc-inner--m -->
+        <!-- Keynote Tracking Pixel -->
+        <img src="http://img5.timeinc.net/keynote/above_the_fold_1x1.gif" />
+      </section>
+
+
+      <div class="lc-inner--m">
+        <hr class="space-and-half-btm space-and-half-top">
+      </div>
+
+      <div class="lc cf">
+        <div class="primary no-space-btm no-pad-btm">
+          <div class="primary-inner no-space-btm">
+            <section class="section content-modules" data-vr-zone ="HP Content Module 2">
+              <div class="block block-thumb content-module " data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/work-life/family/relationships/passionate-sex-long-term-relationship">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/feet-bed-sheets.jpg?itok=vSocAeB8" alt="couple-sheets-feet" title="Couple&#039;s feet sticking out of the sheets" />                  </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/relationships">Relationships</a></div>
+      <a href="http://www.realsimple.com/work-life/family/relationships/passionate-sex-long-term-relationship">
+        <h3 class="b-title "><span>How to Bring the Passion Back Into Your Sex Life
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>Sex therapists share their best pieces of advice.&nbsp;
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+<div class="advertisement advertisement-responsive-native-homepage-1 block ad-block ad-native block-thumb is-sponsored content-module" id="ad_resp_native_hp1_1459752448"><script type="text/javascript">
+
+    require(['ads'], function(ads){
+      ads.addSlot({
+        id: 'ad_resp_native_hp1_1459752448',
+        responsive: {
+        micro: ['320x300', '1x5'],
+        small: ['320x300', '1x5'],
+        medium: ['320x450', '1x5'],
+        large: ['320x450', '1x5'],
+        larger: ['320x450', '1x5']
+      },
+        position: 1,
+        params: {
+        ptype: 'content',
+        ch: 'homepage',
+        strnativekey: 'c8916a72'
+      }
+      });
+    });</script></div><div class="block block-thumb content-module " data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/home-organizing/decorating/april-2016-ikea-products">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/1459464835/nesttun-bedroom.jpg?itok=I8mi4fyP" alt="nesttun-bedroom" title="NESTTUN Bedroom" />                  </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/decorating">Decorating</a></div>
+      <a href="http://www.realsimple.com/home-organizing/decorating/april-2016-ikea-products">
+        <h3 class="b-title "><span>7 New IKEA Products to Look Forward to In April
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>A sneak peek at the Swedish retailer’s latest products, launching this month.
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+<div class="block block-thumb content-module has-video" data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/home-organizing/cleaning/cleaning-stain-removal/remove-red-wine-stain">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/1459356423/wine-stain.jpg?itok=JSJjF2dn" alt="red-wine-stain-removal" title="How to Remove a Red Wine Stain" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>        </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/cleaning-stain-removal">Stain Removal</a></div>
+      <a href="http://www.realsimple.com/home-organizing/cleaning/cleaning-stain-removal/remove-red-wine-stain">
+        <h3 class="b-title "><span>How to Remove a Red Wine Stain
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>No need to panic—just follow this easy 5-step process to remove red wine from a white tablecloth (or other washable fabric).
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+            </section>
+            <!-- /.content-modules -->
+            <hr class="space-and-half-btm no-space-top">
+
+                        <section class="section video-strip">
+              <header class="s-header rel">
+                <h3 class="s-title heading">FEATURED VIDEOS</h3>
+                <div class="sponsored-by center">
+                  <div class="dib">
+                  <div class="advertisement advertisement-responsive-sponsor-170x30 spons-by" id="responsive_sponsor_170x30_1459752448"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'responsive_sponsor_170x30_1459752448',
+              width: 170,
+              height: 30
+            });
+
+          });</script></div>                  </div> <!-- /.dib -->
+                </div>
+              </header> <!-- /.s-header -->
+              <div class="g g-3up" data-vr-zone ="HP Video Module">
+                <div class="gi" data-vr-contentbox>
+  <div class="block block-thumb block-flipped center has-video">
+    <a href="http://www.realsimple.com/food-recipes/cooking-tips-techniques/baking/whip-cream" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/video_image_2/public/whip-cream.jpg?itok=25hALnI1" alt="whip-cream-how-to" title="How to Whip Cream" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg>
+          </span>
+        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Make Whipped Cream
+</span></h3>
+                  <span class="light text--r runtime">(1 min)</span>
+              </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div> <!-- /.gi -->
+<div class="gi" data-vr-contentbox>
+  <div class="block block-thumb block-flipped center has-video">
+    <a href="http://www.realsimple.com/food-recipes/cooking-tips-techniques/make-latte" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/video_image_2/public/1456258425/cafe-latte.jpg?itok=JTzMixmo" alt="how-to-make-latte" title="How to Make a Latte" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg>
+          </span>
+        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Make a Latte
+</span></h3>
+                  <span class="light text--r runtime">(1 min)</span>
+              </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div> <!-- /.gi -->
+<div class="gi" data-vr-contentbox>
+  <div class="block block-thumb block-flipped center has-video">
+    <a href="http://www.realsimple.com/home-organizing/decorating/secret-to-making-a-home-together" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/video_image_2/public/1457387187/Screen%20Shot%202016-03-07%20at%204.36.33%20PM.jpg?itok=8-JrhUFN" alt="secret-making-home-together" title="The Secret to Making a Home Togethe" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg>
+          </span>
+        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>The Secret to Making a Home Together
+</span></h3>
+                  <span class="light text--r runtime">(2 min)</span>
+              </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div> <!-- /.gi -->
+              </div> <!-- /.g-3up -->
+            </section>
+            <hr class="space-half-top">
+            
+            <section class="section content-modules" data-vr-zone ="HP Content Module 3">
+              <div class="block block-thumb content-module " data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/work-life/entertainment/books-becoming-tv-shows">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/bad-beginning.jpg?itok=NVAxK2g7" alt="series-of-unfortunate-events" title="A Series of Unfortunate Events, by Lemony Snicket" />                  </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/entertainment">Entertainment</a></div>
+      <a href="http://www.realsimple.com/work-life/entertainment/books-becoming-tv-shows">
+        <h3 class="b-title "><span>You’ll Want to Read These Books Before They Become TV Shows
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>Soon you can binge-watch these novels.&nbsp;
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+<div class="advertisement advertisement-responsive-native-homepage-2 block ad-block ad-native block-thumb is-sponsored content-module" id="ad_resp_native_hp2_1459752448"><script type="text/javascript">
+
+    require(['ads'], function(ads){
+      ads.addSlot({
+        id: 'ad_resp_native_hp2_1459752448',
+        responsive: {
+        micro: ['320x300'],
+        small: ['320x300'],
+        medium: ['320x450'],
+        large: ['320x450'],
+        larger: ['320x450']
+      },
+        position: 2,
+        params: {
+        ptype: 'content',
+        ch: 'homepage',
+        strnativekey: 'c8916a72'
+      }
+      });
+    });</script></div><div class="block block-thumb content-module " data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/food-recipes/shopping-storing/food/kitchen-pantry-essentials">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/organized-pantry-0113.jpg?itok=DMKvhvaJ" alt="inside-pantry-landscape" title="Inside of pantry" />                  </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/food">Food Shopping & Storing</a></div>
+      <a href="http://www.realsimple.com/food-recipes/shopping-storing/food/kitchen-pantry-essentials">
+        <h3 class="b-title "><span>10 Items a Food Editor Has in Her Pantry at All Times
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>Want to know how to instantly add flavor to any dish? Or make a last-minute meal without going to the grocery store? <em>Real Simple’s </em>food editor shares some essentials that are just as important as olive oil.
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+<div class="block block-thumb content-module " data-vr-contentbox>
+  <div class="b-inner">
+    <div class="b-thumb">
+      <a href="http://www.realsimple.com/work-life/life-strategies/how-to-be-brave">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_content_module_tout/public/rock-climber.jpg?itok=1DO5lPVU" alt="woman-rock-climbing" title="Woman rock climbing" />                  </div> <!-- /.img-wrap -->
+      </a>
+    </div> <!-- /.b-thumb -->
+    <div class="b-text">
+      <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/life-strategies">Life Strategies</a></div>
+      <a href="http://www.realsimple.com/work-life/life-strategies/how-to-be-brave">
+        <h3 class="b-title "><span>How to Be Brave, According to 8 Insanely Courageous Women
+</span></h3>
+      </a>
+      <div class="dek alt-dek">
+        <p>Advice from a former firefighter, an Ebola researcher, the creator of the movie <em>Brave,</em> and more.
+</p>
+      </div> <!-- /.dek -->
+    </div> <!-- /.b-text -->
+  </div> <!-- /.b-inner -->
+</div> <!-- /.block-thumb -->
+            </section>
+          </div><!-- /.primary-inner -->
+        </div><!-- /.primary -->
+        <div class="secondary no-pad-top">
+          <aside class="sidebar sidebar--alt" role="complementary">
+  <div class="advertisement advertisement-responsive-cmad-300x600 cmAd block block-thumb center mw-300 bigger-title subscribe-promo" id="responsive_cmad_300x600_1459752448"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'responsive_cmad_300x600_1459752448',
+              width: 300,
+              height: 600,
+              cm: true,
+              params: {
+                cmpos: 'globalrightrail',
+                cmtyp: 'tout'
+              }
+            });
+
+          });</script></div>  
+<section class="section daily-finds" data-vr-zone ="HP Daily Finds">
+  <header class="s-header">
+    <h3 class="s-title heading">Daily Finds</h3>
+  </header> <!-- /.s-header -->
+      <div class="block block-thumb block-flipped" data-vr-contentbox>
+      <a href="http://www.realsimple.com/beauty-fashion/skincare/natural-makeup-brands" class="b-inner">
+      <div class="b-thumb">
+      <div class="img-wrap">
+      <img typeof="foaf:Image" data-src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_daily_finds_tout/public/1458927103/herbivore-botanicals-calm-dead-sea-balt-salts.jpg?itok=yxv_PYN7" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACAQMAAABIeJ9nAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=" alt="natural-makeup-brands" title="6 Natural Beauty Brands That Actually Work" />      </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+      <h3 class="b-title "><span>6 Natural Beauty Brands That Actually Work</span></h3>
+      </div> <!-- /.b-text -->
+      </a> <!-- /.b-inner -->
+    </div> <!-- /.block-thumb -->
+      <div class="block block-thumb block-flipped" data-vr-contentbox>
+      <a href="http://www.realsimple.com/work-life/life-strategies/problem-solvers-040116" class="b-inner">
+      <div class="b-thumb">
+      <div class="img-wrap">
+      <img typeof="foaf:Image" data-src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_daily_finds_tout/public/1458685419/stackable-wine-glasses-set.jpg?itok=3bLFi16n" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACAQMAAABIeJ9nAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=" alt="problem-solvers-040116" title="6 Clever Items to Simplify Your Life" />      </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+      <h3 class="b-title "><span>6 Clever Items to Simplify Your Life</span></h3>
+      </div> <!-- /.b-text -->
+      </a> <!-- /.b-inner -->
+    </div> <!-- /.block-thumb -->
+      <div class="block block-thumb block-flipped" data-vr-contentbox>
+      <a href="http://www.realsimple.com/beauty-fashion/chambray-pieces" class="b-inner">
+      <div class="b-thumb">
+      <div class="img-wrap">
+      <img typeof="foaf:Image" data-src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_daily_finds_tout/public/1458941827/chambray-bracelets.jpg?itok=AELhT6v8" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACAQMAAABIeJ9nAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=" alt="chambray-pieces" title="7 Modern Chambray Pieces" />      </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+      <h3 class="b-title "><span>7 Modern Chambray Pieces</span></h3>
+      </div> <!-- /.b-text -->
+      </a> <!-- /.b-inner -->
+    </div> <!-- /.block-thumb -->
+      <div class="block block-thumb block-flipped" data-vr-contentbox>
+      <a href="http://www.realsimple.com/home-organizing/decorating/decorating-bathroom/stylish-shower-curtains" class="b-inner">
+      <div class="b-thumb">
+      <div class="img-wrap">
+      <img typeof="foaf:Image" data-src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_daily_finds_tout/public/1458680899/nate-berkus-batik-shower-curtain.jpg?itok=rH7qmYpd" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACAQMAAABIeJ9nAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAIAAAQAASDSLW8AAAAASUVORK5CYII=" alt="stylish-shower-curtains" title="6 Stylish Shower Curtains" />      </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+      <h3 class="b-title "><span>6 Stylish Shower Curtains</span></h3>
+      </div> <!-- /.b-text -->
+      </a> <!-- /.b-inner -->
+    </div> <!-- /.block-thumb -->
+  </section>
+<!-- /.daily-finds -->
+  <div class="advertisement advertisement-responsive-hp-300x250 ad-block ad-300x250 block" id="responsive_hp_300x250_1459752448"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'responsive_hp_300x250_1459752448',
+              responsive: {
+                large: ['300x250'],
+                larger: ['300x250']
+              },
+              position: 2,
+              params: {
+                ptype: 'content',
+                ch: 'homepage'
+              },
+              defer: 50
+            });
+
+          });</script></div></aside>
+<!-- /.sidebar -->
+        </div>
+        <hr class="no-space-top space-double-btm clear lc-inner--l">
+        <!-- /.secondary -->
+      </div><!-- /.lc -->
+
+      <div class="lc lc-inner--l cf page--btm" data-vr-zone ="HP Featured Promo">
+        <section class="section video-promo cf v-blocks--3">
+          <div class="video-module" data-vr-contentbox>
+  <div class="block block-media has-video">
+    <div class="kicker"><a itemprop="articleSection" href="http://www.realsimple.com/category/eyes">SMART BEAUTY HOW-TOS</a>  </div>
+    <a href="http://www.realsimple.com/beauty-fashion/makeup/eyes/how-to-fill-in-eyebrows" class="b-inner">
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Fill in Eyebrows
+</span></h3>
+        <div class="dek alt-dek ">
+          <p>These simple steps will take your arches from scrawny to sculpted.</p>
+        </div> <!-- /.dek -->
+      </div> <!-- /.b-text -->
+      <div class="b-thumb">
+        <div class="img-wrap">
+            <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/video_image_1/public/1456520267/bold-brows.jpg?itok=9k1M3vwD" width="798" height="450" alt="bold-brows" title="Bold Brows" />            <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-media -->
+</div> <!-- /.video-module -->
+<div class="video-blocks">
+  <div class="block block-thumb block-flipped center has-video" data-vr-contentbox>
+    <a href="http://www.realsimple.com/beauty-fashion/hair/low-bun" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_featured_video/public/1456514714/low-updo.jpg?itok=t9xMDRES" alt="low-updo" title="Low Updo" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Make an Easy and Elegant Low Bun
+</span></h3>
+      </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+  <div class="block block-thumb block-flipped center has-video" data-vr-contentbox>
+    <a href="http://www.realsimple.com/beauty-fashion/makeup/eyes/easy-eye-makeup-day-night" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_featured_video/public/1456519022/eyes-day-night.jpg?itok=_4ktFBGA" alt="day-night-eyes" title="How to Take Eyes From Day to Night" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Take Eyes From Day to Night
+</span></h3>
+      </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+  <div class="block block-thumb block-flipped center has-video" data-vr-contentbox>
+    <a href="http://www.realsimple.com/beauty-fashion/hair/how-to-curl-your-hair-with-a-flat-iron" class="b-inner">
+      <div class="b-thumb">
+        <div class="img-wrap">
+          <img typeof="foaf:Image" src="http://cdn-image.realsimple.com/sites/default/files/styles/rs_homepage_featured_video/public/1456523151/beachy-waves.jpg?itok=2YOjxx4u" alt="beachy-waves" title="How to Create Beachy Waves" />          <span class="icon icon-play icon--big rounded"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" enable-background="new 0 0 500 500"><title>Play Video</title><path fill="#fff" d="M249.9 8.3C114 8.3 3.9 116.8 3.9 250.6s110.1 242.3 246 242.3 246-108.5 246-242.3S385.8 8.3 249.9 8.3zm-67.7 365.4V125.1l167.1 124.3-167.1 124.3z"></path></svg></span>        </div> <!-- /.img-wrap -->
+      </div> <!-- /.b-thumb -->
+      <div class="b-text">
+        <h3 class="b-title "><span>How to Curl Your Hair With a Flat Iron
+</span></h3>
+      </div> <!-- /.b-text -->
+    </a> <!-- /.b-inner -->
+  </div> <!-- /.block-thumb -->
+</div>
+        </section> <!-- /.video-promo -->
+      </div>
+
+    </div><!-- /.main -->
+
+    <div class="lc lc-inner space-double-btm pad-half-top">
+      <hr class="hr--s no-space-top space-btm">
+        <div class="advertisement advertisement-responsive-hp-bottom-leaderboard ad-block ad-blocks ad-responsive ad-instream ad-leaderboard" id="ad_responsive_hp_bottom_leaderboard_1459752448"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'ad_responsive_hp_bottom_leaderboard_1459752448',
+              responsive: {
+                micro: ['320x50','300x50'],
+                small: ['320x50','300x50'],
+                medium: ['728x90'],
+                large: ['728x90'],
+                larger: ['728x90']
+              },
+              position: 2,
+              params: {
+          ptype: 'content',
+          ch: 'homepage'
+        },
+              defer: 50
+            });
+
+          });</script></div>      <hr class="hr--l space-half-top">
+    </div>
+
+  <script>require(["utilities", "omniture"], function(utilities, Omniture) {
+s_time.channel =  'realsimple';
+s_time.pageName =  'realsimple|homepage';
+s_time.prop15 =  'home';
+s_time.prop16 =  'home';
+s_time.prop2 =  utilities.getResponsiveBreakpoint();
+s_time.prop69 =  'free';
+var s_code=s_time.t();
+if (s_code) document.write(s_code);});</script><noscript><img src="http://timeinc.122.2o7.net/b/ss/timerealsimpleo/1/H.23.8--NS/0?gn=realsimple%7Cno%20javascript&amp;ch=realsimple&amp;c16=general&amp;c17=D%3Dreferer" alt="log" width="1" height="1" /></noscript>  <footer class="footer" role="contentinfo">
+  <div class="sub--large">
+    <div class="advertisement advertisement-responsive-cmad-768x370 cmAd" id="responsive_cmad_768x370_1459752449"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+
+            ads.addSlot({
+              id: 'responsive_cmad_768x370_1459752449',
+              responsive: {
+                large: ['768x370'],
+                larger: ['768x370']
+              },
+              cm: true,
+              params: {
+                cmpos: 'globalfooter',
+                cmtyp: 'tout'
+              },
+              defer: 100
+            });
+
+          });</script></div>    <!-- <img src="http://placehold.it/850x375"> -->
+  </div> <!-- /.sub--large -->
+  <div class="advertisement advertisement-responsive-1x6-ad" id="ad_responsive_1x6_ad_1459752449"><script type="text/javascript">
+
+           require(['ads'], function(ads){
+            ads.addSlot({
+              id: 'ad_responsive_1x6_ad_1459752449',
+              responsive: {
+                medium: ['1x6'],
+                large: ['1x6'],
+                larger: ['1x6']
+              },
+            });
+          });</script></div>    <div class="lc lc-inner">
+    <a class="logo-link" href="/">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 88.1" enable-background="new 0 0 800 88.1">
+        <title>Real Simple</title>
+        <desc>Ideas, Tips, and Simple Ways to Make Life Even Easier</desc>
+        <path fill="#F58E96" d="M55.5 50.2C62.6 45 67.1 36 67.1 27.6c0-16.1-11.6-26.5-29-26.5H0V87h18V54.7h18.7L49.6 87H69L54.8 50.8l.7-.6zM36.7 36.7H18V19.3h19.4c7.7 0 12.2 3.3 12.2 9.1 0 5.2-5.2 8.3-12.9 8.3zm66 13.5h23.8v-18h-23.8v-13h44.5V1.1H84v86h63.8V69.6h-45.1V50.2zm90.4-49.1L156.9 87h18.7l8.4-18.7h32.3l8.4 18.7h18.7L207.9 1.1h-14.8zm-2 49.1l9.1-21.3 9.1 21.3h-18.2zm83.4 19.4V1.1h-18.8v86h63.9V69.6h-45.1z"/>
+        <path fill="#EF4E73" d="M371.7 18.1c7.7 0 11.6 1.9 20.7 9.7l12.9-11C397.6 6.4 384.6 0 372.4 0 355.6 0 344 10.3 344 25.2c0 4.5 1.3 8.4 3.3 12.2 4.6 6.4 10.4 9.7 25.9 13.6 11 2.5 14.9 5.2 14.9 9.7 0 5.8-6.4 9.7-15.5 9.7-8.4 0-13.6-2.6-21.9-12.9l-15.1 9.9c1.2 1.2 1.2 1.9 2.5 2.5 3.9 3.9 6.5 7.1 9.1 9.1 6.5 5.2 16.8 9.1 26.5 9.1 18.1 0 31.7-11.7 31.7-27.8 0-10.4-6.4-19.4-15.5-22.6l-11-3.3c-3.3-1.2-5.8-1.9-7.7-2.5-7.1-1.3-9.7-3.3-9.7-7.1-.1-4.1 3.8-6.7 10.2-6.7zM426.8.5h18.1v85.9h-18.1V.5zm81.4 46.6L486.9.5h-16.8v85.9h17.4V43.7l20.7 42.7 21.9-43.2v43.2h18.1V.5h-18.1l-21.9 46.6zM614.1.5h-40v85.9h18.7V54.1h21.3c16.8 0 29-11 29-26.5 0-16.1-11.6-27.1-29-27.1zm-.7 35.6h-21.3V18.7H614c7.1 0 11 3.3 11 9.1.1 5.1-4.4 8.3-11.6 8.3zM677.3.5h-18.7v85.9h64V68.9h-45.3V.5zm76.9 68.4V49.6h24.5v-18h-24.5v-13h44.6V.5h-62.7v85.9H800V68.9h-45.8z"/>
+        <!--[if lte IE 8]>
+        <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/real-simple-logo.png" alt="Real Simple" class="no-svg-png">
+        </foreignObject>
+        <![endif]-->
+      </svg>
+    </a>
+    <div class="g-5up cf f-g">
+              <div class="gi f-gi menu-footer-block-one">
+    <h4 class="f-gi-title upper">RealSimple.Com</h4>
+    <ul class="f-list">
+        <li class=first><a href=http://www.realsimple.com/food-recipes>Food</a></li><li class=leaf><a href=http://www.realsimple.com/home-organizing>Home</a></li><li class=leaf><a href=http://www.realsimple.com/beauty-fashion>Style</a></li><li class=leaf><a href=http://www.realsimple.com/work-life>Life</a></li><li class=leaf><a href=http://www.realsimple.com/magazine-more/shop-real-simple-products>Shop</a></li><li class=leaf><a href=http://www.realsimple.com/holidays-entertaining>Holidays</a></li><li class=last><a href=http://www.realsimple.com/sitemap>Sitemap</a></li>    </ul> <!-- /.f-list -->
+</div> <!-- /.gi -->
+
+<div class="gi f-gi menu-footer-block-two">
+    <h4 class="f-gi-title upper">Special Features</h4>
+    <ul class="f-list">
+        <li class=first><a href=http://rslifestylers.com/realsimple/lifestyler/>RS Lifestylers</a></li><li class=leaf><a href=http://subscription-assets.realsimple.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/sm-rewardsland0912/lp.html>Real Simple Rewards</a></li><li class=leaf><a href=http://www.realsimple.com/magazine-more/shop-real-simple-products>Real Simple Products</a></li><li class=last><a href=http://www.realsimple.com/work-life/entertainment/real-simple-online-book-club-1>Book Club</a></li>    </ul> <!-- /.f-list -->
+</div> <!-- /.gi -->
+
+<div class="gi f-gi menu-footer-block-three">
+    <h4 class="f-gi-title upper">Digital Products</h4>
+    <ul class="f-list">
+        <li class=first><a href=https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1025786.html>Weeknight Meal Planner</a></li><li class=leaf><a href=http://www.realsimple.com/magazine-more/digital-products>Checklists App</a></li><li class=leaf><a href=https://itunes.apple.com/us/app/real-simple-wedding-checklists/id922979997?mt=8>Wedding Checklists App</a></li><li class=last><a href=http://www.realsimple.com/magazine-more/digital-products>Cozi Family Organizer App</a></li>    </ul> <!-- /.f-list -->
+</div> <!-- /.gi -->
+
+<div class="gi f-gi menu-footer-block-four">
+    <h4 class="f-gi-title upper">Customer Service</h4>
+    <ul class="f-list">
+        <li class=first><a href=http://www.realsimple.com/work-life/technology/contact-us>Contact Us</a></li><li class=leaf><a href=https://secure.customersvc.com/servlet/Show?WESPAGE=sm/home.html&MSRSMAG=SM>Customer Service</a></li><li class=leaf><a href=http://www.realsimple.com/microsites/media-kit/>Media Kit</a></li><li class=leaf><a href=https://subscription.timeinc.com/storefront/privacy/realsimple/generic_privacy_new.html?dnp-source=E>Privacy Policy</a></li><li class=leaf><a href=https://subscription.timeinc.com/storefront/privacy/realsimple/privacy_terms_service.html>Terms of Service</a></li><li class=leaf><a href=https://subscription.timeinc.com/storefront/privacy/realsimple/generic_privacy_new.html?dnp-source=B#california>Your California Privacy Rights</a></li><li class=last><a href=http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html>Ad Choices</a></li>    </ul> <!-- /.f-list -->
+</div> <!-- /.gi -->
+
+<div class="gi f-gi menu-footer-block-five">
+    <h4 class="f-gi-title upper">Subscribe</h4>
+    <ul class="f-list">
+        <li class=first><a href=https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1001771.html>Subscribe to Real Simple</a></li><li class=leaf><a href=https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1001112.html>Give a Gift</a></li><li class=leaf><a href=https://subscription.realsimple.com/storefront/subscribe-to-real-simple/link/1018358.html>Digital Tablet Subscription</a></li><li class=leaf><a href=http://backissues.realsimple.com/storefront/cBackissuesSM2014-p0.html>Back Issues</a></li><li class=last><a href=http://www.realsimple.com/newsletter/preference-center>Email Newsletters</a></li>    </ul> <!-- /.f-list -->
+</div> <!-- /.gi -->
+
+          </div> <!-- /.g-4up -->
+  </div> <!-- /.lc -->
+      
+<div class="f-social">
+    <a class="no-bg icon rounded icon-facebook icon--medium" href="https://www.facebook.com/RealSimple">
+    <span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Facebook</title>
+        <path fill="#fff" d="M435.9 758V547h57.3l7.5-72.7h-64.8l.1-36.4c0-19 1.8-29.2 28.6-29.2h35.8V336H443c-68.9 0-93.1 35.3-93.1 94.6v43.6H307V547h43v211h85.9z"/>
+        <!--[if lte IE 8]>
+        <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/facebook.png" alt="Facebook" class="no-svg-png">
+        </foreignObject>
+        <![endif]-->
+      </svg>
+    </span>
+  </a>
+    <a class="no-bg icon rounded icon-twitter icon--medium" href="https://twitter.com/realsimple">
+    <span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Twitter</title>
+        <path fill="#fff" d="M389.9 458.5l.9 15-15.2-1.8c-55.4-7.1-103.8-31.1-145-71.3l-20.1-20-5.2 14.7c-11 32.9-4 67.7 18.9 91 12.1 12.9 9.4 14.8-11.6 7.1-7.3-2.4-13.7-4.3-14.3-3.4-2.1 2.2 5.2 30.1 11 41.2 7.9 15.4 24.1 30.4 41.8 39.4l14.9 7-17.7.3c-17.1 0-17.7.3-15.8 6.8 6.1 20 30.2 41.2 57 50.4l18.9 6.4-16.5 9.8c-24.4 14.1-53 22.1-81.6 22.7-13.7.3-25 1.5-25 2.5 0 3.1 37.2 20.3 58.8 27.1 64.9 20 141.9 11.4 199.8-22.8 41.1-24.3 82.2-72.6 101.4-119.3 10.3-24.9 20.7-70.4 20.7-92.2 0-14.1.9-16 18-32.9 10.1-9.8 19.5-20.6 21.3-23.7 3-5.8 2.7-5.8-12.8-.6-25.9 9.2-29.6 8-16.8-5.8 9.5-9.9 20.7-27.7 20.7-32.9 0-.9-4.6.6-9.7 3.4-5.5 3.1-17.7 7.7-26.8 10.5l-16.5 5.2-14.9-10.2c-8.2-5.5-19.8-11.7-25.9-13.5-15.5-4.3-39.3-3.7-53.3 1.2-38.1 14-62.1 49.6-59.4 88.7z"/>
+        <!--[if lte IE 8]>
+        <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/twitter.png" alt="Twitter" class="no-svg-png">
+        </foreignObject>
+        <![endif]-->
+      </svg>
+    </span>
+  </a>
+    <a class="no-bg icon rounded icon-instagram icon--medium" href="http://instagram.com/real_simple">
+    <span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Instagram</title>
+        <path fill="#fff" d="M605 363.9c-3.7-19.1-19.2-33.9-38.2-36.6-.8-.1-1.6-.3-2.4-.4H227.6c-2 .4-4.1.6-6.1 1.1-18.6 4.3-32.4 19.5-35 38.6-.1.8-.3 1.6-.4 2.4v342c.4 2.2.7 4.3 1.1 6.5 4.1 18.4 19.6 32.7 38.1 35.2.9.1 1.8.3 2.7.4h335.9c2.2-.4 4.4-.7 6.5-1.2 17.2-3.7 31.2-18.2 34.5-35.7.4-1.9.6-3.8.9-5.8V369.5c-.2-1.9-.5-3.7-.8-5.6zM310.9 538.7c.7-47 38.5-85.1 85.1-85 47.6 0 86 39.9 85 88.3-1 46.9-39.5 85.4-87 84.4-45.7-1.1-83.8-39.4-83.1-87.7zM560.4 501v189c0 9.1-7.7 16.9-16.7 16.9H248.2c-8.9 0-16.7-7.8-16.7-16.9V499.7h40c-10.4 36.1-7.6 70.9 10.1 104.1 11.9 22.2 29 39.5 50.7 51.9 43 24.5 96.4 22 136.9-6 15.6-10.8 28.4-24.4 38.2-40.8 9.9-16.4 15.9-34.1 18.1-53.1 2.2-19 .5-37.7-5.2-56.1h40.1v1.3zm0-81.8c0 9-7.2 16.8-16.1 17-7 .2-13.9 0-20.8.1h-19.1c-7.8 0-14.2-4.4-16.6-11.5-.6-1.9-1-4-1-5.9-.1-13.3 0-26.7 0-40 0-9.6 7.5-17.3 17-17.3h39.6c9.5 0 17 7.7 17 17.3v40.3z"/>
+        <!--[if lte IE 8]>
+        <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/instagram.png" alt="Instagram" class="no-svg-png">
+        </foreignObject>
+        <![endif]-->
+      </svg>
+    </span>
+  </a>
+    <a class="no-bg icon rounded icon-pinterest icon--medium" href="http://www.pinterest.com/realsimple/">
+    <span>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="146 290 500 500" enable-background="new 146 290 500 500">
+          <title>Pinterest</title>
+        <path fill="#fff" d="M224.6 475.6c0 45.1 16.6 85.2 52.1 100.3 5.8 2.5 11.1.1 12.7-6.6 1.1-4.6 4-16.3 5.2-21.1 1.8-6.6 1-8.9-3.7-14.6-10.2-12.4-16.8-28.6-16.8-51.5 0-66.3 48-125.6 125.1-125.6 68.3 0 105.8 43 105.8 100.5 0 75.6-32.5 139.5-80.6 139.5-26.6 0-46.5-22.7-40.1-50.5 7.6-33.2 22.5-69.1 22.5-93 0-21.5-11.2-39.4-34.3-39.4-27.2 0-49 29-49 67.9 0 24.8 8.1 41.6 8.1 41.6S303.9 644.5 299 665.8c-9.7 42.4-1.5 94.4-.7 99.6.4 3.1 4.3 3.9 6.1 1.6 2.5-3.3 34.9-44.6 45.8-85.8 3.1-11.6 17.9-72.1 17.9-72.1 8.9 17.3 34.7 32.7 62.1 32.7 81.8 0 137.2-76.9 137.2-179.8 0-77.8-63.9-150.3-160.9-150.3-120.9 0-181.9 89.4-181.9 163.9z"/>
+        <!--[if lte IE 8]>
+        <foreignObject>
+          <img src="/sites/all/themes/realsimple_responsive/images/svg/output/png/pinterest.png" alt="Pinterest" class="no-svg-png">
+        </foreignObject>
+        <![endif]-->
+      </svg>
+    </span>
+  </a>
+  </div>
+<!-- /.f-social -->
+    <div class="legal"><p class="copyright">Real Simple Home & Lifestyle Network. Copyright &copy; 2016 Time Inc. Lifestyle Group. Real Simple is a registered trademark of Time Inc.  All rights reserved. Reproduction in whole or in part without permission is prohibited.</p></div><!-- /.legal -->
+</footer> <!-- /.footer -->
+  <script type="text/javascript">require(["app/homepage"], function(homepage){});</script></div> <!-- /.page -->
+<div class="load"></div>
+<div class="overlay"></div>
+<!-- <a href="#close" class="icon no-bg rounded icon-x icon--standard icon--medium icon--fixed"></a> -->
+
+  <!-- region: Footer Scripts -->
+    <div class="region region-footer-scripts">
+    <script type="text/javascript" src="http://cdn-js.realsimple.com//sites/all/modules/custom/ti_image_lazy_load/js/ti-image-lazy-load.js?o4x2d8"></script>
+<script type="text/javascript" src="http://cdn-js.realsimple.com/sites/all/modules/custom/ti_udo/js/metadata.js?o4x2d8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require(["ti_overlay"], function(tio){});
+//--><!]]>
+</script>
+
+      <script type='text/javascript' >
+        requirejs.config({
+          paths: {"domReadyModule0":"\/\/s.skimresources.com\/js\/58287X1476118.skimlinks","domReadyModule1":"\/\/wms.assoc-amazon.com\/20070822\/US\/js\/auto-tagger.js?tag=REASIM03-20&locale=US&overwrite=1","domReadyModule2":"\/\/static.chartbeat.com\/js\/chartbeat","domReadyModule3":"\/\/native.sharethrough.com\/assets\/tag","domReadyModule4":"\/\/widgets.outbrain.com\/outbrain","domReadyModule5":"\/\/www.zergnet.com\/zerg.js?id=29000"}
+        });
+        require(['jquery'], function($) {
+          $(function() {
+            require(['domReadyModule0','domReadyModule1','domReadyModule2','domReadyModule3','domReadyModule4','domReadyModule5'], function(){});
+          });
+        });
+      </script>
+      
+      <script type='text/javascript' >
+        require(['ti_image_lazy_load'], function(till){});
+      </script>
+        </div>
+  <!-- end region: Footer Scripts -->
+<!-- end page.tpl.php -->
+  <!-- New Relic -->
+
+<!--END  New Relic -->
+<script src="//js.revsci.net/gateway/gw.js?csid=H07710" type="text/javascript"></script>
+<script type="text/javascript">TiiAdTrackRevSci();</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7fc7d5aa08","applicationID":"3798278","transactionName":"YFABN0tQCxJQUkEMXVkaIgBNWAoPHkVcOl5EUjwAVkMAPlleWABCVlIG","queueTime":0,"applicationTime":997,"ttGuid":"","agentToken":"","atts":"TBcCQQNKGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    var _sf_startpt = (typeof RS !== 'undefined') ? RS.environment_vars.chartbeat_start_time : REALSIMPLE.environment_vars.chartbeat_start_time;
+    var _sf_async_config = {"sections":"home","title":"realsimple|homepage","domain":"realsimple.com","authors":"","useCanonical":true};
+    _sf_async_config.uid = (typeof RS !== 'undefined') ? RS.environment_vars.chartbeat_uid : REALSIMPLE.environment_vars.chartbeat_uid;
+    var _sf_endpt = (new Date()).getTime();
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+require(['app/newsletter-signup'], function(Newsletter){Newsletter.initializeNewsletter('#responsive-newletter-signup-form .form-submit', '#responsive-newletter-signup-form fieldset');});
+//--><!]]>
+</script>
+</body>
+</html>

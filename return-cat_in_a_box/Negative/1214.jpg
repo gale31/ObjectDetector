@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ms-my" lang="ms-my" dir="ltr">
+<head>
+	<title>404 - Ralat: 404</title>
+	<link rel="stylesheet" href="/templates/system/css/error.css" type="text/css" />
+	</head>
+<body>
+	<div class="error">
+		<div id="outline">
+		<div id="errorboxoutline">
+			<div id="errorboxheader">404 - Kategori tidak dijumpai</div>
+			<div id="errorboxbody">
+			<p><strong>Anda tidak boleh akses ke halaman ini kerana:</strong></p>
+				<ol>
+					<li>Ralat <strong>Halaman sudah tidak wujud</strong></li>
+					<li>satu enjin carian yang mempunyai <strong>penyenaraian yang telah luput untuk tapak ini</strong></li>
+					<li>Kesilapan <strong>menulis URL</strong></li>
+					<li>anda <strong>tiada akses</strong> ke halaman ini</li>
+					<li>Sumber yang diminta tidak dijumpai.</li>
+					<li>Ralat berlaku ketika proses permintaan.</li>
+				</ol>
+			<p><strong>Sila cuba salah satu halaman yang berikut:</strong></p>
+
+				<ul>
+					<li><a href="/index.php" title="Pergi ke Laman Utama">Laman Utama</a></li>
+				</ul>
+
+			<p>Jika kesukaran berterusan, sila hubungi Pentadbir Sistem laman web ini dan laporan ralat di bawah..</p>
+			<div id="techinfo">
+			<p>Kategori tidak dijumpai</p>
+			<p>
+							</p>
+			</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>

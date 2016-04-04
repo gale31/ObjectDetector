@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Williams Window &amp; Door - Home - Albuquerque, Santa Fe and Crested Butte</title>
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+<body>
+<table style="height: 93px;" width="925">
+<tbody>
+<tr class="header">
+<td width="250" height="117"><img src="Graphics/WilliamsLogo250x117.gif" alt="windows, doors, hardware, skylights" name="logo" width="250" height="117" id="logo" /></td>
+<td width="675" height="117"><img src="Graphics/header.JPG" name="HeadGraphic" width="676" height="117" id="HeadGraphic" /></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 443px;" width="930" border="0">
+<tbody>
+<tr valign="top">
+<td width="250" height="439" class="navagationtd">
+<p><a href="index.html" class="navigation-current">Home</a> <a href="products.html" class="navagation">Products </a> <a href="services.html" class="navagation">Services</a> <a href="sustainability.html" class="navagation">Sustainability</a> <a href="locations.html" class="navagation">Locations</a> <a href="contactus.html" class="navagation">Contact Us</a> <a href="gallery.html" class="navagation">Gallery</a></p>
+<p>&nbsp;</p>
+</td>
+<td width="675" height="439" class="textblock">
+<p>Williams Window &amp; Door, in business since 1982, is the regions most experienced full service window and door distributor.  We  serve all of New Mexico with regularly scheduled service and delivery to Albuquerque, Santa Fe and Taos.&nbsp;</p>
+<p>Williams Window &amp; Door carries a comprehensive selection of fenestration products including wood windows and doors; clad wood windows and doors; contemporary aluminum windows, patio &amp; multi-slide&nbsp;doors; domestic and European&nbsp;steel windows and doors as well as a variety of folding exterior patio door systems.</p>
+<p>Williams Window &amp; Door invites you to visit our newly remodeled showroom in Santa Fe. &nbsp;We're pleased to introduce Architectural Traditions wood windows, patio doors, entry systems, interior doors and hand forged hardware displays to our showroom.</p>
+<p>Williams Window &amp; Door has a complete line of interior doors, hardware and skylights to complete your building project.</p>
+<p>Williams Window &amp; Door services what we sell. We maintain our own delivery and service fleet and employ the best technicians to install and service the products we sell.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="925" border="0">
+<tbody>
+<tr class="footer">
+<td width="250" class="footertable">Last Update: 
+      <!-- #BeginDate format:fcAm1a -->March 20, 2012<!-- #EndDate --></td>
+<td width="329" class="footer-center"><a href="privacy.html" target="_blank">Privacy Policy</a></td>
+<td width="332" class="footer-right">For web site comments or questions please contact our <a href="mailto:web@williamswindow.com">webmaster</a></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

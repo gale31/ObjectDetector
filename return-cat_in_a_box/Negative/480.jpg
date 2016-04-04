@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>404 Not Found - BuildingDesign</title>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<meta name="keywords" content="404 Not Found" />
+	<meta name="description" content="These are frequently asked questions regarding BuildingDesign." />
+	<link href="http://www.buildingdesign.co.uk/css/style.css" rel="stylesheet" type="text/css" />
+	
+		<script language="javascript" type="text/javascript">
+			//Script for displaying todays date
+			//--------------- LOCALIZEABLE GLOBALS ---------------
+			var d=new Date();
+			var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+			//Ensure correct for language. English is "January 1, 2004"
+			var TODAY = d.getDate() + " " + monthname[d.getMonth()] + " " + " " + d.getFullYear();
+			//---------------   END LOCALIZEABLE   ---------------
+		</script>
+			
+		<script language="javascript" type="text/plain" class="cc-onconsent-analytics">
+			//Script for Google Analytics
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6710136-1']);
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+</head>
+
+<body>
+	<p class="date"><script language="javascript" type="text/javascript">document.write(TODAY);</script> - BuildingDesign Construction Directory</p>
+	
+	<div id="wrapper">
+		<div id="header3">
+			<div id="searchform">
+					<!-- start of search box html -->
+					<form action="http://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+							<input type="hidden" name="si" value="4275038" />
+							<input type="hidden" name="pid" value="r" />
+							<input type="hidden" name="n" value="0" />
+							<input type="hidden" name="_charset_" value="" />
+							<input type="hidden" name="bcd" value="&#247;" />
+							<input type="text" name="query" placeholder=" Search..." class="search_bar" /> 
+							<input type="image" src="http://www.buildingdesign.co.uk/img/layout/search.png" alt="Submit" class="search_icon" height="30" name="Search" width="30" />
+						</form><!-- end of search box html -->
+						<p class="featured_companies"><a href="http://www.buildingdesign.co.uk/featured-companies.htm">A-Z Company Index</a></p>
+
+					</div><!-- close searchform -->
+			
+			<div id="banner_image"></div><!-- close banner_image -->
+			<div id="banner_logo"></div><!-- close bnanner_logo -->
+			
+		</div><!-- close header -->
+		
+		<div id="main_navigation">
+			<ul id="main_nav">
+				<li class="home"><a href="http://www.buildingdesign.co.uk/index.htm">Home</a></li>
+				<li class="cpd"><a href="http://www.buildingdesign.co.uk/cpd/cpd.htm">CPD Seminars</a></li>
+				<li class="arch"><a href="http://www.buildingdesign.co.uk/architectural-index.htm">Architectural Index</a></li>
+				<li class="elec"><a href="http://www.buildingdesign.co.uk/electrical-index.htm">Electrical Index</a></li>
+				<li class="mech"><a href="http://www.buildingdesign.co.uk/mechanical-index.htm">Mechanical Index</a></li>
+				<li class="data"><a href="http://www.buildingdesign.co.uk/data-centre-index.htm">Data Centre Index</a></li>
+				<li class="facil"><a href="http://www.buildingdesign.co.uk/facilities-index.htm">Facilities Index</a></li>
+			</ul>
+		</div><!-- close main nav -->
+		
+		<div id="container">
+			
+			<div id="left_col">
+				<ul class="left_col_box_large">
+					<li class="left_col_heading_purple">Request Product Information</li>
+					<li class="left_col_box_large_arch">- <a href="http://www.buildingdesign.co.uk/architectural-internal-info.htm">Architectural - Internal</a></li>
+					<li class="left_col_box_large_arch">- <a href="http://www.buildingdesign.co.uk/architectural-external-info.htm">Architectural - External</a></li>				
+					<li class="left_col_box_large_elec">- <a href="http://www.buildingdesign.co.uk/electrical-info-request.htm">Electrical Engineering</a></li>
+					<li class="left_col_box_large_mech">- <a href="http://www.buildingdesign.co.uk/mechanical-info-request.htm">Mechanical / HVAC</a></li>
+					<li class="left_col_box_large_facil">- <a href="http://www.buildingdesign.co.uk/facilities-info-request.htm">Facilities / Interiors</a></li>
+				</ul>
+				<ul class="left_col_box">
+					<li class="left_col_heading_purple">Feature on BuildingDesign</li>
+					<li class="left_col_box">
+					<a href="../advertiseonbuildingdesign.htm">How to promote your Company</a></li>
+				</ul>
+				<ul class="left_col_box">
+					<li class="left_col_heading_purple">BuildingDesign News</li>
+					<li class="left_col_box"><a href="http://www.buildingdesign.co.uk/subscribe.htm">Subscribe to Newsletter</a></li></ul>
+				<ul class="left_col_box">
+					<li class="left_col_heading_purple">How to obtain a Notebook</li>
+					<li class="left_col_box"><a href="http://www.buildingdesign.co.uk/requests.htm">View / Request a Notebook</a></li></ul>
+				<ul class="left_col_box">
+					<li class="left_col_heading_purple">Online Libraries</li>
+					<li class="left_col_box"><a href="http://www.buildingdesign.co.uk/cpd/cpd.htm">More Information</a></li></ul>
+				<ul class="left_col_box">
+					<li class="left_col_heading_purple">Tenders / Quotations</li>
+					<li class="left_col_box"><a href="http://www.buildingdesign-tenders.co.uk" target="_blank">More Information</a></li></ul>
+				<ul class="left_col_box_connect" style="height: 61px">
+					<li class="left_col_heading_purple">Connect With Us</li>
+					<li class="left_col_box_connect">
+						<a href="https://twitter.com/BuildingDesign_" target="_blank"><img alt="Follow BuildingDesign on Twitter" src="http://www.buildingdesign.co.uk/img/layout/twitter.png" height="35" width="32" title="Follow BuildingDesign on Twitter" /></a>
+						<a href="https://www.linkedin.com/company/buildingdesign-media" target="_blank"><img alt="Connect with BuildingDesign on LinkedIn" src="http://www.buildingdesign.co.uk/img/layout/linkedin.png" height="35" width="32" title="Connect with BuildingDesign on LinkedIn" /></a>
+						<a href="https://www.facebook.com/BuildingDesignMedia"target="_blank"><img alt="Become a fan on Facebook" src="http://www.buildingdesign.co.uk/img/layout/facebook.png" height="35" width="32" title="Become a fan on Facebook" /></a>
+						<a href="https://www.pinterest.com/bdmedia/" target="_blank"><img alt="Follow BuildingDesign on Pinterest" src="../img/layout/pinterest.png" title="Follow BuildingDesign on Pinterest" height="35" width="32" /></a>
+						<a href="https://plus.google.com/112978683085889712510/posts" rel="publisher" target="_blank"><img alt="Follow BuildingDesign Media on Google+" src="../img/layout/google.png" title="Follow BuildingDesign Media on Google+" height="35" width="32" /></a>
+					</li>
+				</ul>
+			</div><!-- close left_col -->
+			
+			<div id="page_content">
+				<div class="details">
+					<h1 style="color: #5C46B3; font-size: 1.7em;">Page Not found</h1>
+					
+					<p style="text-align: center; font-size : 1.2em">It looks like you have stumbled across a page that cannot be found.</p>
+					<p style="text-align: center">It is likely the URL has been typed incorrectly or the Search Engines have not updated their content.</p>
+					<img style="padding-bottom: 0px; padding-top: 10px; padding-right: 15px; padding-left: 40px; float: left" alt="404 Error - Page Not Found" src="http://www.buildingdesign.co.uk/img/layout/404error.jpg" height="327" width="190" />
+					
+					<ul class="not_found">
+						<li style="padding-bottom: 10px; font-size : 1.1em; line-height: 140%">Please navigate to alternative content using the links below:</li>
+						<li class="light_grey"><a href="http://www.buildingdesign.co.uk/index.htm">BuildingDesign Homepage</a></li>
+						<li class="dark_grey"><a href="http://www.buildingdesign.co.uk/architectural-index.htm">Architectural Companies Index</a></li>
+						<li class="light_grey"><a href="http://www.buildingdesign.co.uk/electrical-index.htm">Electrical Companies Index</a></li>
+						<li class="dark_grey"><a href="http://www.buildingdesign.co.uk/hvac-index.htm">Mechanical / HVAC Companies Index</a></li>
+						<li class="light_grey"><a href="http://www.buildingdesign.co.uk/data-centre-index.htm">Data Centre Index</a></li>
+						<li class="dark_grey"><a href="http://www.buildingdesign.co.uk/hvac-index.htm">Facilities Index</a></li>
+					</ul>
+					
+				</div><!-- close details -->
+				
+			</div><!-- close content -->
+				
+		</div><!-- close container -->
+			
+			<div id="footer">
+				<ul class="footer_links_left">
+					<li class="header"><a href="http://www.buildingdesign.co.uk/index.htm">Home</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/social-media.htm">Social Media</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/Terms-of-use.htm">Terms of Use</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/contact.htm">Contact Us</a></li>
+				</ul>
+				<ul class="footer_links">
+					<li class="header">Services</li>
+					<li><a href="http://www.buildingdesign.co.uk/cpd/cpd.htm">CPD / Seminars</a></li>
+					<li><a href="http://www.buildingdesign-tenders.co.uk" target="_blank">Tenders / Quotations</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/links.htm">Links Directory</a></li>
+				</ul>
+				<ul class="footer_links">
+					<li class="header">Websites</li>
+					<li><a href="http://www.buildingdesign-tenders.co.uk" target="_blank">BuildingDesign Tenders</a></li>
+					<li><a href="http://www.buildingdesign-news.co.uk" target="_blank">BuildingDesign News</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/news.htm">BuildingDesign News Archive</a></li>
+				</ul>
+				<ul class="footer_links">
+					<li class="header">Vacancies</li>
+					<li><a href="http://www.buildingdesign-recruitment.co.uk/" target="_blank">BuildingDesign Recruitment</a></li>						
+					<li><a href="http://www.buildingdesign-tenders.co.uk/employer_form.htm" target="_blank">Advertise a Job</a></li>
+					<li><a href="http://www.buildingdesign-tenders.co.uk/candidate_form.htm" target="_blank">Submit CV</a></li>
+				</ul>
+				<ul class="footer_links_right">
+					<li class="header"><a href="http://www.buildingdesign.co.uk/libraries.htm">Libraries</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/bim-library.htm">BIM Module Library</a></li>						
+					<li><a href="http://www.buildingdesign.co.uk/twitter-library.htm">Twitter Feed Library</a></li>
+					<li><a href="http://www.buildingdesign.co.uk/video-library.htm">Video Library</a></li>
+				</ul>
+			</div><!-- close footer -->			
+		</div><!-- close wrapper -->
+
+		<div class="bottom_ads">
+			<script type="text/plain" class="cc-onconsent-inline-advertising"><!--
+					google_ad_client = "ca-pub-6672753076259635";
+					/* BD New All Pages */
+					google_ad_slot = "7130045569";
+					google_ad_width = 468;
+					google_ad_height = 60;
+					//-->
+					</script>
+					<script type="text/plain" class="cc-onconsent-inline-advertising" 
+					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+			
+			<script type="text/plain" class="cc-onconsent-inline-advertising"><!--
+					google_ad_client = "ca-pub-6672753076259635";
+					/* BD New All Pages */
+					google_ad_slot = "7130045569";
+					google_ad_width = 468;
+					google_ad_height = 60;
+					//-->
+					</script>
+					<script type="text/plain" class="cc-onconsent-inline-advertising" 
+					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+		</div>
+		
+		<div id="useful_building_links">
+			<strong>BuildingDesign Media &copy; </strong> <!-- script for displaying current year --><script type="text/javascript">var d=new Date();document.write(d.getFullYear());</script> - 
+			<a href="http://www.buildingdesign-news.co.uk" target="_blank">BuildingDesign News</a> |
+			<a href="http://www.buildingdesign-tenders.co.uk" target="_blank">BuildingDesign Tenders</a> |
+			<a href="http://www.buildingdesign-recruitment.co.uk" target="_blank">BuildingDesign Recruitment</a> |
+			Useful links:
+			<a href="http://www.construction-index.com" target="_blank">Abacus Construction</a> |
+			<a href="http://www.lightingdirectory.com" target="_blank">Lighting Directory</a> |
+			<a href="http://www.sapling.info" target="_blank">Sapling.info</a>	
+		</div>
+		
+	</body>
+</html>

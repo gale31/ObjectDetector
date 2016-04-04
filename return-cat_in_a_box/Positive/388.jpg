@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>There has been an error processing your request</title>
+<base href="http://www.dierenoutlet.nl/errors/default/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="*" />
+<link rel="stylesheet" href="css/styles.css" type="text/css" />
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="page">
+            <div class="header-container">
+                <div class="header">
+                    <a href="http://www.dierenoutlet.nl/" title="Magento Commerce" class="logo"><img src="images/logo.gif" alt="Magento Commerce" /></a>
+                </div>
+            </div>
+            <div class="main-container">
+                <div class="main col1-layout">
+                    <div class="col-main">
+    <div class="page-title">
+        <h1>There has been an error processing your request</h1>
+    </div>
+                <p><em>Exception printing is disabled by default for security reasons.</em></p>
+    
+                <p>Error log record number: <a href="http://www.dierenoutlet.nl/errors/report.php?id=1306479395921&amp;skin=default">1306479395921</a></p>
+    </div>
+                </div>
+            </div>
+            <div class="footer-container">
+                <div class="footer">
+                    <address class="copyright">Magento is a trademark of Magento Inc. Copyright &copy; 2012 Magento Inc.</address>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+Warning: include(): open_basedir restriction in effect. File(Mage.php) is not within the allowed path(s): (/home/dierenout/:/tmp:/var/tmp:/usr/local/lib/php/) in /home/dierenout/domains/dierenoutlet.nl/public_html/lib/Varien/Autoload.php on line 93
+
+Warning: include(Mage.php): failed to open stream: Operation not permitted in /home/dierenout/domains/dierenoutlet.nl/public_html/lib/Varien/Autoload.php on line 93
+
+Warning: include(): Failed opening 'Mage.php' for inclusion (include_path='/home/dierenout/domains/dierenoutlet.nl/public_html/app/code/local:/home/dierenout/domains/dierenoutlet.nl/public_html/app/code/community:/home/dierenout/domains/dierenoutlet.nl/public_html/app/code/core:/home/dierenout/domains/dierenoutlet.nl/public_html/lib:.:/usr/local/lib/php') in /home/dierenout/domains/dierenoutlet.nl/public_html/lib/Varien/Autoload.php on line 93
+
+Fatal error: Class 'Mage' not found in /home/dierenout/domains/dierenoutlet.nl/public_html/app/code/core/Mage/Core/functions.php on line 244

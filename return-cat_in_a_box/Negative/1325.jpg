@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head><title>
+	Maine Stone Yard | Stone Walkways, Stone Patios, Retaining Walls, Fireplaces, Pellet, Gas and Wood Stoves, Fireplace Inserts, Big Green Egg, Thin Stone Veneer, Pavers and Bricks, Landscaping, Hardscaping | Sales and Installation | Somerset Stone and Stove in Oakland, Maine
+</title><meta name="description" content="Somerset Stone and Stove, located in Oakland, Maine, is a Maine stone company offering sales and installation of natural stones, pavers, bricks, cultured stone, thin veneer, retaining walls, outdoor kitchens, walkways and patios, steps, fireplaces, gas, pellet and wood stoves, fireplace inserts, Big Green Egg ceramic cookers and fire pits." /><meta name="keywords" content="maine stone yard, hardscaping, landscaping, thin veneer, natural stone, cultured stone, stone walkways, stone patios, retaining walls, fireplaces, fire pits, pellet stove, gas stove, wood stove, fireplace inserts, thin stone veneer, pavers, bricks, outdoor kitchens, pizza ovens, big green egg ceramic cooker, led solar lights, somerset stone and stove, fairfield, oakland, maine, central maine" /><meta http-equiv="Content-Language" content="en-us" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="copyright" content="Copyright (c) 2016 Somerset Stone and Stove. All Rights Reserved" />
+
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" /><link rel="icon" type="image/png" href="/images/favicon.png" /><link href="/phdmodules/stylesheets/core-3.0.0.css" type="text/css" rel="stylesheet" /><link href="/stylesheets/somerset.css" type="text/css" rel="stylesheet" /><link href="/stylesheets/megamenu.css" type="text/css" rel="stylesheet" /><link href="/stylesheets/inventory.css" type="text/css" rel="stylesheet" /><link href="/stylesheets/news.css" type="text/css" rel="stylesheet" /><link href="/PHDModules/scripts/colorbox/colorbox.css" type="text/css" rel="stylesheet" />
+
+    <!--[if lte IE 8]>
+    <link href="/stylesheets/ie78fix.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/megamenu-ie78fix.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+    <!--[if IE 7]>
+    <link href="/stylesheets/ie7fix.css" rel="stylesheet" type="text/css" /><link href="/stylesheets/inventory-ie7fix.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+    <script src="/PHDModules/scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="/PHDModules/scripts/jquery.easing.1.3.js" type="text/javascript"></script>
+    <script src="/PHDModules/scripts/jquery.cycle.js" type="text/javascript"></script>
+    <script src="/PHDModules/scripts/jquery.fader.js" type="text/javascript"></script>
+
+    <!-- This is the jQuery we need for the Marquee. -->
+    <script type="text/javascript" src="/PHDModules/scripts/jquery.jarquee.js"></script>
+
+    <!-- This is the jQuery we need for the Inventory -->
+    <script src="/PHDModules/scripts/jquery.query-2.1.7.js" type="text/javascript"></script>
+    <script src="/PHDModules/scripts/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
+    <script src="/PHDModules/scripts/inventory/item-detail.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Cycle
+            $('.rotator').cycle({ pause: 'true' });
+            $('.big-rotator').cycle({ pause: 'true', delay: 4000 });
+            // Marquee
+            $('.marquee').jarquee({ center: true, speed: 4, URL: "http://admin.phdcon.com/webservices/banner/view/##" });
+            // Prevent click on "empty" items
+            $('.noclick').live('click', function (evt) { evt.stopPropagation(); evt.preventDefault(); });
+            // Inventory Stuff
+            $('a.gallery').removeAttr("title").colorbox({ current: "{current} of {total}", height: "554px", title: false });
+            $('#cboxLoadedContent img').live('click', function (evt) {
+                evt.preventDefault();
+                $.fn.colorbox.next();
+            });
+        });
+    </script>
+
+    
+</head>
+
+<body>
+
+    <form name="frmMaster" method="post" action="./retaining-wall.jpg?404%3bhttp%3a%2f%2fsomersetstonecenter.com%3a80%2fimages%2fretaining-wall.jpg" id="frmMaster">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM2NDA2NTY0OA9kFgJmD2QWAgIDD2QWBmYPFgIeBFRleHQFwQI8dWw+DQo8bGk+PGEgaHJlZj0iL05ld3MvODEvY2F0ZWdvcnkvNjU2Ij5DdWx0dXJlZCBTdG9uZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9OZXdzLzgxL2NhdGVnb3J5LzY1NyI+VGhpbiBWZW5lZXI8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTmV3cy84MS9jYXRlZ29yeS82NTMiPkZpcmVwbGFjZXMgJiBDaGltbmV5czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9OZXdzLzgxL2NhdGVnb3J5LzY1NCI+UGF2ZXJzICYgV2FsbHM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTmV3cy84MS9jYXRlZ29yeS82NTIiPk5hdHVyYWwgU3RvbmU8L2E+PC9saT4NCjwvdWw+DQpkAgEPFgIfAAXdBDx1bD4NCg0KDQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjM5OC8iPldhbGt3YXlzICYgUGF0aW9zPC9hPjwvbGk+DQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjM5OS8iPldhbGxzPC9hPjwvbGk+DQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjQwMC8iPkNoaW1uZXlzICYgRmlyZXBsYWNlczwvYT48L2xpPg0KDQoNCg0KDQoNCgk8bGk+PGEgaHJlZj0iL0ludmVudG9yeS9DYXRlZ29yeS8yNDAyLyI+VmVuZWVyPC9hPjwvbGk+DQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjQwMy8iPlN0ZXBzPC9hPjwvbGk+DQoNCg0KDQoNCg0KDQoNCgk8bGk+PGEgaHJlZj0iL0ludmVudG9yeS9DYXRlZ29yeS8yNDA1LyI+QWNjZXNzb3JpZXM8L2E+PC9saT4NCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjQxMC8iPlN0b3ZlczwvYT48L2xpPg0KDQoNCg0KDQoNCg0KDQoJPGxpPjxhIGhyZWY9Ii9JbnZlbnRvcnkvQ2F0ZWdvcnkvMjQxMy8iPkJpZyBHcmVlbiBFZ2c8L2E+PC9saT4NCg0KDQo8L3VsPg0KZAIED2QWAgIBDxYCHwAFOyZtZGFzaDsgPHN0cm9uZz4vaW1hZ2VzL3JldGFpbmluZy13YWxsLmpwZzwvc3Ryb25nPiAmbWRhc2g7ZGRiJz1RhVeAci3eGGwM5O3W10T0vGWKzWTTudIOqc3oMg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="193A34DB" />
+
+        <img src="/images/somerset-thumbnail.jpg" alt="Somerset Stone and Stove Website Thumbnail" style="display: none;" />
+
+        <div class="site-gradient"><div class="site-gradient-accent"></div></div>
+
+        <div class="site-wrapper">
+
+            <div class="site-header">
+
+                <div class="header-top">
+                    <div class="header-logo"><a href="/"><img src="/images/layout/logo.png" alt="Somerset Stone and Stove" border="0" width="258" height="97" /></a></div>
+                    <div class="header-menu-left">
+                        <div class="header-menu-top">
+                            <ul class="megamenu megamenu-left">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/services.aspx">Services</a></li>                               
+                                <li><a href="/financing.aspx">Financing</a></li>
+                            </ul>
+                        </div>
+                        <div class="header-menu-bottom">
+                            <ul class="megamenu megamenu-left">
+                                <li><a href="/videos.aspx">Videos</a></li>
+                                <li><a href="/links.aspx">Links</a></li>
+                                <li><a href="/about-us.aspx">About Us</a></li>
+                                <li><a href="/contact-us.aspx">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="header-menu-right">
+                        <div class="header-menu-top">
+                            <ul class="megamenu megamenu-right">
+                                <li><a href="/Inventory/Category/2416/">Testimonials</a></li>
+                                <li><a href="/stoves.aspx">Stoves</a></li>
+                                <li><a href="/stone-yard.aspx">Stone Yard</a></li>
+                            </ul>
+                        </div>
+                        <div class="header-menu-bottom">
+                            <ul class="megamenu megamenu-right">
+                                <li><a href="/Inventory/Category/2404/">Projects</a></li>
+                                <li class="drop"><a href="#" class="noclick">Do-It-Yourself</a>
+                                    <div class="dropdown_1column align_right">  
+                                        <div class="col_1 droplist">
+                                            <ul>
+<li><a href="/News/81/category/656">Cultured Stone</a></li>
+<li><a href="/News/81/category/657">Thin Veneer</a></li>
+<li><a href="/News/81/category/653">Fireplaces & Chimneys</a></li>
+<li><a href="/News/81/category/654">Pavers & Walls</a></li>
+<li><a href="/News/81/category/652">Natural Stone</a></li>
+</ul>
+
+                                        </div>   
+                                    </div>
+                                </li>
+                                <li class="drop"><a href="#" class="noclick">Products</a>
+                                    <div class="dropdown_1column align_right">  
+                                        <div class="col_1 droplist">
+                                            <ul>
+
+
+
+
+
+	<li><a href="/Inventory/Category/2398/">Walkways & Patios</a></li>
+
+
+
+	<li><a href="/Inventory/Category/2399/">Walls</a></li>
+
+
+
+	<li><a href="/Inventory/Category/2400/">Chimneys & Fireplaces</a></li>
+
+
+
+
+
+	<li><a href="/Inventory/Category/2402/">Veneer</a></li>
+
+
+
+	<li><a href="/Inventory/Category/2403/">Steps</a></li>
+
+
+
+
+
+
+
+	<li><a href="/Inventory/Category/2405/">Accessories</a></li>
+
+
+
+
+
+
+
+
+
+
+
+	<li><a href="/Inventory/Category/2410/">Stoves</a></li>
+
+
+
+
+
+
+
+	<li><a href="/Inventory/Category/2413/">Big Green Egg</a></li>
+
+
+</ul>
+
+                                        </div>   
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                
+    <div class="header-photo-wrapper">
+        <img src="/images/headers/fire-pit.jpg" alt="" border="0" width="940" height="320" />
+    </div>
+
+
+                <div class="header-title">
+                    
+    <h1>Page Cannot Be Located</h1>
+
+                </div>
+
+            </div>
+
+            <div class="site-content">
+                
+
+    <p>
+        The page you requested &mdash; <strong>/images/retaining-wall.jpg</strong> &mdash; could not be found.  It may have been removed, had its name changed, or may be temporarily unavailable.
+    </p>
+
+    <p>
+        Please try the following:
+    </p>
+
+    <ul>
+        <li>If you typed the page address in your browser's address bar, make sure it is spelled correctly.</li>
+        <li>Visit our <a href="/">home page</a> and look for links to the information you want.</li>
+    </ul>
+
+
+            </div>
+
+            <div class="clearfix"></div>
+
+            <div class="site-footer">
+                <div class="footer-left"><a href="http://www.phdcon.com/" title="Design and hosting provided by PHD Consulting, a Maine company." target="_blank"><img src="/images/layout/phd-logo.png" alt="" border="0" width="60" height="40" /></a></div>
+                <div class="footer-right">
+                    <a href="/">Home</a>&nbsp;|&nbsp;
+                    <a href="/services.aspx">Services</a>&nbsp;|&nbsp;
+                    <a href="/financing.aspx">Financing</a>&nbsp;|&nbsp;                   
+                    <a href="/videos.aspx">Videos</a>&nbsp;|&nbsp;
+                    <a href="/links.aspx">Links</a>&nbsp;|&nbsp;
+                    <a href="/about-us.aspx">About Us</a>&nbsp;|&nbsp;
+                    <a href="/contact-us.aspx">Contact Us</a><br />
+                    <a href="/Inventory/Category/2416/">Testimonials</a>&nbsp;|&nbsp;
+                    <a href="/stone-yard.aspx">Stone Yard</a>&nbsp;|&nbsp;
+                    <a href="/stoves.aspx">Stoves</a>&nbsp;|&nbsp;
+                    <a href="/Inventory/Category/2404/">Projects</a>&nbsp;|&nbsp;
+                    <a href="/inventory/">Products</a><br />
+                    Copyright <a href="/manage/" target="_blank">&copy</a> 2016 Somerset Stone and Stove.  All Rights Reserved.
+                </div>
+            </div>
+
+        </div>
+
+    </form>
+
+</body>
+
+</html>

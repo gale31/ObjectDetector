@@ -1,0 +1,314 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head id="frame_Head1"><title>
+	SimpleSite.com
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="keywords" content="Homepage, free homepage, create website, create free homepage, website, websites, make website, make free website, how to make homepage, how to make a homepage, blog, free blog, make a blog, make free blog, web design, web hotel, business website, business homepages, hobby website, family website, family homepage, pet website, pet homepage, homepage builder">
+	<meta name="description" content="Fast and easy - the most popular online website builder in the world, with no ads and your own domain name. Try SimpleSite.com completely free now!">
+	<meta name="google" value="notranslate">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="manifest" href="/manifest.json">
+<link rel="yandex-tableau-widget" href="/yandex-browser-manifest.json">
+
+		<meta name="robots" content="NOINDEX, NOFOLLOW">		
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="/c/css/bootstrap/css/bootstrap.ie6.css?_v=94c1fe48c66bb36cfac31f792586458d" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="/userpages/pages/CssForwarder.aspx?location=root&amp;style=frontpage.css&amp;version=1.0.0" />
+<link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,latin-ext" />
+<link rel="stylesheet" type="text/css" media="all" href="/c/less/global.css?_v=faaa074939edff941e9c4fbce309f7f1" />
+<link rel="stylesheet" type="text/css" media="all" href="/c/less/globalResponsive.css?_v=74527db7672c579daed4ec40b2e42f70" />
+<link rel="stylesheet" type="text/css" media="all" href="/c/css/seoblog.css?_v=d8c252ce19c7e3c7d0ed82cda6d22e45" />
+<link rel="stylesheet" type="text/css" media="all" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+
+<script type="text/javascript" src="/c/js/jquery-1.10.2.min.js?_v=bdce12c949e78d570c8d44e9c2b23508"></script>
+<script type="text/javascript" src="/c/js/jquery-migrate-1.2.1.min.js?_v=eb05d8d73b5b13d8d84308a4751ece96"></script>
+<script type="text/javascript" src="/c/js/bootstrap/bootstrap.min.js?_v=2b5027918a32f806ce202a2ad6ce707f"></script>
+<script type="text/javascript" src="/c/js/global.js?_v=7523d8d0a4562b67a4cabd7fde80d323"></script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/c/js/bootstrap/bootstrap.ie6.js?_v=29fd58efc9edb7b9cfb694313b54dc8e"></script>
+<![endif]-->
+
+
+</head>
+<body>
+    <form method="post" action="../../pages/404.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk1MTA1NDMzNQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWBGYPZBYCAgMPZBYCAggPDxYCHgdWaXNpYmxlaGRkAgEPZBYGAgEPZBYGZg8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgJmDxUDMGh0dHA6Ly93d3cuc2ltcGxlc2l0ZS5jb20vcGFnZXMvc3RhcnR3aXphcmQuYXNweAtzdGFydHdpemFyZBtNYWtlIGEgZnJlZSB3ZWJzaXRlIG9yIGJsb2dkAgEPZBYCZg8VAzVodHRwOi8vd3d3LnNpbXBsZXNpdGUuY29tL3BhZ2VzL2N1c3RvbWVyLXNlcnZpY2UuYXNweA9jdXN0b21lcnNlcnZpY2UQQ3VzdG9tZXIgU2VydmljZWQCAg9kFgJmDxUDMmh0dHA6Ly93d3cuc2ltcGxlc2l0ZS5jb20vZ28vY21zL2ZlYXR1cmVzL2ZlYXR1cmVzCGZlYXR1cmVzC1RoZSBQcm9kdWN0ZAIDD2QWAmYPFQM2aHR0cDovL3d3dy5zaW1wbGVzaXRlLmNvbS9nby9jbXMvaG93aXR3b3Jrcy9ob3dpdHdvcmtzCmhvd2l0d29ya3MMSG93IGl0IHdvcmtzZAIED2QWAmYPFQMbaHR0cDovL2Jsb2cuc2ltcGxlc2l0ZS5jb20vBGJsb2cIT3VyIEJsb2dkAgEPFgIfAgIBFgJmD2QWAmYPFQMaPGkgY2xhc3M9ImZhIGZhLWxvY2siPjwvaT4yaHR0cDovL3d3dy5zaW1wbGVzaXRlLmNvbS9wYWdlcy9zZXJ2aWNlLWxvZ2luLmFzcHgGTG9nIGluZAICD2QWAgIBDxYCHwFnFggCAQ8PFgIeBFRleHQFB0VuZ2xpc2hkZAIDDxYCHwICBhYMZg9kFgJmDxUCGWh0dHA6Ly9pZC5zaW1wbGVzaXRlLmNvbS8QQmFoYXNhIEluZG9uZXNpYWQCAQ9kFgJmDxUCGWh0dHA6Ly9kZS5zaW1wbGVzaXRlLmNvbS8HRGV1dHNjaGQCAg9kFgJmDxUCGWh0dHA6Ly9lcy5zaW1wbGVzaXRlLmNvbS8IRXNwYcOxb2xkAgMPZBYCZg8VAhlodHRwOi8vbm8uc2ltcGxlc2l0ZS5jb20vD05vcnNrIChCb2ttw6VsKWQCBA9kFgJmDxUCGWh0dHA6Ly9wdC5zaW1wbGVzaXRlLmNvbS8KUG9ydHVndcOqc2QCBQ9kFgJmDxUCGWh0dHA6Ly9lbC5zaW1wbGVzaXRlLmNvbS8QzpXOu867zrfOvc65zrrOrGQCBQ8WAh8CAgYWDGYPZBYCZg8VAhlodHRwOi8vbXMuc2ltcGxlc2l0ZS5jb20vDUJhaGFzYSBNZWxheXVkAgEPZBYCZg8VAhlodHRwOi8vZGEuc2ltcGxlc2l0ZS5jb20vBURhbnNrZAICD2QWAmYPFQIZaHR0cDovL2ZyLnNpbXBsZXNpdGUuY29tLwlGcmFuw6dhaXNkAgMPZBYCZg8VAhlodHRwOi8vbmwuc2ltcGxlc2l0ZS5jb20vCk5lZGVybGFuZHNkAgQPZBYCZg8VAhlodHRwOi8vZmkuc2ltcGxlc2l0ZS5jb20vBVN1b21pZAIFD2QWAmYPFQIZaHR0cDovL3RyLnNpbXBsZXNpdGUuY29tLwhUw7xya8OnZWQCBw8WAh8CAgYWDGYPZBYCZg8VAhlodHRwOi8vY3Muc2ltcGxlc2l0ZS5jb20vCcSMZcWhdGluYWQCAQ9kFgJmDxUCGmh0dHA6Ly93d3cuc2ltcGxlc2l0ZS5jb20vLkVuZ2xpc2gmbmJzcDsmbmJzcDs8aSBjbGFzcz0iZmEgZmEtY2hlY2siPjwvaT5kAgIPZBYCZg8VAhlodHRwOi8vaXQuc2ltcGxlc2l0ZS5jb20vCEl0YWxpYW5vZAIDD2QWAmYPFQIZaHR0cDovL3BsLnNpbXBsZXNpdGUuY29tLwZQb2xza2lkAgQPZBYCZg8VAhlodHRwOi8vc3Yuc2ltcGxlc2l0ZS5jb20vB1N2ZW5za2FkAgUPZBYCZg8VAhlodHRwOi8vcnUuc2ltcGxlc2l0ZS5jb20vDtCg0YPRgdGB0LrQuNC5ZAIHDxYCHwFoZAIJDw8WAh8BaGQWBmYPFgIfAgIGFgxmD2QWAmYPFQIwaHR0cDovL3d3dy5zaW1wbGVzaXRlLmNvbS9wYWdlcy9zdGFydHdpemFyZC5hc3B4G01ha2UgYSBmcmVlIHdlYnNpdGUgb3IgYmxvZ2QCAQ9kFgJmDxUCNWh0dHA6Ly93d3cuc2ltcGxlc2l0ZS5jb20vcGFnZXMvY3VzdG9tZXItc2VydmljZS5hc3B4EEN1c3RvbWVyIFNlcnZpY2VkAgIPZBYCZg8VAjJodHRwOi8vd3d3LnNpbXBsZXNpdGUuY29tL2dvL2Ntcy9mZWF0dXJlcy9mZWF0dXJlcwtUaGUgUHJvZHVjdGQCAw9kFgJmDxUCNmh0dHA6Ly93d3cuc2ltcGxlc2l0ZS5jb20vZ28vY21zL2hvd2l0d29ya3MvaG93aXR3b3JrcwxIb3cgaXQgd29ya3NkAgQPZBYCZg8VAhtodHRwOi8vYmxvZy5zaW1wbGVzaXRlLmNvbS8IT3VyIEJsb2dkAgUPZBYCZg8VAiQvcGFnZXMvdGVybXMtb2YtdXNlLmFzcHgjY29va2llVXNhZ2UNQWJvdXQgY29va2llc2QCAQ8WAh8CAgYWDGYPZBYCZg8VAhQvcGFnZXMvYWJvdXQtdXMuYXNweBBBYm91dCBTaW1wbGVTaXRlZAIBD2QWAmYPFQITL3BhZ2VzL2NhcmVlcnMuYXNweA9Xb3JraW5nIHdpdGggdXNkAgIPZBYCZg8VAhwvZ28vY21zL2NvcnBvcmF0ZS9tYW5hZ2VtZW50Ck1hbmFnZW1lbnRkAgMPZBYCZg8VAhYvcGFnZXMvYWZmaWxpYXRlcy5hc3B4C1BhcnRuZXJzaGlwZAIED2QWAmYPFQIWL2dvL2Ntcy9jb3Jwb3JhdGUvbmV3cwROZXdzZAIFD2QWAmYPFQIXL2dvL2Ntcy9jb3Jwb3JhdGUvcHJlc3MFUHJlc3NkAgIPFgIfAmZkZFVHVNi404AX8dQGXExoFh3veTP/" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B1B96C3" />
+</div>
+        <div id="wrapper">
+            
+
+<div id="header" class="red-line">        
+    <div class="container">
+        <div class="headercontainer">
+          <div id="logo"><a href="http://www.simplesite.com/">SimpleSite.com</a></div>
+          <div id="main-menu"  class="hidden-phone">
+            <ul class="menu">
+                
+                    <li><a href="http://www.simplesite.com/pages/startwizard.aspx" id="startwizard">Make a free website or blog</a></li>
+                
+                    <li><a href="http://www.simplesite.com/pages/customer-service.aspx" id="customerservice">Customer Service</a></li>
+                
+                    <li><a href="http://www.simplesite.com/go/cms/features/features" id="features">The Product</a></li>
+                
+                    <li><a href="http://www.simplesite.com/go/cms/howitworks/howitworks" id="howitworks">How it works</a></li>
+                
+                    <li><a href="http://blog.simplesite.com/" id="blog">Our Blog</a></li>
+                
+            </ul>
+          </div>
+          <div id="sub-menu">
+            <ul class="menu right" style="float:left;">
+               
+                        <li><i class="fa fa-lock"></i><a href="http://www.simplesite.com/pages/service-login.aspx">Log in </a></li>            
+                     
+            </ul>                  
+            
+
+<style>
+.fa-lock {
+    padding-right: 10px;
+}
+
+.fa-check {
+    color: #50ae55;
+}
+
+.caret {
+    padding-bottom: 10px;
+    color: #262626;
+}
+
+.lang-selector {
+    color: #393939;
+    float: right;
+    margin-bottom: -5px;
+}
+
+.lang-selector .nav > li > .multi-column::after {
+    top: -5px;
+}
+
+li.dropdown.open > #currentLang {
+    border: 1px solid #e3e3e3;
+    background-color: #f2f2f2;
+    margin:-1px;
+}
+
+.multi-column li > a:hover, .multi-column li > a:focus, .dropdown-submenu:hover > a {
+    background-image: linear-gradient(to bottom, #f2f2f2, #F1E9E8);
+}
+
+.multi-column {
+    min-width: 500px;
+    padding-left: 20px;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.column-drop {
+    float:left;
+    width:33.33333333%;
+    position:relative;
+    min-height:1px;
+    box-sizing: border-box;
+}
+
+.multi-column-dropdown {
+	list-style: none;
+    margin: 0px;
+}
+
+.multi-column-dropdown li a:hover {
+	text-decoration: none;
+	color: #262626;
+	background-color: #f5f5f5;
+}
+
+#sub-menu {
+    float: left ;
+    clear: none ; 
+    max-width: 350px;
+    height: 50px;
+}
+
+#lang {
+    padding-left:20px;
+}
+
+#currentLang {
+    padding-bottom: 13px;
+    padding-top: 15px;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    color: #393939;
+}
+
+@media (max-width: 768px) {
+    #currentLang {
+        padding-top: 20px;
+        padding-bottom: 8px;
+    }
+
+    .multi-column {
+        min-width: 400px;
+        padding-left: 0px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .navbar .nav > li > a {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    #header .container ul.menu li a {
+    padding-right: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .lang-selector {
+        /*display: none;*/
+    }
+    .lang-selector .row {
+        min-width: 200px;
+    }
+    .lang-selector .column-drop {
+        width: 100%;
+    }
+}
+</style>
+
+
+    <div class="navbar lang-selector">
+        <ul class="nav">
+            <li class="dropdown">     
+	        <a href="#" id="currentLang" class="dropdown-toggle" data-toggle="dropdown"> <span id="frame_siteHeader_usrStandardSiteHeaderLangSelector_lblCurrentLang">English</span> <b class="caret"></b></a>
+	        <ul class="row dropdown-menu pull-right multi-column">
+			    <li class="column-drop">
+				    <ul class="multi-column-dropdown">
+                        
+                                <li><a id="lang" href="http://id.simplesite.com/">Bahasa Indonesia</a></li>
+                            
+                                <li><a id="lang" href="http://de.simplesite.com/">Deutsch</a></li>
+                            
+                                <li><a id="lang" href="http://es.simplesite.com/">Español</a></li>
+                            
+                                <li><a id="lang" href="http://no.simplesite.com/">Norsk (Bokmål)</a></li>
+                            
+                                <li><a id="lang" href="http://pt.simplesite.com/">Português</a></li>
+                            
+                                <li><a id="lang" href="http://el.simplesite.com/">Ελληνικά</a></li>
+                            
+				    </ul>
+			    </li>
+			    <li class="column-drop">
+				    <ul class="multi-column-dropdown">
+                        
+                                <li><a id="lang" href="http://ms.simplesite.com/">Bahasa Melayu</a></li>
+                            
+                                <li><a id="lang" href="http://da.simplesite.com/">Dansk</a></li>
+                            
+                                <li><a id="lang" href="http://fr.simplesite.com/">Français</a></li>
+                            
+                                <li><a id="lang" href="http://nl.simplesite.com/">Nederlands</a></li>
+                            
+                                <li><a id="lang" href="http://fi.simplesite.com/">Suomi</a></li>
+                            
+                                <li><a id="lang" href="http://tr.simplesite.com/">Türkçe</a></li>
+                            
+				    </ul>
+			    </li>
+                <li class="column-drop">
+				    <ul class="multi-column-dropdown">
+                        
+                                <li><a id="lang" href="http://cs.simplesite.com/">Čeština</a></li>
+                            
+                                <li><a id="lang" href="http://www.simplesite.com/">English&nbsp;&nbsp;<i class="fa fa-check"></i></a></li>
+                            
+                                <li><a id="lang" href="http://it.simplesite.com/">Italiano</a></li>
+                            
+                                <li><a id="lang" href="http://pl.simplesite.com/">Polski</a></li>
+                            
+                                <li><a id="lang" href="http://sv.simplesite.com/">Svenska</a></li>
+                            
+                                <li><a id="lang" href="http://ru.simplesite.com/">Русский</a></li>
+                            
+				    </ul>
+			    </li>
+	        </ul>
+            </li>  
+        </ul>
+    </div>
+                      
+          </div>
+        </div> 
+    </div>
+</div>
+            
+            
+       <div id="body">
+            
+<div class="span12 error-page">
+    <div class="row">
+        <div class="span4 error-page-left-image">
+            <img width="252" height="385" src="/images/frontPage/Bee-252x425-404.jpg" />
+        </div>
+        <div class="span6">
+            <div class="row ss-title">404</div>
+            <div class="row ss-error-text">
+                You have tried to view a page that doesn’t exist.<br />Click here to go to <a href="http://www.simplesite.com/">www.simplesite.com</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+       </div>
+    
+            
+        </div>
+        
+    </form>
+    <!-- GTM dataLayer -->
+<script>
+    dataLayer =  [{"SiteVer":"US","Language":"en","Culture":"en-US","Instrumentation":"cat_2_in_the_box","PreOrFre":"UnDef","RecognizedCustomer":"False","Market":"BG","MainOrUser":"MainSite"}];
+</script>
+<!-- End GTM dataLayer -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-2MMH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-2MMH');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>

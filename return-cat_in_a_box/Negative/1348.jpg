@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base href="http://www.3cdrilling.com/"><!--[if lte IE 6]></base><![endif]-->
+<title>Living the Dream &raquo; 3C Drilling, LLC</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="canonical" href="http://www.3cdrilling.com/projects/living-the-dream/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', '3C Drilling, LLC', 'auto');
+	ga('send', 'pageview');
+  
+	function recordOutboundLink(link, category, action, opt_label, is_tel) {
+		var params = {
+			'eventCategory': category,
+			'eventAction': action,
+			'eventLabel': opt_label
+		};
+		ga('send', 'event', params);
+		if(is_tel){
+			//onClick="return recordOutboundLink(this,'Phone Call Links','Call','Header Phone Link',true);"
+			return true;
+		} else {
+			setTimeout('document.location = "' + link.href + '"', 100);
+		}		
+	} 
+	
+	function trackFormSubmit(form, category, action, opt_label, opt_value, submit_form) {
+		var params = {
+			'eventCategory': category,
+			'eventAction': action,
+			'eventLabel': opt_label,
+			'eventValue': opt_value
+		};
+		ga('send', 'event', params);
+		if (submit_form) setTimeout("document.getElementById('"+form.id+"').submit();", 100);
+		return false;
+	}
+</script>
+<!-- End Analytics-->
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '3C Drilling, LLC']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+	function recordOutboundLink(link, category, action, label, is_tel) {
+		_gaq.push(['_trackEvent', category, action, label, 1]);
+		if(is_tel){
+			//onClick="return recordOutboundLink(this,'Phone Call Links','Call','Header Phone Link',true);"
+			return true;
+		} else {
+			setTimeout('document.location = "' + link.href + '"', 100);
+		}
+	} 
+	
+	function trackFormSubmit(form, category, action, opt_label, opt_value) {
+		_gaq.push(['_trackEvent', category, action, opt_label, opt_value]);
+		setTimeout("document.getElementById('"+form.id+"').submit();", 250);
+		return false;
+	}  
+
+</script>
+<!-- End Analytics-->
+<!--[if lt IE 9]>
+<script src="/themes/mysite/javascript/html5shiv.js"></script>
+<script src="/themes/mysite/javascript/html5shiv-printshiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.3cdrilling.com/themes/mysite/combined/1427913743/Base.css" />
+<link rel="stylesheet" type="text/css" href="http://www.3cdrilling.com/themes/mysite/combined/1411062231/Page.css" />
+<link rel="stylesheet" type="text/css" href="http://www.3cdrilling.com/themes/mysite/combined/1421081563/Responsive.css" />
+</head>
+<body>
+
+    <div id="header_wrap" class="clear">
+    	<header class="clear">
+        	<a href="/" id="logo"><img src="/themes/mysite/images/logo.png" alt="3C Drilling, LLC | Turn Key, Drill Only, Design Build" /></a><!--logo-->
+            <span id="drill_rig"><img src="/themes/mysite/images/drill-rig.png" alt="Drilling Rig" /></span><!--drill_rig-->
+            <div id="header_right">
+                <address>
+                    1456 Ferry Road, Suite 305B<br />Doylestown, PA 18901
+                </address>
+                <p id="phone_fax">
+                    <span id="header_phone">P:215.348.4294</span><!--header_phone-->
+                    <span id="header_fax">F:215.348.7180</span><!--header_fax-->
+                </p><!--phone-->
+            </div><!--header_right-->
+        </header>
+    </div><!--header_wrap-->
+
+	<div id="nav_wrap" class="clear">
+        <nav>
+            <ul id="main_nav" class="clear">
+                
+                    <li><a href="/" class="link" id="nav1" ><span>Home</span></a></li>
+                
+                    <li><a href="/about/" class="link" id="nav2" ><span>About</span></a></li>
+                
+                    <li><a href="/services-and-capabilities/" class="link" id="nav3" ><span>Services &amp; Equipment</span></a>
+    <div class="dropdown" style="display:none;">
+        <ul>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/equipment/" >Equipment </a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/caissons/" >Caissons</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/transmission-foundations/" >Transmission Foundations</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/shoring-and-retaining-walls/" >Shoring and Retaining Walls</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/helical-piles/" >Helical Piles</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/engineering-consulting/" >Engineering consulting</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/capabilities/" >Capabilities</a></li>
+            
+                
+                    <li class="last">
+                
+                <a href="/services-and-capabilities/solar/" >Solar</a></li>
+            
+        </ul>
+    </div>
+</li>
+                
+                    <li><a href="/projects/" class="section" id="nav4" ><span>Projects</span></a>
+    <div class="dropdown" style="display:none;">
+        <ul>
+            
+                
+                    <li>
+                
+                <a href="/projects/completed-projects/" >Completed Projects</a></li>
+            
+                
+                    <li>
+                
+                <a href="/projects/video-gallery/" >Video Gallery</a></li>
+            
+                
+                    <li class="last">
+                
+                <a href="/projects/living-the-dream/" >Living the Dream</a></li>
+            
+        </ul>
+    </div>
+</li>
+                
+                    <li><a href="/blog/" class="link" id="nav5" ><span>Blog</span></a></li>
+                
+                    <li><a href="/contact-us/" class="link last" id="nav6" ><span>Contact Us</span></a></li>
+                
+            </ul>
+        </nav>
+        
+        <div id="mobile_nav" class="clear">
+            <a href="javascript:void()" id="mobile_nav_open"><span>Navigation</span></a><!--mobile_nav_open-->
+            <ul>
+                
+                    <li><a href="/" class="link" id="nav1"><span>Home</span></a></li>
+                
+                    <li><a href="/about/" class="link" id="nav2"><span>About</span></a></li>
+                
+                    <li><a href="javascript:void();" class="link" id="nav3"><span>Services &amp; Equipment</span></a>
+    <div class="dropdown" style="display:none;">
+        <ul>
+        	<li><a href="/services-and-capabilities/">Services &amp; Equipment</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/equipment/">Equipment </a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/caissons/">Caissons</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/transmission-foundations/">Transmission Foundations</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/shoring-and-retaining-walls/">Shoring and Retaining Walls</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/helical-piles/">Helical Piles</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/engineering-consulting/">Engineering consulting</a></li>
+            
+                
+                    <li>
+                
+                <a href="/services-and-capabilities/capabilities/">Capabilities</a></li>
+            
+                
+                    <li class="last">
+                
+                <a href="/services-and-capabilities/solar/">Solar</a></li>
+            
+        </ul>
+    </div>
+</li>
+                
+                    <li><a href="javascript:void();" class="section" id="nav4"><span>Projects</span></a>
+    <div class="dropdown" style="display:none;">
+        <ul>
+        	<li><a href="/projects/">Projects</a></li>
+            
+                
+                    <li>
+                
+                <a href="/projects/completed-projects/">Completed Projects</a></li>
+            
+                
+                    <li>
+                
+                <a href="/projects/video-gallery/">Video Gallery</a></li>
+            
+                
+                    <li class="last">
+                
+                <a href="/projects/living-the-dream/">Living the Dream</a></li>
+            
+        </ul>
+    </div>
+</li>
+                
+                    <li><a href="/blog/" class="link" id="nav5"><span>Blog</span></a></li>
+                
+                    <li><a href="/contact-us/" class="link last" id="nav6"><span>Contact Us</span></a></li>
+                
+            </ul>
+        </div><!--mobile_nav-->
+    </div><!--nav_wrap-->
+    
+    <div id="main_wrap" class="clear">
+    	<div id="main" class="clear">
+			
+        	<div id="page_type" class="internal typography">
+	
+        <h1>Living the Dream</h1>
+        <p>Living the dream is a sarcastic expression our employees use when things aren't at there best. These are the pics that don't do the moments justice.</p>
+<p>
+</p><div class="captionImage center" style="width: 390px;"><img class="center" src="assets/Uploads/390living1.jpg" width="390" height="520" alt="" title=""/><p class="caption">Camden Yards</p>
+</div>
+
+<p>70' deep hole.  Last hole on job.  Hole inspection 1:pm, Concrete 2:pm.  12:30 our mud bucket goes down with 4 feet of mud still in hole.  "What do you think Kevin."    Kevin."  I got it ".<br/><br/>12:30 to 2:00 Livin the dream, hand cleaning 4' of mud. 2:15 Inspection,  2:45  concrete.</p>
+<p>
+</p><div class="captionImage center" style="width: 530px;"><img class="center" src="assets/Uploads/530livingthedreAM1.JPG" width="530" height="397" alt="" title=""/></div>
+<div class="captionImage center" style="width: 530px;">
+<p class="caption">Good news it's twice as warm as yesterday. It's 2 degrees.</p>
+</div>
+<div class="captionImage center" style="width: 530px;"><img class="center" src="assets/Uploads/530139660-R1-02-1A1.jpg" width="530" height="357" alt="" title=""/></div>
+<div class="captionImage center" style="width: 530px;">
+<p class="caption">Brad if you hit the welder drop a buoy.</p>
+</div>
+
+<p>
+</p><div class="captionImage center" style="width: 530px;"><img class="center" src="assets/Uploads/530Exhaust2Breaking2.JPG" width="530" height="397" alt="" title=""/><p class="caption">3 Men to move exhaust hose for 8 caissons. Living the Dream</p>
+</div>
+
+        
+    
+</div>
+
+
+            
+        </div><!--main-->
+    </div><!--main_wrap-->
+    
+    <div id="certs_wrap" class="clear">
+    	<ul id="certs">
+        	<li><img src="/themes/mysite/images/cert_osha.png" alt="OSHA Compliant" /></li>
+            <li><img src="/themes/mysite/images/cert_iso.png" alt="ISO 9001 Certified" /></li>
+            <li><img src="/themes/mysite/images/cert_iso_9001.png" alt="ISO 9001 Registered" /></li>
+            <li><img src="/themes/mysite/images/cert_usgbc.png" alt="USGBC Compliant" /></li>
+        </ul>
+    </div><!--certs_wrap-->
+        
+    <div id="footer_wrap"> 
+    	<footer class="clear">
+        	<nav>
+            	<ul id="footer_nav" class="clear">
+                    
+                        <li><a href="/" class="link" >Home</a></li>
+                    
+                        <li><a href="/about/" class="link" >About</a></li>
+                    
+                        <li><a href="/services-and-capabilities/" class="link" >Services &amp; Equipment</a></li>
+                    
+                        <li><a href="/projects/" class="section" >Projects</a></li>
+                    
+                        <li><a href="/blog/" class="link" >Blog</a></li>
+                    
+                        <li><a href="/contact-us/" class="link last" >Contact Us</a></li>
+                    
+                </ul>
+            </nav>
+            <div id="footer_blocks">
+            	<address>1456 Ferry Road, Suite 305B<br />
+                    Doylestown, PA 18901<br />
+                    <span>P:215.348.4294</span>
+                </address>
+                <ul id="social">
+                	<li><a href="https://www.facebook.com/3CDrilling" target="_blank" id="fb_icon">Like us on Facebook</a></li>
+                    
+                    <li><a href="https://www.linkedin.com/company/3c-drilling-llc-" target="_blank" id="li_icon">Connect with us on LinkedIn</a></li>
+                </ul><!--social-->
+            </div><!--footer_blocks-->
+        	<p id="copyright">
+                Copyright &copy; 2016 3cdrilling.com<br />
+                <a href="http://www.iqnection.com" target="_blank">Website Design &amp; Website Hosting by IQnection</a>
+            </p>
+        </footer>
+    </div><!--footer_wrap-->
+    
+<script type="text/javascript" src="http://www.3cdrilling.com/themes/mysite/combined/1411063200/Base.js"></script><script type="text/javascript" src="http://www.3cdrilling.com/themes/mysite/combined/1411062231/Page.js"></script></body>
+</html>
+

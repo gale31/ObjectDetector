@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Alan Bauer Photography</title>
+    <link rel="stylesheet" type="text/css" href="/alanbauer-2015-12.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="/alanbauer-menu.css" />
+    <meta name="viewport" content="width=device+width, initial-scale=1.0" />
+
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+
+    <script type="text/javascript" src="/alanbauer.js"></script>
+</head>
+
+
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="container-wrap">
+
+<div id="header-wrap">
+
+<div class="headera">
+
+<a href="/index.phtml"><img src="/graphics/logo-july15-wide.png"  alt="Alan Bauer Photography" border="0" /></a>
+</div> <!-- end headera -->
+<div class="headerb margintop10">
+&quot;The greatest value of my photographic art<br />is using it as a tool of communication to better<br />educate people about the beauty surrounding us.&quot;
+</div>
+<div class="headerbmobile">
+&quot;The greatest value of my photographic art is using it as a tool of communication to better educate people about the beauty surrounding us.&quot;
+</div> <!-- end headerb -->
+
+</div> <!-- end header wrap -->
+
+</div> <!-- end container-wrap -->
+
+
+<div class="main-wrap">
+
+<div class="navback">
+    <ul class="main-nav">
+        <li><a class="main-nav" href="/index.phtml">Home</a></li>
+        <li><a class="main-nav" href="/stock-photo-search.phtml">Stock Search</a></li>
+        <li><a class="main-nav" href="/products.phtml">Products</a></li>
+        <li><a class="main-nav" href="/events.phtml">Events</a></li>
+        <li><a class="main-nav pressed" href="/credits.phtml">Credits</a></li>
+        <li><a class="main-nav" href="/biography.phtml">Biography</a></li>
+        <li><a class="main-nav" href="/contact-alan-bauer.phtml">Contact Alan</a></li>
+    </ul>
+</div> <!-- end navback -->
+
+<br clear="all" />
+<!-- end navigation -->
+
+<div class="pagecontent">
+<h1>Page not found</h1>
+
+<p>The page you are looking for is no longer available.  Please use the navigation above to explore my web site.</p>
+
+<p class="center"><img src="graphics/page-not-found.jpg" width="672" height="468" alt="" /></p>
+
+</div> <!-- end pagecontent -->
+
+<br clear="all" />
+
+</div><!-- end main-wrap -->
+
+<!-- begin footer -->
+<div id="footer-wrap">
+
+<div align="center">
+
+<div class="bottombox">
+<div class="bottomboxone paddingtop10">
+
+<a class="contactinfo" href="http://www.alanbauer.com">www.alanbauer.com</a>  ~  <script type="text/javascript">
+<!--
+  document.write('<a class="contactinfo" href="mailto:' + hideme_alan() + '">Contact Alan!</a>');
+// -->
+</script>
+
+<div class="copyright">Copyright © 2000-2016, Alan L. Bauer. &nbsp;All Rights Reserved.<br />
+All images, text, and graphics are the copyrighted property of Alan L. Bauer and may not
+be reproduced, downloaded, altered, or used for any purpose without written permission.</div>
+
+</div>
+<div class="bottomboxtwo">
+
+<div class="paddingtop12 paddingbottom12">
+<div class="fb-page"
+data-href="https://www.facebook.com/AlanBauerPhotography"
+
+data-small-header="false"
+data-adapt-container-width="true"
+data-hide-cover="false"
+data-small-header="false"
+data-show-facepile="false">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/AlanBauerPhotography"><a href="https://www.facebook.com/AlanBauerPhotography">Facebook</a></blockquote></div>
+</div><!-- end fb-page-->
+</div><!-- end paddingtop12-->
+
+</div><!-- end bottomboxtwo-->
+</div><!-- end bottombox>
+
+</div><!-- end footer-wrap -->
+</div><!-- end footer -->
+
+
+
+</body>
+</html>

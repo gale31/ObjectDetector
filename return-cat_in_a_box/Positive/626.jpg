@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+
+
+  <title>404 Page Not Found | Apartment Therapy</title>
+
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+  
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="rPGc0AYQ32NjJemsb0bzIuC94vP5FVHUojyCnttFHVc=" name="csrf-token" />
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+
+<meta property="og:title" content="Apartment Therapy" />
+<meta property="og:description" content="Saving the world, one room at a time" />
+<meta property="og:url" content="http://www.apartmenttherapy.com" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Apartment Therapy" />
+<meta property="fb:admins" content="1917611" />
+<meta property="fb:pages" content="30065974282" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://www.apartmenttherapy.com" />
+<meta name="twitter:title" content="Apartment Therapy" />
+<meta name="twitter:description" content="Saving the world, one room at a time" />
+<meta name="twitter:site" content="AptTherapy" />
+
+<meta name="msapplication-TileColor" content="#ee2737" />
+<meta name="msapplication-TileImage" content="/assets/favicons/at-metro-tile-877df567364b7a12b6305de95121b79f6fa60f63b6beb964fd595656e09bca7f.png" />
+
+<meta name="parsely-page" content='{"title":"404 Page Not Found","link":"http://www.apartmenttherapy.com/uimages/ny/9-10-cat-tunnel-3.jpg","type":"sectionpage"}' />
+
+
+
+  <link rel="shortcut icon" href="/assets/favicons/at-favicon-cc5dd837b7324d50a6cd85c458815d3d9f5b5f5fa07993f083812694acb62977.ico" />
+  <link href="https://plus.google.com/114882182336358417221/" rel="publisher" />
+
+  <link href="http://feeds.apartmenttherapy.com/apartmenttherapy/main" rel="alternate" title="Apartment Therapy" type="application/rss+xml" />
+
+
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/at-apple-touch-icon-114x114-c6b26a6917f4cdc2cd861d618b280d1eb353c2393996d77f4cf8cd694175bf8c.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/at-apple-touch-icon-72x72-116631ad4ef4c9a2f8ffba609bb3188749f2d57b4f8770679852746d524f91d9.png" />
+  <link rel="apple-touch-icon" href="/assets/favicons/at-apple-touch-icon-88429f6bd23637273f504f445c705c523d9a5081e8db569f1d17c0c2cc858c6c.png" />
+
+
+  <!--[if gte IE 9]><!-->
+      <link href="/assets/application-6fb0eb535ffc6099fd943f1784054d310cbf017f1a9aff1e9a53455fc197f5cf.css" media="screen, projection" rel="stylesheet" />
+      <link href="/assets/print-fa615c594f75f40d07b47e5c01ac8d95b030d37e0127979e475ba5c40c0541e7.css" media="print" rel="stylesheet" />
+      <script>
+        window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!!t.document.createElementNS&&!!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect&&!!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1"),A=function(A){var o=t.document.createElement("link"),r=t.document.getElementsByTagName("script")[0];o.rel="stylesheet",o.href=e[A&&n?0:A?1:2],r.parentNode.insertBefore(o,r)},o=new t.Image;o.onerror=function(){A(!1)},o.onload=function(){A(1===o.width&&1===o.height)},o.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
+        grunticon( [ "", "/assets/util/svg/data-png-300f34fd297fc9ccd559f024c750202a499f324e39a2e9f317ffd43562f3af55.css", "/assets/util/svg/fallback-890b44ba21fbfda46b30aa60ace8350f7334e1a773ec3346ddeed82bbb0e3d64.css" ] );</script>
+      <noscript><link href="/assets/util/svg/fallback-890b44ba21fbfda46b30aa60ace8350f7334e1a773ec3346ddeed82bbb0e3d64.css" rel="stylesheet"></noscript>
+  <!--<![endif]-->
+
+  <!--[if lt IE 9]>
+    <link href="/assets/ie8.css" media="screen, projection" rel="stylesheet" />
+    <link href="/assets/print.css" media="print" rel="stylesheet" />
+    <script src="/assets/oldie-1d9ace4f85cc659efa31d05335f6ac8efb425e0eb51f394ff83140d9d827db43.js"></script>
+  <![endif]-->
+
+  <script src="/assets/head-4640e3f7f7a8f8f66a5c6614e7db762f60af4e14d010dc62d01dcd2aa00806e4.js"></script>
+
+  <!-- Yieldbot.com Intent Tag LOADING -->
+<script type="text/javascript">
+var ybotq = ybotq || [];
+(function() {
+  var js = document.createElement('script');
+  js.src = '//cdn.yldbt.com/js/yieldbot.intent.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(js, node);
+})();
+</script>
+
+<!-- Yieldbot.com Intent Tag ACTIVATION -->
+<script type="text/javascript">
+ybotq.push(function () {
+
+  // TODO more config that should be contained
+  var ybot_pub_id_mobile  = 'c4a9';
+  var ybot_pub_id_desktop = '0828';
+
+  if(AT.CurrentSite.id === 2) {
+    ybot_pub_id_mobile  = 'af1b';
+    ybot_pub_id_desktop = 'cf43';
+  }
+
+  // Yieldbot's definition of "mobile"
+  var isYbotMobile = ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) < 481);
+
+  if(isYbotMobile){
+    yieldbot.pub(ybot_pub_id_mobile);
+    yieldbot.defineSlot('sidebar');
+    yieldbot.defineSlot('top');
+    yieldbot.defineSlot('midpage');
+  }
+  else {
+    yieldbot.pub(ybot_pub_id_desktop);
+    yieldbot.defineSlot('sidebar', {sizes: [
+      [160, 600],
+      [300, 600]
+    ]});
+    yieldbot.defineSlot('top');
+    yieldbot.defineSlot('midpage');
+  }
+
+  yieldbot.enableAsync();
+  yieldbot.go();
+});
+</script>
+  <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '531267817007380']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=531267817007380&amp;ev=PixelInitialized" /></noscript>
+  
+
+  <meta name="msvalidate.01" content="C4495FD94995DA49DD1DF57BF9A3A015" />
+
+
+</head>
+<body itemscope itemtype="http://schema.org/WebSite" class="at at-main error-page">
+  <div class='dfp-ad' data-media='' data-slot='leaderboard' id='dfp-ad-leaderboard' style='display: none;'></div>
+
+
+<div class='responsive-wrapper'>
+<header class='page-header' role='banner'>
+<a class='site-logo' href='/'>
+<span class='hide-small-down logo-at'>Apartment Therapy</span>
+<span class='hide-medium-up logo-at-horizontal'>Apartment Therapy</span>
+</a>
+<a class='off-screen-nav-toggle hide-medium-up' href='#off-screen-nav'>
+<i class='icon-triple-line icon-large'>Toggle menu</i>
+</a>
+<div class='header-meta'>
+<div class='header-meta-section icons-muted hide-small-down'>
+<ul class='unstyled social-icon-links'>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='Facebook Icon' data-click-track='true' href='http://www.facebook.com/apartmenttherapy'>
+<i class='icon-facebook'>Follow us on Facebook</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='Pinterest Icon' data-click-track='true' href='http://pinterest.com/apttherapy/'>
+<i class='icon-pinterest'>Follow us on Pinterest</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='Twitter Icon' data-click-track='true' href='http://twitter.com/AptTherapy'>
+<i class='icon-twitter'>Follow us on Twitter</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='Instagram Icon' data-click-track='true' href='http://instagram.com/apartmenttherapy'>
+<i class='icon-instagram'>Follow us on Instagram</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='Tumblr Icon' data-click-track='true' href='http://apartmenttherapy.tumblr.com/'>
+<i class='icon-tumblr'>Follow us on Tumblr</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Page Header Link' data-click-track-event='Reader Action' data-click-track-label='RSS Icon' data-click-track='true' href='http://feeds.apartmenttherapy.com/apartmenttherapy/main'>
+<i class='icon-feed'>Subscribe to our RSS feed</i>
+</a>
+</li>
+<li>
+<a href='/follow-us'>
+<i class='icon-plus-sign'>More ways to follow</i>
+</a>
+</li>
+</ul>
+
+</div>
+<div class='header-meta-section account-link js-account-link-container'></div>
+<div class='header-meta-section'>
+<form action='/search' itemprop='potentialAction' itemscope itemtype='http://schema.org/SearchAction' method='get' role='search'>
+<meta content='http://www.apartmenttherapy.com/search?q={q}' itemprop='target'>
+<label class='label-inline label-placeholder' for='search-input'>Search</label>
+<span class='input-icon-inset'>
+<input id='search-input' itemprop='query-input' name='q' required type='search'>
+<button class='icon-search icon-muted search-submit btn-unstyled' type='submit'></button>
+</span>
+</form>
+</div>
+</div>
+<nav class='primary-nav hide-small-down' role='navigation'>
+<ul class='unstyled inline-nav'>
+<li><a class="brand-nav-link nav-link channel-link style-link" href="/style">Style</a></li>
+<li><a class="brand-nav-link nav-link channel-link diy-link" href="/diy">DIY</a></li>
+<li><a class="brand-nav-link nav-link channel-link homekeeping-link" href="/homekeeping">Homekeeping</a></li>
+<li><a class="brand-nav-link nav-link channel-link family-link" href="/family">Family</a></li>
+<li><a class="brand-nav-link nav-link channel-link tech-link" href="/collection/weddings">weddings</a></li>
+<li><a class="brand-nav-link nav-link channel-link renovating-link" href="/renovating">Renovating</a></li>
+<li><a class="brand-nav-link nav-link channel-link shopping-link" href="/shopping">Shopping</a></li>
+<li><a class="brand-nav-link nav-link channel-link entertaining-link" href="/entertaining">Entertaining</a></li>
+<li class='more-dropdown dropdown-wrapper'>
+<a class='dropdown-toggle nav-link brand-nav-link' href='#'>
+More
+<i class='icon-arrow-down icon-small'></i>
+</a>
+<div class='dropdown'>
+<ul class='unstyled hide-large'>
+<li><a class="brand-link nav-link" href="/collection/makeover-america-758">Makeover America</a></li>
+<li><a class="brand-link nav-link" href="/renovation-diary-archive-186532">Renovation Diaries</a></li>
+<li><a class="brand-link nav-link" href="/collection/maker-talks-106">Maker Talks</a></li>
+<li><a class="nav-link" href="/categories/tours">Tours</a></li>
+<li><a class="nav-link" href="/categories/rooms">Rooms</a></li>
+<li><a class="nav-link" href="/categories/before_after">Before &amp; After</a></li>
+<li><a class="nav-link" href="/categories/small_spaces">Small Spaces</a></li>
+<li><a class="nav-link" href="/categories/budget_living">Budget Living</a></li>
+<li><a class="nav-link" href="/categories/video">Video</a></li>
+</ul>
+<ul class='unstyled dropdown-nav'>
+<li><a class="brand-nav-link nav-link" href="/style">Style</a></li>
+<li><a class="brand-nav-link nav-link" href="/diy">DIY</a></li>
+<li><a class="brand-nav-link nav-link" href="/homekeeping">Homekeeping</a></li>
+<li><a class="brand-nav-link nav-link" href="/family">Family</a></li>
+<li><a class="brand-nav-link nav-link channel-link tech-link" href="/collection/weddings">weddings</a></li>
+<li><a class="brand-nav-link nav-link" href="/renovating">Renovating</a></li>
+<li><a class="brand-nav-link nav-link" href="/shopping">Shopping</a></li>
+<li><a class="brand-nav-link nav-link" href="/entertaining">Entertaining</a></li>
+</ul>
+<ul class='unstyled hide-large'>
+<li><a class="brand-nav-link nav-link" href="/categories">All Categories</a></li>
+</ul>
+</div>
+</li>
+<li><a class="brand-link nav-link" data-click-track-action="Clicked Page Header Link" data-click-track-event="Reader Action" data-click-track-label="Cross-Site Link" data-click-track="true" href="http://www.thekitchn.com">The Kitchn</a></li>
+</ul>
+</nav>
+
+</header>
+<div class='js-flash-message'></div>
+
+</div>
+<div class='error-notification'>
+<div class='error-graphic'></div>
+<div class='error-message branded-links'>
+<h2>Looks like we missed a spot!</h2>
+<p>
+Sorry to say it, but the page you’re looking for isn’t here. If you think it should be, contact our
+<a href="http://www.apartmenttherapy.com/tech-help">technical support team,</a>
+and we’ll look into it.
+</p>
+<p>
+In the meantime, head back to our
+<a href="http://www.apartmenttherapy.com">home page</a>,
+<a href="/search?q=%2Fshopping%2Fstore_profiles%2Fuimages%252Fny%252F9-10-cat-tunnel-3.jpg">try a search</a>
+to find what you’re looking for, or take a look at our best tips for locating things that might have gone astray.
+</p>
+<div class='suggested-posts'>
+<ul>
+<li>
+<a href="http://www.apartmenttherapy.com/finding-lost-pets-using-gps-tracking-technology-188997">Finding Lost Pets Using GPS Technology</a>
+</li>
+<li>
+<a href="http://www.apartmenttherapy.com/how-to-find-a-lost-object-tips-71290">Find a Lost Object Tips from Michael Soloman, a Findologist</a>
+</li>
+<li>
+<a href="http://www.apartmenttherapy.com/how-to-find-your-phone-when-its-on-silent-174095">How to Find Your Phone When It’s On Silent</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class='responsive-wrapper'>
+<div class='page-footer'>
+<div class='grid-row grid-large-gutters'>
+<div class='col-3-4 hide-mini'>
+<div class='content-section'>
+<div class='grid-row grid-large-gutters grid-collapse-medium'>
+<div class='col-1-2 first-posts-row'>
+<div class='ab-slot-one'></div>
+</div>
+<div class='col-1-2'>
+<div class='ab-slot-two'></div>
+</div>
+</div>
+</div>
+<div class='grid-row grid-large-gutters grid-collapse-medium hide-small'>
+<div class='col-1-2'>
+<div class='content-section submit-story'>
+<div aria-level='2' class='section-header seo-h2' role='heading'>Submit a Story</div>
+<p>Got a tip, home tour, or other story our readers should see?</p>
+<p>
+<a class='brand-link' href='/submissions'>Tell us about it!</a>
+</p>
+</div>
+</div>
+<div class='col-1-2'>
+<div class='content-section our-books'>
+<div aria-level='2' class='section-header seo-h2' role='heading'>Read Our Books</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='/books/complete-happy'>
+<div class='media-object book-6'></div>
+<div class='media-body'>
+Complete + Happy Home
+<span class='muted'>(2015)</span>
+</div>
+</a>
+</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='/books/cookbook'>
+<div class='media-object book-5'></div>
+<div class='media-body'>
+The Kitchn Cookbook
+<span class='muted'>(2014)</span>
+</div>
+</a>
+</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='http://www.amazon.com/dp/1616280719/?tag=apartmentth0a-20' rel='nofollow'>
+<div class='media-object book-1'></div>
+<div class='media-body'>
+Good Food to Share
+<span class='muted'>(2010)</span>
+</div>
+</a>
+</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='/books/big-book'>
+<div class='media-object book-2'></div>
+<div class='media-body'>
+The Big Book of Small, Cool Spaces
+<span class='muted'>(2010)</span>
+</div>
+</a>
+</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='http://www.amazon.com/dp/0811859827/?tag=apartmentth0a-20' rel='nofollow'>
+<div class='media-object book-3'></div>
+<div class='media-body'>
+Apartment Therapy Presents
+<span class='muted'>(2008)</span>
+</div>
+</a>
+</div>
+<div class='our-book-blurb'>
+<a class='our-book-link media' href='http://www.amazon.com/dp/0553383124/?tag=apartmentth0a-20' rel='nofollow'>
+<div class='media-object book-4'></div>
+<div class='media-body'>
+The Eight-Step Home Cure
+<span class='muted'>(2006)</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='col-1-4'>
+<div class='content-section'>
+<div aria-level='2' class='section-header seo-h2' role='heading'>Join our email list</div>
+<form accept-charset="UTF-8" action="/mailing_list" class="mini-email-signup" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="rPGc0AYQ32NjJemsb0bzIuC94vP5FVHUojyCnttFHVc=" /></div>
+<input name='lists[]' type='hidden' value='apartment_therapy'>
+<label class='label-placeholder' for='footer-email-signup-input'>Email address:</label>
+<input id='footer-email-signup-input' name='email' type='email'>
+<input class='btn btn-block brand-btn' type='submit' value='Sign up'>
+</form>
+
+</div>
+<div class='content-section'>
+<div aria-level='3' class='uppercase seo-h3' role='heading'><a class="brand-link advertise-link" href="http://advertising.apartmenttherapy.com/">Advertise With Us</a></div>
+</div>
+<div class='content-section'>
+<ul class='unstyled footer-menu'>
+<li><a class="brand-link" href="/about">About Apartment Therapy</a></li>
+<li><a class="brand-link" href="/contact">Contact Us</a></li>
+<li><a class="brand-link" href="/follow-us">Follow Us</a></li>
+<li><a class="brand-link" href="/press">Press</a></li>
+<li><a class="brand-link" href="/legal">Legal</a></li>
+<li><a class="brand-link" href="/privacy">Privacy Policy</a></li>
+<li><a class="brand-link" href="/commentpolicy">Comment Policy</a></li>
+<li><a class="brand-link" href="/team">Our Team</a></li>
+<li><a class="brand-link" href="/jobs">Jobs</a></li>
+<li><a class="brand-link" href="/categories/sponsored_post">Sponsored Posts</a></li>
+<li><a class="brand-link" href="/sitemap">Site Map</a></li>
+</ul>
+</div>
+<ul class='unstyled social-icon-links'>
+<li>
+<a href='http://www.facebook.com/apartmenttherapy'>
+<i class='icon-facebook'>Follow us on Facebook</i>
+</a>
+</li>
+<li>
+<a href='http://pinterest.com/apttherapy/'>
+<i class='icon-pinterest'>Follow us on Pinterest</i>
+</a>
+</li>
+<li>
+<a href='http://twitter.com/AptTherapy'>
+<i class='icon-twitter'>Follow us on Twitter</i>
+</a>
+</li>
+<li>
+<a href='http://instagram.com/apartmenttherapy'>
+<i class='icon-instagram'>Follow us on Instagram</i>
+</a>
+</li>
+<li>
+<a href='http://apartmenttherapy.tumblr.com/'>
+<i class='icon-tumblr'>Follow us on Tumblr</i>
+</a>
+</li>
+<li>
+<a href='http://feeds.apartmenttherapy.com/apartmenttherapy/main'>
+<i class='icon-feed'>Subscribe to our RSS feed</i>
+</a>
+</li>
+<li>
+<a href='/follow-us'>
+<i class='icon-plus-sign'>More ways to follow</i>
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+<div aria-level='3' class='footer-tagline brand-color seo-h3' role='heading'>saving the world, one room at a time</div>
+<small>&copy; 2016 Apartment Therapy</small>
+</div>
+
+</div>
+<div class='off-screen-nav-cover'></div>
+<div id='off-screen-nav'>
+<a class='close-off-screen-nav muted-white-link' href='#'>
+<i class='icon-close icon-large'>Close menu</i>
+</a>
+<nav class='off-screen-links' role='navigation'>
+<ul class='unstyled'>
+<li><a class="brand-link" href="/collection/makeover-america-758">Makeover America</a></li>
+<li><a class="brand-link" href="/renovation-diary-archive-186532">Renovation Diaries</a></li>
+<li><a class="brand-link" href="/collection/maker-talks-106">Maker Talks</a></li>
+<li><a class="white-link" href="/categories/tours">Tours</a></li>
+<li><a class="white-link" href="/categories/rooms">Rooms</a></li>
+<li><a class="white-link" href="/categories/before_after">Before &amp; After</a></li>
+<li><a class="white-link" href="/categories/small_spaces">Small Spaces</a></li>
+<li><a class="white-link" href="/categories/budget_living">Budget Living</a></li>
+<li><a class="white-link" href="/categories/video">Video</a></li>
+</ul>
+<ul class='unstyled'>
+<li><a class="white-link" href="/style">Style</a></li>
+<li><a class="white-link" href="/diy">DIY</a></li>
+<li><a class="white-link" href="/homekeeping">Homekeeping</a></li>
+<li><a class="white-link" href="/family">Family</a></li>
+<li><a class="white-link" href="/collection/weddings">weddings</a></li>
+<li><a class="white-link" href="/tech">Tech</a></li>
+<li><a class="white-link" href="/renovating">Renovating</a></li>
+<li><a class="white-link" href="/shopping">Shopping</a></li>
+<li><a class="white-link" href="/entertaining">Entertaining</a></li>
+</ul>
+<ul class='unstyled'>
+<li><a class="brand-link" data-click-track-action="Clicked Hamburger Menu Link" data-click-track-event="Reader Action" data-click-track-label="Cross-Site Link" data-click-track="true" href="http://www.thekitchn.com">The Kitchn</a></li>
+<li><a class="white-link" data-click-track-action="Clicked Color Search Hamburger Nav" data-click-track-event="Reader Action" data-click-track-label="other" data-click-track="true" href="/color_search">Color Search</a></li>
+<li><a class="white-link" href="http://classifieds.apartmenttherapy.com">Classifieds</a></li>
+<li><a class="white-link" href="/categories">All Categories</a></li>
+</ul>
+</nav>
+<div class='icons-white'>
+<ul class='unstyled social-icon-links'>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='Facebook Icon' data-click-track='true' href='http://www.facebook.com/apartmenttherapy'>
+<i class='icon-facebook'>Follow us on Facebook</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='Pinterest Icon' data-click-track='true' href='http://pinterest.com/apttherapy/'>
+<i class='icon-pinterest'>Follow us on Pinterest</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='Twitter Icon' data-click-track='true' href='http://twitter.com/AptTherapy'>
+<i class='icon-twitter'>Follow us on Twitter</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='Instagram Icon' data-click-track='true' href='http://instagram.com/apartmenttherapy'>
+<i class='icon-instagram'>Follow us on Instagram</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='Tumblr Icon' data-click-track='true' href='http://apartmenttherapy.tumblr.com/'>
+<i class='icon-tumblr'>Follow us on Tumblr</i>
+</a>
+</li>
+<li>
+<a data-click-track-action='Clicked Hamburger Menu Link' data-click-track-event='Reader Action' data-click-track-label='RSS Icon' data-click-track='true' href='http://feeds.apartmenttherapy.com/apartmenttherapy/main'>
+<i class='icon-feed'>Subscribe to our RSS feed</i>
+</a>
+</li>
+<li>
+<a href='/follow-us'>
+<i class='icon-plus-sign'>More ways to follow</i>
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+
+
+  <div id="fb-root"></div>
+  <div class='dfp-ad' data-media='' data-slot='optin_monster' id='dfp-ad-optin_monster' style='display: none;'></div>
+
+  
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+// Create AllSites ga tracking object
+ga('create', 'UA-821548-1', 'auto', {
+  'name': 'AllSites'
+});
+
+// Enhanced link attribution - docs say must come after 'create'
+ga('AllSites.require', 'linkid', 'linkid.js');
+
+// For demographic data
+ga('AllSites.require', 'displayfeatures');
+
+// Set custom dimensions
+
+</script>
+
+  
+  <script>
+  AT = window.AT || {};
+  AT.CurrentSite = {"id":1,"name":"Apartment Therapy","domain":"apartmenttherapy.com","slug":"at","tagline":"Saving the world, one room at a time","url":"http://www.apartmenttherapy.com","twitter_username":"AptTherapy","facebook_url":"http://www.facebook.com/apartmenttherapy","cse_id":"004176398225520866731:-lh2pkw5lda","analytics_id":"UA-821548-1","comscore_id":"14868646","skimlinks_code":"34276X922231","sitemeter_code":"s12apartmenttherapyny","myemma_id":"1372627","blog_id":1,"created_at":"2012-09-14T17:39:00.650-04:00","updated_at":"2014-07-28T15:50:41.349-04:00","pinterest_url":"http://pinterest.com/apttherapy/","default_profile_image_id":"50e2fd06dbd0cb6d77006d3d","primary_color":"#ee2737","instagram_username":"apartmenttherapy","google_plus_url":"https://plus.google.com/+apartmenttherapy/posts","tumblr_url":"http://apartmenttherapy.tumblr.com/","youtube_url":"http://youtube.com/apartmenttherapy"};
+
+
+  AT.config = {
+    proxy: 'http://' + window.location.host + '/community_proxy',
+    host:  'http://community.apartmenttherapy.com',
+    pix_image_cdn: 'http://p-fst1.pixstatic.com',
+    imgix_image_cdn: 'http://atmedia.imgix.net',
+    dfp_section: 'ApartmentTherapy',
+    media_queries_mini: '(max-width: 23.99em)',
+    media_queries_medium: '(min-width: 48.5em) and (max-width: 59.99em)',
+    media_queries_medium_up: '(min-width: 48.5em)',
+    media_queries_large: '(min-width: 60em)',
+    page_type: ["other"],
+    environment: "production",
+    slots_tour_size_one: '(min-width: 770px) and (min-height: 612px)'
+  };
+
+
+  if (!window.Community) { Community = {}; }
+  Community.Config = {
+    cookie_suffix: "",
+    cookie_domain: ".apartmenttherapy.com",
+    proxy: 'http://' + window.location.host + '/community_proxy',
+    host:  'http://community.apartmenttherapy.com',
+    page_title: document.title || "N/A"
+  };
+
+</script>
+
+  
+    <!--[if lt IE 9]>
+      <script src="/assets/ads_only-cd0969096d900f0008153a0db83da34d1a29984b45fa2045ab35894efed9cc8e.js"></script>
+    <![endif]-->
+
+    <!--[if gte IE 9]><!-->
+        <script async="async" defer="defer" src="/assets/application-2065676a045cb3d7adc9d181177fecf24ea4006e38fc30ccdd58be3cb65ae206.js"></script>
+    <!--<![endif]-->
+  <script>
+  _atrk_opts = { atrk_acct:"eobji1agq800Ux", domain:"apartmenttherapy.com",dynamic: true};
+  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=eobji1agq800Ux" style="display:none" height="1" width="1" alt="" /></noscript>
+  <script>
+var _ca = _ca || [];
+_ca.push('2');
+(function(){var s=document.createElement('script'),
+    t=document.getElementsByTagName('script')[0];s.type='text/javascript';s.async=true;
+    s.defer=true;s.src='//p.cpx.to/p/11112/px.js?r='+(65536*(1+Math.random())|0).toString(16);t.parentNode.insertBefore(s,t)}
+)();
+</script>
+  <script>
+  var _sf_async_config={};
+  /** CONFIGURATION START **/
+  _sf_async_config.uid = 1646;
+  _sf_async_config.domain = 'apartmenttherapy.com';
+  _sf_async_config.sections = 'main';
+  _sf_async_config.authors = 'None';
+  /** CONFIGURATION END **/
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+         'js/chartbeat.js');
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+
+  <script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "14868646" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14868646&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+  <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=3gv225riftp6w"></script>
+  <div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="apartmenttherapy.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+
+  <script type="text/javascript">
+
+  var _qevents = _qevents || [];
+
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+
+  _qevents.push({
+    qacct:"p-9e_lGUY-vZpsw",
+    labels: "Other"
+  });
+</script>
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-9e_lGUY-vZpsw.gif?labels=Other" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+  <script>
+  
+  var noskimwords='true';
+</script>
+<script async="true" defer="true" type="text/javascript" src="http://s.skimresources.com/js/34276X922231.skimlinks.js"></script>
+
+  <script type="text/javascript">
+    adroll_adv_id = "LV5EF7VIDNHV5NCHV6QX66";
+    adroll_pix_id = "ZQA5LU445VGZDFIZUFLHHU";
+ (function () {
+  var _onload = function(){
+   if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+   if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);};
+  if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+  else {window.attachEvent('onload', _onload)}}());
+</script>
+  <script src="//dc8xl0ndzn2cb.cloudfront.net/js/apartmenttherapy/v0/keywee.min.js"></script>
+  <script async="true" defer="true" src="//tru.am/scripts/custom/atmedia.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" >
+<title>Pagina niet gevonden</title>
+<!-- Error:  -->
+<style type="text/css">
+<!--
+/* End of firstpage */
+
+br { clear:left; }
+td, th { font-size:12px; }
+img, a img { border:0; }
+hr {
+	color:#333399;
+	background-color:#333399;
+	height:1px;
+	border-width:0;
+}
+
+a, a:link {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	color: #336699;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #993366;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.nohistory, .nohistory a:link, .nohistory a:visited { color: #336699; }
+
+h1 {
+	font-size:2em;
+	font-weight:bold;
+	margin:7px 0 0 0;
+	padding:3px 0 0 0;
+}
+h2 {
+	font-size:16px;
+	font-weight:bold;
+	margin:15px 0 3px 0;
+	padding:0;
+}
+
+.text_separator { margin-left:0.4em; margin-right:0.4em; }
+
+.footer {
+	width:980px;
+	clear:both;
+	border-top:1px solid #ccc;
+	font-size:0.8em;
+	padding:5px 0 0 0;
+	white-space:nowrap;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.footer a {
+	font-weight:normal;
+	font-stretch:condensed;
+}
+
+.footer ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width: 600px;
+	float: left;
+}
+
+.footer li {
+	float: left;
+	text-align: left;
+	width: 120px;
+	margin-bottom: 10px;
+}
+
+.footer a:visited {
+	color: #0066D5;
+}
+
+.footer .links {
+	overflow: hidden;
+	text-align: left;
+}
+
+.footer .badge-container {
+	float: left;
+}
+
+.footer .facebook {
+	width: 145px;
+	padding-top: 10px;
+}
+
+.footer .play-store {
+	float: right;
+}
+
+.change_language { color: #FFF; font-family: Verdana, Arial }
+.aiButtons { margin-top: 18px; }
+
+-->
+</style>
+
+<script type="text/javascript" src="/js/kapaza.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript">
+	var page_title = {
+			nl: 'Pagina niet gevonden',
+			fr: 'La page n\'a pas été trouvée'
+		},
+		lang, homepageUrl;
+
+	lang = getLanguage();
+	homepageUrl = getHomePageUrl();
+
+	function getCookie(c_name){
+		if (document.cookie.length>0){
+			c_start=document.cookie.indexOf(c_name + "=");
+			if (c_start!=-1){
+				c_start=c_start + c_name.length+1;
+				c_end=document.cookie.indexOf(";",c_start);
+				if (c_end==-1) c_end=document.cookie.length;
+				return unescape(document.cookie.substring(c_start,c_end));
+			}
+		}
+		return false;
+	}
+
+	function getLanguage() {
+		//The first thing to do for trying to tell user language is lookup the cookie
+		var lang = getCookie("lang");
+		if (!lang){
+			//cookie not found so next thing in logic is to get language from subdomain
+			var language_domain = location.pathname.split("/")[1];
+			lang = language_domain;
+		}
+
+		if (lang !== 'fr') {
+			lang = 'nl';	//last step is to set the default lang
+		}
+
+		return lang ;
+	}
+
+    function getHomePageUrl() {
+        var url = document.location.href.split('/');
+        return url[0] + '/' + url[1] + '/' + url[2] + '/' + lang + '/';
+    }
+
+	function multilanguageMessages(){
+		var title = page_title[lang];
+
+		document.title = title;				//Building error page title
+		document.getElementById("message_1").innerHTML=title;
+		displayElementOneLanguage('main_message_', lang);
+		var home_page_url = "brand_homepage_url_"+lang;
+		document.getElementById(home_page_url).href=homepageUrl;
+		displayElementOneLanguage('lang_', lang);
+		displayElementOneLanguage('nav_', lang);
+		displayElementOneLanguage('footer_', lang);
+		displayElementOneLanguage('change_language_', lang);
+		displayElementOneLanguage('ai_', lang);
+	}
+
+	function displayElementOneLanguage(element, language) {
+
+		if (typeof element == 'undefined') {
+			return;
+		};
+
+		var other_language = 'fr';
+
+		if (language == 'fr') {
+			other_language = 'nl';
+		};
+
+		if (document.getElementById(element + language) != null) {
+			document.getElementById(element + language).style.display = 'block';
+		}
+		if (document.getElementById(element + other_language) != null) {
+			document.getElementById(element + other_language).style.display = 'none';
+		}
+	}
+
+	function randomNumber() {
+		var number = Math.random().toString();
+		return number.substring(2, number.length);
+	}
+
+	Onload(multilanguageMessages);
+</script>
+<link href="/css/generic.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div id="header">
+	<div id="top_header">
+		<div class="container">
+			<div id="lang_nl" style="display: block;">
+				<ul id="change_language">
+					<li>
+						<a onclick="setCookie('lang', 'fr', 0, '/', '.kapaza.be');setVisitPixel('vsid','1825','/','kapaza.be'); language = 'fr'; return xt_click(this,'C','','Other::Top_bar::Switch_language','N');" href="http://www.kapaza.be/fr/404">
+							FR
+						</a>
+					</li>
+					<li class="active">NL</li>
+				</ul>
+			</div>
+			<div id="lang_fr" style="display: none;">
+				<ul id="change_language">
+					<li class="active">FR</li>
+					<li>
+						<a onclick="setCookie('lang', 'nl', 0, '/', '.kapaza.be');setVisitPixel('vsid','1825','/','kapaza.be'); language = 'nl'; return xt_click(this,'C','','Other::Top_bar::Switch_language','N');" href="http://www.kapaza.be/nl/404">NL</a>
+					</li>
+				</ul>
+			</div>
+
+  		</div>
+	</div>
+	<div id="bottom_header">
+		<div class="container">
+			<div id="logo">
+				<a href="http://www.kapaza.be/" onclick="return xt_click(this,'C','','Other::Top_bar::Kapaza_Logo','N')">
+					<img src="/img/kapaza-logo-without-arrow.png" title="kapaza.be" alt="kapaza.be" width="190" height="50">
+				</a>
+			</div>
+			<div id="menu">
+				<div id="nav_nl" style="display: block;">
+					<div class="ai_btn_wrapper">
+					<a class="btn" href="http://www2.kapaza.be/nl/ai?l=0" onclick="return xt_click(this,'C','','Other::Top_bar::InsertAdButton','N')">Plaats een zoekertje</a>
+					</div>
+					<ul id="navbar">
+						<li><a href="http://www.kapaza.be/nl/vlaams-brabant" onclick="return xt_click(this,'C','','Other::Top_bar::Other','N')"><span>Zoeken</span></a></li>
+						<li><a href="http://www2.kapaza.be/nl/store/main" onclick="return xt_click(this,'C','','Other::Top_bar::My_ads','N')"><span>Mijn zoekertjes</span></a></li>
+						<li><a href="http://www2.kapaza.be/nl/adwatch" onclick="return xt_click(this,'C','','Other::Top_bar::Favorites','N')"><span>Favorieten</span></a></li>
+						<li><a href="http://www.kapaza.be/nl/customer_service.htm" onclick="return xt_click(this,'C','','Other::Top_bar::Helpdesk','N')"><span>Helpdesk</span></a></li>
+					</ul>
+				</div>
+				<div id="nav_fr" style="display: none;">
+					<div class="ai_btn_wrapper">
+					<a class="btn" href="http://www2.kapaza.be/fr/ai?l=0" onclick="return xt_click(this,'C','','Other::Top_bar::InsertAdButton','N')">Insérer une annonce</a>
+					</div>
+					<ul id="navbar">
+						<li><a href="http://www.kapaza.be/fr/brabant-flamand" onclick="return xt_click(this,'C','','Other::Top_bar::Other','N')"><span>Rechercher</span></a></li>
+						<li><a href="http://www2.kapaza.be/fr/store/main" onclick="return xt_click(this,'C','','Other::Top_bar::My_ads','N')"><span>Mes annonces</span></a></li>
+						<li><a href="http://www2.kapaza.be/fr/adwatch" onclick="return xt_click(this,'C','','Other::Top_bar::Favorites','N')"><span>Favoris</span></a></li>
+						<li><a href="http://www.kapaza.be/fr/customer_service.htm" onclick="return xt_click(this,'C','','Other::Top_bar::Helpdesk','N')"><span>Support</span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="container_main">
+<br />
+<h1 id="message_1">Pagina niet gevonden</h1>
+<div id="main_message_nl" style="display:block;">
+	<h2>Zorg ervoor dat je een correcte URL opgeeft, probeer opnieuw</h2>
+	<p>De URL die je opgeeft komt niet overeen met een pagina op Kapaza.be.</p>
+	<p>Klik <a id="brand_homepage_url_nl" href="#">hier</a> om terug te keren naar de homepage.</p>
+	<br>
+	<iframe src="http://notfound-static.fwebservices.be/404/index.html?lang=nl&key=9e6d9e2855bf2d6ddbe7e6b3de592d6a" width="100%" height="650" frameborder="0"></iframe>
+	<br/><br/>
+</div>
+<div id="main_message_fr" style="display:none;">
+	<h2>Vérifiez que vous avez saisi une URL correcte, essayez à nouveau</h2>
+	<p>L'URL que vous avez saisie ne correspond à aucune page de Kapaza.be.</p>
+	<p>Cliquez <a id="brand_homepage_url_fr" href="#">ici</a> pour retourner à la page d'accueil.</p>
+	<br>
+	<iframe src="http://notfound-static.fwebservices.be/404/index.html?lang=fr&key=9e6d9e2855bf2d6ddbe7e6b3de592d6a" width="100%" height="650" frameborder="0"></iframe>
+	<br/><br/>
+</div>
+
+<div id="footer_nl" class="footer">
+	<div class="links">
+		<ul>
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::AboutKapaza','N');" href="http://www.fulla.kapaza.net:20608/nl/about.htm">&copy; kapaza.be</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Safetrading','N');" href="http://www.fulla.kapaza.net:20608/nl/security/index.htm">Veilig handelen</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Privacy','N');" href="http://www.fulla.kapaza.net:20608/nl/privacy.htm">Privacy</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Shops','N');" href="http://www.fulla.kapaza.net:20608/nl/belgie?fk=1">Shops</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Press','N');" href="http://www.fulla.kapaza.net:20608/nl/press.htm">Pers</a></li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Rules','N');" href="http://www.fulla.kapaza.net:20608/nl/rules.htm">Voorwaarden</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Copyright','N');" href="http://www.fulla.kapaza.net:20608/nl/copyright.htm">Copyright</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Sitemap','N');" href="http://www.fulla.kapaza.net:20608/nl/sitemap.htm" rel="nofollow">Sitemap</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Support','N');" href="http://www.fulla.kapaza.net:20608/nl/customer_service.htm">Helpdesk</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Mobile_products','N');" href="http://www.fulla.kapaza.net:20608/nl/mobile_products.htm">Mobiel</a>
+			</li>
+
+		</ul>
+
+		<div class="badge-container facebook">
+			<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/Kapaza.be&amp;layout=button_count&amp;locale=nl_BE&amp;show_faces=false&amp;width=90&amp;action=like&amp;font=verdana&amp;colorscheme=light" allowtransparency="true" style="border:medium none; overflow: hidden; width: 145px; height: 21px;" frameborder="0" scrolling="no"></iframe>
+		</div>
+
+		<div class="badge-container app-store">
+			<a href="https://itunes.apple.com/be/app/kapaza/id553782198?l=nl&amp;mt=8" onclick="xt_med('C','','Other::Footer::Download_iosapp','N');" target="_blank">
+				<img src="/img/appstore-nl.png" width="125" height="37" alt="App Store">
+			</a>
+		</div>
+
+		<div class="badge-container play-store">
+			<a href="https://play.google.com/store/apps/details?id=be.kapaza.mobile&amp;hl=nl" onclick="xt_med('C','','Other::Footer::Download_androidapp','N');" target="_blank">
+				<img src="/img/playstore-nl.png" width="106" height="37" alt="Play Store">
+			</a>
+
+		</div>
+	</div>
+
+	<p>
+		<a id="footer_site_link" href="http://m.fulla.kapaza.net:20604/nl/belgie" onclick="setCookie('nomob', '0', 365, '/', '.kapaza.net');return xt_click(this,'C','','Other::Footer::Msite','N')">Bekijk de mobiele website</a>
+	</p>
+
+</div>
+
+<div id="footer_fr" class="footer" style="display: none;">
+	<div class="links">
+		<ul>
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::AboutKapaza','N');" href="http://www.fulla.kapaza.net:20608/fr/about.htm">© kapaza.be</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Safetrading','N');" href="http://www.fulla.kapaza.net:20608/fr/security/index.htm">Commerce sécurisé</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Privacy','N');" href="http://www.fulla.kapaza.net:20608/fr/privacy.htm">Vie Privée</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Shops','N');" href="http://www.fulla.kapaza.net:20608/fr/belgique?fk=1">Boutiques</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Press','N');" href="http://www.fulla.kapaza.net:20608/fr/press.htm">Presse</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Rules','N');" href="http://www.fulla.kapaza.net:20608/fr/rules.htm">Règles</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Copyright','N');" href="http://www.fulla.kapaza.net:20608/fr/copyright.htm">Copyright</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Sitemap','N');" href="http://www.fulla.kapaza.net:20608/fr/sitemap.htm" rel="nofollow">Plan du site</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Support','N');" href="http://www.fulla.kapaza.net:20608/fr/customer_service.htm">Support</a>
+			</li>
+
+			<li>
+				<a onclick="return xt_click(this, 'C','','Other::Footer::Mobile_products','N');" href="http://www.fulla.kapaza.net:20608/fr/mobile_products.htm">Mobile</a>
+			</li>
+
+		</ul>
+
+		<div class="badge-container facebook">
+			<iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/fr.kapaza.be&amp;layout=button_count&amp;locale=fr_FR&amp;show_faces=false&amp;width=90&amp;action=like&amp;font=verdana&amp;colorscheme=light" allowtransparency="true" style="border:medium none; overflow: hidden; width: 145px; height: 21px;" frameborder="0" scrolling="no"></iframe>
+		</div>
+
+		<div class="badge-container app-store">
+			<a href="https://itunes.apple.com/be/app/kapaza/id553782198?l=fr&amp;mt=8" onclick="xt_med('C','','Other::Footer::Download_iosapp','N');" target="_blank">
+				<img src="/img/appstore-fr.png" width="125" height="37" alt="App Store">
+			</a>
+		</div>
+
+		<div class="badge-container play-store">
+			<a href="https://play.google.com/store/apps/details?id=be.kapaza.mobile&amp;hl=fr" onclick="xt_med('C','','Other::Footer::Download_androidapp','N');" target="_blank">
+				<img src="/img/playstore-fr.png" width="106" height="37" alt="Play Store">
+			</a>
+		</div>
+	</div>
+
+	<p>
+		<a id="footer_site_link" href="http://m.fulla.kapaza.net:20604/fr/belgique" onclick="setCookie('nomob', '0', 365, '/', '.kapaza.net');return xt_click(this,'C','','Other::Footer::Msite','N')">Accédez à la version mobile</a>
+	</p>
+
+</div>
+
+</div>
+
+<!-- CIM TAGGING -->
+<script type="text/javascript" src="http://www.kapaza.be/nl/metriweb/spring.js"></script>
+<script type="text/javascript">
+	var cim_code = "si_kapaza/cl/error404";
+	var sp_e0 = { "s":"kapaza", "cp": cim_code, "lang": lang.toUpperCase(), "url": document.location.href }
+	spring.c(sp_e0);
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'B8abkuM8iOE_HQmVXwkL_8Sr.tN_3LthBSaC6ParCin.67';
+var pp_gemius_extraparameters = new Array('lan=' + lang.toUpperCase());
+// lines below shouldn't be edited
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');gt.setAttribute('defer','defer'); gt.src=l+'://gabe.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+<!-- END CIM TAGGING -->
+
+<!-- XITI TAGGING -->
+<script type="text/javascript">
+	xtnv = document;
+	xtsd = "http://logc132";
+	xtsite = "";
+	if(location.href.indexOf("kapaza.be") != -1) {
+		if ( lang === "fr" ) {
+			if(location.href.indexOf("m.kapaza") != -1) {
+				xtsite = "523662";
+			} else {
+				xtsite = "397834";
+			}
+		} else {
+			if(location.href.indexOf("m.kapaza") != -1) {
+				xtsite = "523661";
+			} else {
+				xtsite = "397806";
+			}
+		}
+	}
+	else {
+		xtsite = "538512";
+	}
+	xt_multc = "&x19=4";
+	xtpage = "docs/error404";
+	xtdi = "";
+	Onload(function() {
+		include_script("http://www.kapaza.be/" + lang + "/js/xtcore_" + randomNumber() + ".js");
+	});
+</script>
+<!-- END XITI TAGGING -->
+
+<noscript>
+	<img width="1" height="1" alt="" src="http://logc178.xiti.com/hit.xiti?s=397806&s2=&p=docs/error_page&di=&" >
+</noscript>
+</body>
+</html>

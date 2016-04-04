@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:webmaster@diergedrag.nl" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; font-family: sans-serif; }
+    a { color: #0000CC; }
+    p, address {margin-left: 3em;font-size: 10pt;} 
+    h1 { font-size: 16pt ;}
+    h2 { font-size: 14pt ;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:webmaster@diergedrag.nl">webmaster</a>.
+
+</p>
+<h2>Error 404</h2>
+<address>
+  <a href="/">diergedrag.nl</a><br />
+  
+  <span>Mon Apr  4 08:59:05 2016<br />
+  Apache</span>
+</address><br/><br/>
+<a href='http://www.greenhost.nl/' target='_new'><img src='http://www.greenhost.nl/banners/234x60_label_4.png' 
+style='border:0px' 
+title='Gehost door Greenhost' 
+alt='Greenhost webhosting'/></a>
+</body>
+</html>
+

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"  class=" html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_disabled html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_entry_id_868 ">
+<head>
+<meta charset="UTF-8" />
+
+<!-- page title, displayed in your browser bar -->
+<title>Page not found - Drystone Joe</title>
+
+<link rel="icon" href="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/favicon1.gif" type="image/gif">
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Drystone Joe &raquo; Feed" href="http://www.drystonejoe.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Drystone Joe &raquo; Comments Feed" href="http://www.drystonejoe.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Drystone Joe &raquo; iCal Feed" href="http://www.drystonejoe.com/event-calendar/?ical=1" />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=EB+Garamond' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.drystonejoe.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='avia-woocommerce-css-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/config-woocommerce/woocommerce-mod.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/grid.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/base.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/layout.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/shortcodes.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='http://www.drystonejoe.com/wp-content/uploads/sites/6/dynamic_avia/enfold.css?ver=568af6548ce56' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/css/custom.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-events-cal-css'  href='http://www.drystonejoe.com/wp-content/themes/enfold/config-events-calendar/event-mod.css?ver=4.4.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-3270801-2']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-content/themes/enfold/js/avia-compat.js?ver=2'></script>
+<link rel='https://api.w.org/' href='http://www.drystonejoe.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.drystonejoe.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.drystonejoe.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<meta name="generator" content="WooCommerce 2.4.6" />
+<script src='http://www.sites.integritive.com/?dm=48dafb38b09586052fc2c4b869ffd512&amp;action=load&amp;blogid=6&amp;siteid=1&amp;t=451082454&amp;back=http%3A%2F%2Fwww.drystonejoe.com%2Fimages%2Flarger_view%2FCurvedStepsWithCurvedRetainingWall.jpg' type='text/javascript'></script><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Drystone Joe RSS2 Feed" href="http://www.drystonejoe.com/feed/" />
+<link rel="pingback" href="http://www.drystonejoe.com/xmlrpc.php" />
+<!--[if lt IE 9]><script src="http://www.drystonejoe.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]--><!-- Custom CSS -->
+<style type="text/css">
+ .att-social-widget-output { list-style: none; } .att-social-widget-output li { margin: 0; padding: 0; border: none; float: left; margin-right: 5px; margin-bottom: 5px; } .att-social-widget-output li img:hover { opacity: 0.8; } .att-social-widget-output li img:active { position: relative; top: 1px; } 
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 3.4.7
+Installed: enfold
+AviaFramework Version: 2.3
+AviaBuilder Version: 0.8
+ML:128-PU:50-PLA:2
+WP:4.4.2
+Updates: enabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('http://www.drystonejoe.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('http://www.drystonejoe.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('http://www.drystonejoe.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('http://www.drystonejoe.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('http://www.drystonejoe.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+</head>
+
+
+
+
+<body id="top" class="error404 stretched eb_garamond helvetica-neue-websave _helvetica_neue " itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class=' header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_left av_extra_header_active av_secondary_right av_entry_id_868'>
+		
+			      <div class='container'>
+			      <ul class='noLightbox social_bookmarks icon_count_1'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target='_blank' href='https://www.facebook.com/drystonejoe' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook'><span class='avia_hidden_link_text'>Facebook</span></a></li></ul><nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><ul id="avia2-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-23"><a href="http://www.drystonejoe.com/blog/">Drystone Joe Masonry Blog</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.drystonejoe.com/testimonials/">Testimonials</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="http://www.drystonejoe.com/event-calendar/">Event Calendar</a></li>
+</ul></nav>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <ul  class = 'cart_dropdown ' data-success='was added to the cart'><li class='cart_dropdown_first'><a class='cart_dropdown_link' href='http://www.drystonejoe.com/shop-2/'><span aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='av-cart-counter'>0</span><span class='avia_hidden_link_text'>Shopping Cart</span></a><!--<span class='cart_subtotal'><span class="amount">&#36;0.00</span></span>--><div class='dropdown_widget dropdown_widget_cart'><div class='avia-arrow'></div><div class="widget_shopping_cart_content"></div></div></li></ul><div class='container av-logo-container'><div class='inner-container'><strong class='logo'><a href='http://www.drystonejoe.com/'><img height='100' width='300' src='http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/white_web_logo.png' alt='Drystone Joe' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="http://www.drystonejoe.com/learning/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Learning</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/learning/workshops/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Workshops</span></a></li>
+	<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/learning/artist-residencies/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Artist Residencies</span></a></li>
+	<li id="menu-item-954" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/learning/resources-broke/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Resources</span></a></li>
+</ul>
+</li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="http://www.drystonejoe.com/store/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Store</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="http://www.drystonejoe.com/installations/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Installations</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/benches/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Benches</span></a></li>
+	<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/fences/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Fences</span></a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/fire/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Fire</span></a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/patios/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Patios</span></a></li>
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/restorations/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Restorations</span></a></li>
+	<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/retaining-walls/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Retaining Walls</span></a></li>
+	<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/sculptures/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Sculptures</span></a></li>
+	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/sitting-walls/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Sitting Walls</span></a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/steps/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Steps</span></a></li>
+	<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.drystonejoe.com/installations/walkways/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Walkways</span></a></li>
+</ul>
+</li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="http://www.drystonejoe.com/about-drystone-joe/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="http://www.drystonejoe.com/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-top-level menu-item-top-level-6"><a href="http://www.drystonejoe.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown">
+							<a href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form action=&quot;http://www.drystonejoe.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' data-scroll-offset='116'>
+
+	<div class='stretch_full container_wrap alternate_color dark_bg_color title_container'><div class='container'><h1 class='main-title entry-title'><a href='http://www.drystonejoe.com/2014/04/06/build-arch/' rel='bookmark' title='Permanent Link: Error 404 - page not found'  itemprop="headline" >Error 404 - page not found</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="trail-before"><span class="breadcrumb-title">You are here:</span></span> <a href="http://www.drystonejoe.com" title="Drystone Joe" rel="home" class="trail-begin">Home</a> <span class="sep">/</span> <span class="trail-end">404 Not Found</span></div></div></div></div>
+
+		<div class='container_wrap container_wrap_first main_color fullsize'>
+			
+						
+			<div class='container'>
+
+				<main class='template-page content av-content-full alpha units'  role="main" itemprop="mainContentOfPage" >
+
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+<p class='entry-content'><strong>Nothing Found</strong><br/>
+
+Sorry, the post you are looking for is not available. Maybe you want to perform a search?</p>
+
+
+<form action="http://www.drystonejoe.com/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Search' />
+			</div>
+</form>
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p>For best search results, mind the following suggestions:</p>
+    <ul class='borderlist-not'>
+        <li>Always double check your spelling.</li>
+        <li>Try similar keywords, for example: tablet instead of laptop.</li>
+        <li>Try using more than one keyword.</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    <h3 class=''>Feel like browsing some posts instead?</h3>
+
+    <div class="widget avia_combo_widget"><div class='tabcontainer border_tabs top_tab tab_initial_open tab_initial_open__1'><div class="tab first_tab active_tab widget_tab_popular"><span>Popular</span></div><div class='tab_content active_tab_content'><ul class="news-wrap"><li class="news-content post-format-gallery"><a class='news-link' title='How to Safely Move Heavy Stones Without Equipment' href='http://www.drystonejoe.com/2014/01/15/how-to-safely-move-heavy-stones-without-equipment/'><span class='news-thumb '><img width="36" height="36" src="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="13 long view finished" srcset="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-80x80.jpg 80w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-36x36.jpg 36w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-180x180.jpg 180w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-120x120.jpg 120w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>How to Safely Move Heavy Stones Without Equipment<span class='news-time'>January 15, 2014 - 8:50 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='How to Build an Arch' href='http://www.drystonejoe.com/2014/04/06/build-arch/'><span class='news-thumb '><img width="36" height="36" src="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="arch video 166" srcset="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-80x80.jpg 80w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-36x36.jpg 36w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-180x180.jpg 180w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-120x120.jpg 120w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>How to Build an Arch<span class='news-time'>April 6, 2014 - 5:05 pm</span></strong></a></li></ul></div><div class="tab widget_tab_recent"><span>Recent</span></div><div class='tab_content'><ul class="news-wrap"><li class="news-content post-format-standard"><a class='news-link' title='How to Build an Arch' href='http://www.drystonejoe.com/2014/04/06/build-arch/'><span class='news-thumb '><img width="36" height="36" src="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="arch video 166" srcset="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-80x80.jpg 80w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-36x36.jpg 36w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-180x180.jpg 180w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-120x120.jpg 120w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/04/arch-video-166-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>How to Build an Arch<span class='news-time'>April 6, 2014 - 5:05 pm</span></strong></a></li><li class="news-content post-format-gallery"><a class='news-link' title='How to Safely Move Heavy Stones Without Equipment' href='http://www.drystonejoe.com/2014/01/15/how-to-safely-move-heavy-stones-without-equipment/'><span class='news-thumb '><img width="36" height="36" src="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="13 long view finished" srcset="http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-80x80.jpg 80w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-36x36.jpg 36w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-180x180.jpg 180w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-120x120.jpg 120w, http://www.drystonejoe.com/wp-content/uploads/sites/6/2014/01/13-long-view-finished-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>How to Safely Move Heavy Stones Without Equipment<span class='news-time'>January 15, 2014 - 8:50 pm</span></strong></a></li></ul></div><div class="tab widget_tab_comments"><span>Comments</span></div><div class='tab_content'></div><div class="tab last_tab widget_tab_tags"><span>Tags</span></div><div class='tab_content tagcloud'></div></div></div></section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+		
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>©Drystone Joe  <div align="right"> <a href="http://www.integritive.com/">Website by Integritive Web Design :: Asheville, NC</a> </div></span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://www.drystonejoe.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://www.drystonejoe.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://www.drystonejoe.com/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":false,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {};
+</script><script type="text/javascript">
+            if (window.wp_product_version === undefined) {
+                window.wp_product_version = "wpf-1.3.1";
+            }
+
+            if (window.wp_blog_version === undefined) {
+                window.wp_blog_version = "4.4.2";
+            }
+
+            if (window.addthis_plugin_info === undefined) {
+                window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.4.2","plugin_name":"AddThis Follow Buttons","plugin_version":"1.3.1"};
+            }
+        </script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=9eb1ad96e4c350afce4a9d4d63bf017a"></script><link rel='stylesheet' id='addthis_output-css'  href='http://www.drystonejoe.com/wp-content/plugins/addthis/css/output.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-content/themes/enfold/config-woocommerce/woocommerce-mod.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/images\/larger_view\/CurvedStepsWithCurvedRetainingWall.jpg?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.drystonejoe.com\/shop-2\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.drystonejoe.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='//www.drystonejoe.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/images\/larger_view\/CurvedStepsWithCurvedRetainingWall.jpg?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.drystonejoe.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='//www.drystonejoe.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/images\/larger_view\/CurvedStepsWithCurvedRetainingWall.jpg?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.drystonejoe.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-content/themes/enfold/js/avia.js?ver=3'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-content/themes/enfold/js/shortcodes.js?ver=3'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.drystonejoe.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<!--wp_footer--><!--wp_footer--><script type="text/javascript">
+
+setTimeout( function() { 
+
+jQuery('#wrap_all').hide().show();
+jQuery(window).trigger("resize");
+//jQuery(window).width() + 3000;
+
+ }, 2000 );
+
+</script><a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>

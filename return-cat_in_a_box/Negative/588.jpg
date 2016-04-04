@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Zend Framework Default Application</title>
+</head>
+<body>
+  <h1>An error occurred</h1>
+  <h2>Page not found</h2>
+
+    
+  <h3>Exception information:</h3>
+  <p>
+      <b>Message:</b> Invalid controller specified (fotos)  </p>
+
+  <h3>Stack trace:</h3>
+  <pre>#0 /var/www/vhosts/gabiametal.com/httpdocs/library/Zend/Controller/Front.php(954): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 /var/www/vhosts/gabiametal.com/httpdocs/library/Zend/Application/Bootstrap/Bootstrap.php(97): Zend_Controller_Front->dispatch()
+#2 /var/www/vhosts/gabiametal.com/httpdocs/library/Zend/Application.php(366): Zend_Application_Bootstrap_Bootstrap->run()
+#3 /var/www/vhosts/gabiametal.com/httpdocs/index.php(40): Zend_Application->run()
+#4 {main}  </pre>
+
+  <h3>Request Parameters:</h3>
+  <pre>array (
+  'controller' =&gt; 'fotos',
+  'action' =&gt; 'smfoto_cyokuugemh.gif',
+  'module' =&gt; 'default',
+)  </pre>
+
+  
+</body>
+</html>

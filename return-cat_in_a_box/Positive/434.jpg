@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie8"><![endif]--><!--[if IE 9 ]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <noscript><meta HTTP-EQUIV="REFRESH" content="0; url=/legacy"></noscript>
+</head>
+<body>
+<script type="text/javascript">g_f=(function(){var
+bq=document,gH=location,eK=bq.createElement('script'),hS=false,hP;eK.defer=true;eK.async=true;eK.src="//www.google.com/adsense/domains/caf.js";eK.onerror=function(){gH.href='/legacy';};eK.onload=eK.onreadystatechange=function(){if(!hS&&hP){if(!window['googleNDT_'])
+gH.replace('/legacy');hP(google.ads.domains.Caf);}
+hS=true;};bq.body.appendChild(eK);return{gw:function(bu){if(hS)
+bu(google.ads.domains.Caf);else
+hP=bu;},hT:function(){if(!hS){bq.body.removeChild(eK);}}};})();g_g=(function(){var
+gH=window.location,hR={},cm,gG=gH.search.substring(1),hN,hO;if(!gG)
+return hR;hN=gG.split("&");for(cm=0;cm<hN.length;cm++){hO=hN[cm].split('=');hR[hO[0]]=hO[1]?hO[1]:"";}
+return hR;})();(function(){var
+hH=screen,bO=window,gH=bO.location,hQ=top.location,bq=document,fE=undefined,en=encodeURIComponent,gn=bq.getElementsByTagName('body')[0],hM;if(hQ!=gH&&g_g.r_s===fE)
+hQ.href=gH.href;hM=bq.createElement('script');hM.type='text/javascript';hM.src='/glp'+'?r='+(g_g.r?g_g.r:(bq.referrer?en(bq.referrer.substr(0,255)):''))+
+(g_g.r_u?'&u='+g_g.r_u:'&u='+en(gH.href.split('?')[0]))+
+(g_g.gc?'&gc='+g_g.gc:'')+
+(g_g.cid?'&cid='+g_g.cid:'')+
+(g_g.query?'&sq='+g_g.query:'')+
+(g_g.a!==fE?'&a':'')+
+(g_g.z!==fE?'&z':'')+
+(g_g.z_ds!==fE?'&z_ds':'')+
+(g_g.z_dzp!==fE?'&z_dzp':'')+
+(g_g.r_s!==fE?'&r_s='+g_g.r_s:'')+
+(g_g.r_d!==fE?'&r_d='+g_g.r_d:'')+'&rw='+hH.width+'&rh='+hH.height+
+(g_g.r_ww!==fE?'&ww='+g_g.r_ww:'&ww='+(bO.innerWidth||bq.documentElement.clientWidth||gn.clientWidth))+
+(g_g.r_wh!==fE?'&wh='+g_g.r_wh:'&wh='+(bO.innerHeight||bq.documentElement.clientHeight||gn.clientHeight));gn.appendChild(hM);})();</script>
+</body>
+</html>

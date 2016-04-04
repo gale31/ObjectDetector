@@ -1,0 +1,132 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
+  <link rel="alternate" type="application/rss+xml" title="Found Magazine Feed" href="http://foundmagazine.com/feed/">
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+  <title>Page not found | Found Magazine</title>
+<link rel='stylesheet' id='roots_css-css'  href='http://foundmagazine.com/wp-content/themes/found/assets/css/main.min.css?47e35a0c293ae8b83b1d5bea56421d5f' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://foundmagazine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://foundmagazine.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.10" />
+</head>
+<body class="error404">
+
+  <!--[if lt IE 8]>
+    <div class="alert alert-warning">
+      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.    </div>
+  <![endif]-->
+
+  <header class="banner navbar navbar-default navbar-static-top" role="banner">
+    <a href="/" class="logo">
+      <img src="http://foundmagazine.com/wp-content/themes/found/assets/img/found_logo.png"/>
+    </a>
+    <div class="social">
+      <ul>
+        <li><a target="_blank" class="facebook" href="https://www.facebook.com/foundmagazine"></a></li>
+        <li><a target="_blank" class="twitter" href="https://twitter.com/FOUNDmag"></a></li>
+        <li><a target="_blank" class="instagram" href="https://www.instagram.com/found_zine/"></a></li>
+      </ul>
+      <div id="urlarea"></div>
+    </div>
+    <div class="white-border"></div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <nav class="collapse navbar-collapse" role="navigation">
+      <ul id="menu-left-navigation" class="nav navbar-nav navbar-left"><li class="dropdown menu-about"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://foundmagazine.com/about/">About <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-who-we-are"><a href="http://foundmagazine.com/who-we-are/">Who We Are</a></li>
+	<li class="menu-contact"><a href="http://foundmagazine.com/contact/">Contact</a></li>
+	<li class="menu-press"><a href="http://foundmagazine.com/press/">Press</a></li>
+	<li class="menu-found-after-dark"><a href="http://foundmagazine.com/about/found-after-dark/">Found After Dark</a></li>
+	<li class="menu-past-events"><a href="http://foundmagazine.com/past-events/">Past Events</a></li>
+</ul>
+</li>
+<li class="dropdown menu-buy-found"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" target="_blank" href="https://store.quackmedia.com/found-magazine/">Buy FOUND <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-buy-online"><a target="_blank" href="http://store.quackmedia.com/found-magazine/">Buy Online</a></li>
+	<li class="menu-at-store"><a href="/locations">At Store</a></li>
+	<li class="menu-the-early-years"><a target="_blank" href="http://store.quackmedia.com/found-the-early-years/">The Early Years</a></li>
+</ul>
+</li>
+</ul><ul id="menu-right-navigation" class="nav navbar-nav navbar-right"><li class="dropdown menu-submit-finds"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="http://foundmagazine.com/submit/">Submit Finds <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-by-mail"><a href="http://foundmagazine.com/by-mail/">By Mail</a></li>
+	<li class="menu-online"><a href="http://foundmagazine.com/submit/">Online</a></li>
+</ul>
+</li>
+<li class="menu-search"><a href="/search">Search</a></li>
+<li class="menu-register"><a href="http://foundmagazine.com/register/">Register</a></li>
+<li class="menu-login"><a href="http://foundmagazine.com/login/">Login</a></li>
+</ul>    </nav>
+
+</header>
+
+  <div class="container-fluid wrap" role="document">
+    <div class="content">
+      <main class="row" role="main">
+        <div class="page-header col-sm-12">
+  <h1>
+    Not Found  </h1>
+</div>
+
+<div class="alert alert-warning">
+  Sorry, but the page you were trying to view does not exist.</div>
+
+<p>It looks like this was the result of either:</p>
+<ul>
+  <li>a mistyped address</li>
+  <li>an out-of-date link</li>
+</ul>
+
+<form role="search" method="get" class="search-form form-inline" action="http://foundmagazine.com/">
+  <label class="sr-only">Search for:</label>
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="Search" required>
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-default">Search</button>
+    </span>
+  </div>
+</form>
+      </main><!-- /.main -->
+    </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  <footer class="content-info" role="contentinfo">
+  <div class="container-fluid">
+  	<div class="row">
+    <div class="col-sm-6">			<div class="textwidget"><p>We collect FOUND stuff: love letter, birthday cards, kids’ homework, to-do lists, ticket stubs, poetry on napkins, receipts, doodles - anything that gives a glimpse into someone else’s life. Anything goes...</p>
+<p>For suggestions, hellos, or questions about events, advertising, special projects and the like, feel free to email us at <a class="email" href="mailto: info@foundmagazine.com">info@foundmagazine.com</a>.  </p>
+</div>
+		</div>    <div class="col-sm-4 email-finds">			<div class="textwidget"><form class="sign-up-email" action="http://ymlp.com/subscribe.php?YMLPID=gymyssgmgs" target="_blank" method="post">
+  <div class="form-group">
+    <label class="sr-only" for="signUpFooter">Email address</label>
+    <input type="email" class="form-control" id="signUpFooter" placeholder="Enter email" name="YMP0">
+  </div>
+  <button type="submit" class="found-button-black btn btn-block btn-default">Join our email list</button>
+</form></div>
+		</div>    <div class="col-sm-2 send-finds-txt">			<div class="textwidget"><p><strong>SEND US YOUR FINDS:</strong></p>
+<p>FOUND Magazine<br />
+3455 Charing Cross Rd.<br />
+Ann Arbor, MI 48108</p>
+</div>
+		</div>    </div>
+  </div>
+</footer>
+  <script type='text/javascript' src='http://foundmagazine.com/wp-content/themes/found/assets/js/vendor/modernizr.min.js'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script>window.jQuery || document.write('<script src="http://foundmagazine.com/wp-content/themes/found/assets/vendor/jquery/dist/jquery.min.js?1.11.1"><\/script>')</script>
+<script type='text/javascript' src='http://foundmagazine.com/wp-content/themes/found/assets/js/scripts.min.js?1788f41beb8c26e9d1b016633a6b8ff6'></script>
+</body>
+</html>
