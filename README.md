@@ -1,0 +1,3 @@
+# ObjectDetector
+
+ObjectDetector uses OpenCV Haar cascade classifiers to detect different objects in images and videos with Python. For now, this repository includes my trained haar cascade classifier for detecting cars (using https://goo.gl/qS5rUD) , the default haar cascade classifier for human faces (haarcascade_frontalface_default), a classifier for bananas from CodingRobin (http://goo.gl/FlwRgC) and a classifier for wallclocks (http://goo.gl/X9eU88) which are used and tested in programs, detecting the objects from image/video, comparison between different human body parts classifiers and some other programs, which (will) help training the classifiers (for example, a program downloading the "cat box" synset images from ImageNet).
