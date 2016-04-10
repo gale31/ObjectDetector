@@ -9,16 +9,13 @@ cascPath = sys.argv[2]
 video_object = cv2.VideoCapture(videoPath)
 bananaCascade = cv2.CascadeClassifier(cascPath)
 
-i = 1
 j = 1
-
 success = True
 while success:
     success,frame = video_object.read()
     if success:
-        pathw = "/Users/Gale/Documents/ObjectDetector/return-banana/shots/tmpcadur.bmp"
+        pathw = "/Users/Gale/Documents/ObjectDetector/return-banana/tmpcadur.bmp"
         cv2.imwrite(pathw, frame)
-        i = i + 1
         imagePath = pathw;
         
         image = cv2.imread(imagePath)

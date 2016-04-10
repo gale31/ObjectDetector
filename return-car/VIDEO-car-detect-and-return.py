@@ -9,16 +9,13 @@ cascPath = sys.argv[2]
 video_object = cv2.VideoCapture(videoPath)
 carCascade = cv2.CascadeClassifier(cascPath)
 
-i = 1
 j = 1
-
 success = True
 while success:
     success,frame = video_object.read()
     if success:
-        pathw = "/Users/Gale/Documents/ObjectDetector/return-car/shots/ctmpcadur.bmp"
+        pathw = "/Users/Gale/Documents/ObjectDetector/return-face/tmpcadur.bmp"
         cv2.imwrite(pathw,frame)
-        i = i + 1
         imagePath = pathw;
         
         image = cv2.imread(imagePath)
@@ -38,5 +35,5 @@ while success:
             imgcrop = image[y:(y+h), x:(x+w)]
             cv2.imwrite("/Users/Gale/Documents/ObjectDetector/return-car/found-cars/car" + str(j) + ".jpg", imgcrop)
             j = j + 1
-
+            
 print("Done!")
