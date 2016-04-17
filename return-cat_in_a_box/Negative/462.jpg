@@ -1,6 +1,0 @@
- <font face="宋体" size=2>
-<p>Microsoft OLE DB Provider for ODBC Drivers</font> <font face="宋体" size=2>错误 '80004005'</font>
-<p>
-<font face="宋体" size=2>[Microsoft][ODBC SQL Server Driver][SQL Server]无法打开登录 'hbjxexp' 中请求的数据库。登录失败。</font>
-<p>
-<font face="宋体" size=2>D:\WWWROOT\SUPPLIERLIST\WWW\../Connections/suplist.asp</font><font face="宋体" size=2>，行 3</font> 
