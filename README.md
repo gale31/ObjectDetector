@@ -12,7 +12,7 @@ Then, I trained my own classifier for cars using the UIUC Image Database for car
 
 <img src= "https://s22.postimg.org/m2hz7fj9t/cars.png" width="600">
 
-And, finally, I trained a classifier for cats in boxes using the ImageNet database (yes, they do have [this](http://www.image-net.org/synset?wnid=n02982515) synset). [Here](https://www.youtube.com/watch?v=FUmQihwrO1g) is a tutorial I did on how to download training images from there. Things about this can be found in the return-catbox folder.
+And, finally, I trained a classifier for cats in boxes using the ImageNet database (yes, they do have [this](http://www.image-net.org/synset?wnid=n02982515) synset). [Here](https://www.youtube.com/watch?v=FUmQihwrO1g) is a tutorial I did on how to download training images from there using Julia. Things about this can be found in the return-catbox folder.
 
 <img src= "https://s22.postimg.org/uu24vdult/catsinboxes.png" width="600">
 
