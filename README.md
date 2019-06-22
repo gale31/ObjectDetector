@@ -4,7 +4,7 @@ ObjectDetector uses OpenCV Haar cascade classifiers to detect different objects 
 
 Firstly, I wrote two programs, which used the default haar cascade classifier for faces to find those in images and video. They are located in the return-face folder. Then I used a classifier for bananas from coding-robin and did the same, which can be found in return-banana. After that I repeated the process with a classifier for wallclocks from Celal Caoyn Elgun. The result can be found in, you guessed it, return-wallclock.
 
-<img src= "https://s18.postimg.org/4dfcndfmx/bananas.png" width="600">
+<img src= "imgur.com/a/8nyWp4K" width="600">
 
 Above are results from a 24 second segment of the youtube video "How to Keep Bananas Fresh for Longer". The detected bananas were 3534, and about 35% of these were fake positives.
 
